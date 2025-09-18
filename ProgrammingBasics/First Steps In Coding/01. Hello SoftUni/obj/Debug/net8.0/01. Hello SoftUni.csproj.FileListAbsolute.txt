@@ -1,0 +1,14 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\bin\Debug\net8.0\01. Hello SoftUni.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\refint\01. Hello SoftUni.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\01. Hello SoftUni.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\01. Hello SoftUni\obj\Debug\net8.0\ref\01. Hello SoftUni.dll

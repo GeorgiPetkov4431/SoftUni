@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD1840A-BE2F-4339-9BB7-62A60B77F527}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\first steps in coding\\04. inches to centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD1840A-BE2F-4339-9BB7-62A60B77F527}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|solutionrelative:04. inches to centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A4332D-8A81-4ECA-8B91-FA6C657D2637}|03. Rectangle Area\\03. Rectangle Area.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\first steps in coding\\03. rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A4332D-8A81-4ECA-8B91-FA6C657D2637}|03. Rectangle Area\\03. Rectangle Area.csproj|solutionrelative:03. rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E7F330C-C009-4D5F-AB88-8738037DC8F0}|01. Hello SoftUni\\01. Hello SoftUni.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\first steps in coding\\01. hello softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E7F330C-C009-4D5F-AB88-8738037DC8F0}|01. Hello SoftUni\\01. Hello SoftUni.csproj|solutionrelative:01. hello softuni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E976FE-68E4-44C8-BB86-299741FC11CC}|02. Nums 1-10\\02. Nums 1-10.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\first steps in coding\\02. nums 1-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E976FE-68E4-44C8-BB86-299741FC11CC}|02. Nums 1-10\\02. Nums 1-10.csproj|solutionrelative:02. nums 1-10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\04. Inches to Centimeters\\Program.cs",
+              "RelativeDocumentMoniker": "04. Inches to Centimeters\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\04. Inches to Centimeters\\Program.cs*",
+              "RelativeToolTip": "04. Inches to Centimeters\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T13:03:07.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\03. Rectangle Area\\Program.cs",
+              "RelativeDocumentMoniker": "03. Rectangle Area\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\03. Rectangle Area\\Program.cs",
+              "RelativeToolTip": "03. Rectangle Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T12:19:04.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\02. Nums 1-10\\Program.cs",
+              "RelativeDocumentMoniker": "02. Nums 1-10\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\02. Nums 1-10\\Program.cs",
+              "RelativeToolTip": "02. Nums 1-10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:55:13.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\01. Hello SoftUni\\Program.cs",
+              "RelativeDocumentMoniker": "01. Hello SoftUni\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\First Steps In Coding\\01. Hello SoftUni\\Program.cs",
+              "RelativeToolTip": "01. Hello SoftUni\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T18:09:11.287Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\bin\Debug\net8.0\4. Fourth Task.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\bin\Debug\net8.0\4. Fourth Task.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\bin\Debug\net8.0\4. Fourth Task.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\bin\Debug\net8.0\4. Fourth Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\bin\Debug\net8.0\4. Fourth Task.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\4. Fourth Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\4. Fourth Task.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\4. Fourth Task.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\4. Fourth Task.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\4. Fourth Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\refint\4. Fourth Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\4. Fourth Task.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\4. Fourth Task.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\4. Fourth Task\obj\Debug\net8.0\ref\4. Fourth Task.dll

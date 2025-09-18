@@ -1,0 +1,14 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\bin\Debug\net8.0\5. Fifth Task.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\bin\Debug\net8.0\5. Fifth Task.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\bin\Debug\net8.0\5. Fifth Task.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\bin\Debug\net8.0\5. Fifth Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\bin\Debug\net8.0\5. Fifth Task.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\5. Fifth Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\5. Fifth Task.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\5. Fifth Task.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\5. Fifth Task.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\5. Fifth Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\refint\5. Fifth Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\5. Fifth Task.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\5. Fifth Task.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\5. Fifth Task\obj\Debug\net8.0\ref\5. Fifth Task.dll

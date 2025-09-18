@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A60FBC-3FB5-428D-BBE5-84FD8AB483A7}|08. Triangle of Numbers\\08. Triangle of Numbers.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\06. strong number\\08. triangle of numbers\\08. triangle of numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{32A60FBC-3FB5-428D-BBE5-84FD8AB483A7}|08. Triangle of Numbers\\08. Triangle of Numbers.csproj|solutionrelative:08. triangle of numbers\\08. triangle of numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A60FBC-3FB5-428D-BBE5-84FD8AB483A7}|08. Triangle of Numbers\\08. Triangle of Numbers.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\06. strong number\\08. triangle of numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A60FBC-3FB5-428D-BBE5-84FD8AB483A7}|08. Triangle of Numbers\\08. Triangle of Numbers.csproj|solutionrelative:08. triangle of numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09545B1D-F4CB-4862-B79A-4684246EA4BB}|Basic Syntax, Conditional Statements and Loops - Exercise\\Basic Syntax, Conditional Statements and Loops - Exercise.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\06. strong number\\basic syntax, conditional statements and loops - exercise\\basic syntax, conditional statements and loops - exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09545B1D-F4CB-4862-B79A-4684246EA4BB}|Basic Syntax, Conditional Statements and Loops - Exercise\\Basic Syntax, Conditional Statements and Loops - Exercise.csproj|solutionrelative:basic syntax, conditional statements and loops - exercise\\basic syntax, conditional statements and loops - exercise.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEFF35F-0D46-4FDE-9162-2044ED802E35}|07. Vending Machine\\07. Vending Machine.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\06. strong number\\07. vending machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEFF35F-0D46-4FDE-9162-2044ED802E35}|07. Vending Machine\\07. Vending Machine.csproj|solutionrelative:07. vending machine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEFF35F-0D46-4FDE-9162-2044ED802E35}|07. Vending Machine\\07. Vending Machine.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\06. strong number\\07. vending machine\\07. vending machine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBEFF35F-0D46-4FDE-9162-2044ED802E35}|07. Vending Machine\\07. Vending Machine.csproj|solutionrelative:07. vending machine\\07. vending machine.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09545B1D-F4CB-4862-B79A-4684246EA4BB}|Basic Syntax, Conditional Statements and Loops - Exercise\\Basic Syntax, Conditional Statements and Loops - Exercise.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\06. strong number\\basic syntax, conditional statements and loops - exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09545B1D-F4CB-4862-B79A-4684246EA4BB}|Basic Syntax, Conditional Statements and Loops - Exercise\\Basic Syntax, Conditional Statements and Loops - Exercise.csproj|solutionrelative:basic syntax, conditional statements and loops - exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08. Triangle of Numbers",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+              "RelativeDocumentMoniker": "08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+              "RelativeToolTip": "08. Triangle of Numbers\\08. Triangle of Numbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-16T16:12:51.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\08. Triangle of Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "08. Triangle of Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\08. Triangle of Numbers\\Program.cs",
+              "RelativeToolTip": "08. Triangle of Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:12:48.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "07. Vending Machine",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\07. Vending Machine\\07. Vending Machine.csproj",
+              "RelativeDocumentMoniker": "07. Vending Machine\\07. Vending Machine.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\07. Vending Machine\\07. Vending Machine.csproj",
+              "RelativeToolTip": "07. Vending Machine\\07. Vending Machine.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-16T15:54:58.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\07. Vending Machine\\Program.cs",
+              "RelativeDocumentMoniker": "07. Vending Machine\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\07. Vending Machine\\Program.cs",
+              "RelativeToolTip": "07. Vending Machine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:54:41.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basic Syntax, Conditional Statements and Loops - Exercise",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\Basic Syntax, Conditional Statements and Loops - Exercise\\Basic Syntax, Conditional Statements and Loops - Exercise.csproj",
+              "RelativeDocumentMoniker": "Basic Syntax, Conditional Statements and Loops - Exercise\\Basic Syntax, Conditional Statements and Loops - Exercise.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\Basic Syntax, Conditional Statements and Loops - Exercise\\Basic Syntax, Conditional Statements and Loops - Exercise.csproj",
+              "RelativeToolTip": "Basic Syntax, Conditional Statements and Loops - Exercise\\Basic Syntax, Conditional Statements and Loops - Exercise.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-16T15:02:52.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\Basic Syntax, Conditional Statements and Loops - Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "Basic Syntax, Conditional Statements and Loops - Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\06. Strong Number\\Basic Syntax, Conditional Statements and Loops - Exercise\\Program.cs",
+              "RelativeToolTip": "Basic Syntax, Conditional Statements and Loops - Exercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:02:33.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

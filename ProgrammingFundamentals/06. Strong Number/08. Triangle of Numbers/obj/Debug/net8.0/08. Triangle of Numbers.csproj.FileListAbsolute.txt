@@ -1,0 +1,14 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\bin\Debug\net8.0\08. Triangle of Numbers.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\bin\Debug\net8.0\08. Triangle of Numbers.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\bin\Debug\net8.0\08. Triangle of Numbers.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\bin\Debug\net8.0\08. Triangle of Numbers.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\bin\Debug\net8.0\08. Triangle of Numbers.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\08. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\08. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\08. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\08. Triangle of Numbers.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\refint\08. Triangle of Numbers.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\08. Triangle of Numbers.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\08. Triangle of Numbers.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\06. Strong Number\08. Triangle of Numbers\obj\Debug\net8.0\ref\08. Triangle of Numbers.dll

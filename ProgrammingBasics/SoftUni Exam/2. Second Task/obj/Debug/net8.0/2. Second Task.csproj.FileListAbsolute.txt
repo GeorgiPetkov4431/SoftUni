@@ -1,0 +1,14 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\bin\Debug\net8.0\2. Second Task.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\bin\Debug\net8.0\2. Second Task.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\bin\Debug\net8.0\2. Second Task.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\bin\Debug\net8.0\2. Second Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\bin\Debug\net8.0\2. Second Task.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\2. Second Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\2. Second Task.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\2. Second Task.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\2. Second Task.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\2. Second Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\refint\2. Second Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\2. Second Task.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\2. Second Task.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\2. Second Task\obj\Debug\net8.0\ref\2. Second Task.dll

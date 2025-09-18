@@ -1,0 +1,14 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\bin\Debug\net8.0\04. Inches to Centimeters.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\refint\04. Inches to Centimeters.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\04. Inches to Centimeters.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\First Steps In Coding\04. Inches to Centimeters\obj\Debug\net8.0\ref\04. Inches to Centimeters.dll

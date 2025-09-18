@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CE5454E-9B78-4435-9C7B-662B4757955F}|6. Sixth Task\\6. Sixth Task.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\softuni exam\\6. sixth task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CE5454E-9B78-4435-9C7B-662B4757955F}|6. Sixth Task\\6. Sixth Task.csproj|solutionrelative:6. sixth task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3636F06B-2F64-48FD-9809-2C85C0B125ED}|5. Fifth Task\\5. Fifth Task.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\softuni exam\\5. fifth task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3636F06B-2F64-48FD-9809-2C85C0B125ED}|5. Fifth Task\\5. Fifth Task.csproj|solutionrelative:5. fifth task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C218771B-6509-444E-BBE1-23CBA4DE83E7}|4. Fourth Task\\4. Fourth Task.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\softuni exam\\4. fourth task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C218771B-6509-444E-BBE1-23CBA4DE83E7}|4. Fourth Task\\4. Fourth Task.csproj|solutionrelative:4. fourth task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A9D1E54-7857-4FE2-9667-CAEE0167E183}|3. Third Task\\3. Third Task.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\softuni exam\\3. third task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A9D1E54-7857-4FE2-9667-CAEE0167E183}|3. Third Task\\3. Third Task.csproj|solutionrelative:3. third task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC733DB8-9783-49F7-B48C-4A8AF9E9F25A}|SoftUni Exam\\SoftUni Exam.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\softuni exam\\softuni exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC733DB8-9783-49F7-B48C-4A8AF9E9F25A}|SoftUni Exam\\SoftUni Exam.csproj|solutionrelative:softuni exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B3448A8-B9B2-464A-8176-96786FB74D87}|2. Second Task\\2. Second Task.csproj|c:\\users\\georg\\desktop\\softuni\\programmingbasics\\softuni exam\\2. second task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B3448A8-B9B2-464A-8176-96786FB74D87}|2. Second Task\\2. Second Task.csproj|solutionrelative:2. second task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\6. Sixth Task\\Program.cs",
+              "RelativeDocumentMoniker": "6. Sixth Task\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\6. Sixth Task\\Program.cs",
+              "RelativeToolTip": "6. Sixth Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T20:52:58.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\5. Fifth Task\\Program.cs",
+              "RelativeDocumentMoniker": "5. Fifth Task\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\5. Fifth Task\\Program.cs",
+              "RelativeToolTip": "5. Fifth Task\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T20:41:35.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\4. Fourth Task\\Program.cs",
+              "RelativeDocumentMoniker": "4. Fourth Task\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\4. Fourth Task\\Program.cs",
+              "RelativeToolTip": "4. Fourth Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T20:27:54.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\3. Third Task\\Program.cs",
+              "RelativeDocumentMoniker": "3. Third Task\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\3. Third Task\\Program.cs",
+              "RelativeToolTip": "3. Third Task\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAUwDQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T20:16:48.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\2. Second Task\\Program.cs",
+              "RelativeDocumentMoniker": "2. Second Task\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\2. Second Task\\Program.cs",
+              "RelativeToolTip": "2. Second Task\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T19:58:35.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\SoftUni Exam\\Program.cs",
+              "RelativeDocumentMoniker": "SoftUni Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingBasics\\SoftUni Exam\\SoftUni Exam\\Program.cs",
+              "RelativeToolTip": "SoftUni Exam\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T19:58:04.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

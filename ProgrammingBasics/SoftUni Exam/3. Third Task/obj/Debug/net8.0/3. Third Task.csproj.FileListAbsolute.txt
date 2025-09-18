@@ -1,0 +1,14 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\bin\Debug\net8.0\3. Third Task.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\bin\Debug\net8.0\3. Third Task.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\bin\Debug\net8.0\3. Third Task.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\bin\Debug\net8.0\3. Third Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\bin\Debug\net8.0\3. Third Task.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\3. Third Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\3. Third Task.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\3. Third Task.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\3. Third Task.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\3. Third Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\refint\3. Third Task.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\3. Third Task.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\3. Third Task.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingBasics\SoftUni Exam\3. Third Task\obj\Debug\net8.0\ref\3. Third Task.dll
