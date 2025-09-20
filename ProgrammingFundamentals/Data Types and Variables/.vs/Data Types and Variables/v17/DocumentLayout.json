@@ -39,15 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "03. Elevator",
+              "Title": "03. Elevator.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\03. Elevator\\03. Elevator.csproj",
               "RelativeDocumentMoniker": "03. Elevator\\03. Elevator.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\03. Elevator\\03. Elevator.csproj",
               "RelativeToolTip": "03. Elevator\\03. Elevator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T11:30:07.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T11:30:07.842Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "02. Sum Digits\\02. Sum Digits.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T11:18:03.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T11:18:03.204Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "02. Sum Digits\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T11:17:59.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T11:17:59.544Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "01. Integer Operations\\01. Integer Operations.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T10:51:08.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T10:51:08.488Z"
             },
             {
               "$type": "Document",
