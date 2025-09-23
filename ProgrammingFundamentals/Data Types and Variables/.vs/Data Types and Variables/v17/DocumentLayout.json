@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7371E608-6801-4D64-A306-A7818DF202AC}|06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\06. triples of latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7371E608-6801-4D64-A306-A7818DF202AC}|06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj|solutionrelative:06. triples of latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7371E608-6801-4D64-A306-A7818DF202AC}|06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\06. triples of latin letters\\06. triples of latin letters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7371E608-6801-4D64-A306-A7818DF202AC}|06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj|solutionrelative:06. triples of latin letters\\06. triples of latin letters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69880F4-C012-4899-8810-D9D0EBFABF33}|01. Integer Operations\\01. Integer Operations.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\01. integer operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69880F4-C012-4899-8810-D9D0EBFABF33}|01. Integer Operations\\01. Integer Operations.csproj|solutionrelative:01. integer operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69880F4-C012-4899-8810-D9D0EBFABF33}|01. Integer Operations\\01. Integer Operations.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\01. integer operations\\01. integer operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F69880F4-C012-4899-8810-D9D0EBFABF33}|01. Integer Operations\\01. Integer Operations.csproj|solutionrelative:01. integer operations\\01. integer operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE5C50F-1F74-4CC8-93D5-EB5192E4DF9D}|05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\05. print part of the ascii table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCE5C50F-1F74-4CC8-93D5-EB5192E4DF9D}|05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj|solutionrelative:05. print part of the ascii table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCE5C50F-1F74-4CC8-93D5-EB5192E4DF9D}|05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\05. print part of the ascii table\\05. print part of the ascii table.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CCE5C50F-1F74-4CC8-93D5-EB5192E4DF9D}|05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj|solutionrelative:05. print part of the ascii table\\05. print part of the ascii table.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C02BBD6E-507A-419A-9A29-89CDDAED17DD}|04. Sum of Chars\\04. Sum of Chars.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\04. sum of chars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C02BBD6E-507A-419A-9A29-89CDDAED17DD}|04. Sum of Chars\\04. Sum of Chars.csproj|solutionrelative:04. sum of chars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{580BEF9C-95F9-40A5-B1F1-264BF1C09FA5}|02. Sum Digits\\02. Sum Digits.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\02. sum digits\\02. sum digits.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{580BEF9C-95F9-40A5-B1F1-264BF1C09FA5}|02. Sum Digits\\02. Sum Digits.csproj|solutionrelative:02. sum digits\\02. sum digits.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69880F4-C012-4899-8810-D9D0EBFABF33}|01. Integer Operations\\01. Integer Operations.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\01. integer operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69880F4-C012-4899-8810-D9D0EBFABF33}|01. Integer Operations\\01. Integer Operations.csproj|solutionrelative:01. integer operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69880F4-C012-4899-8810-D9D0EBFABF33}|01. Integer Operations\\01. Integer Operations.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\01. integer operations\\01. integer operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F69880F4-C012-4899-8810-D9D0EBFABF33}|01. Integer Operations\\01. Integer Operations.csproj|solutionrelative:01. integer operations\\01. integer operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,19 +63,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "04. Sum of Chars",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\04. Sum of Chars.csproj",
-              "RelativeDocumentMoniker": "04. Sum of Chars\\04. Sum of Chars.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\04. Sum of Chars.csproj",
-              "RelativeToolTip": "04. Sum of Chars\\04. Sum of Chars.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Title": "06. Triples of Latin Letters",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+              "RelativeDocumentMoniker": "06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+              "RelativeToolTip": "06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-22T23:58:48.634Z",
+              "WhenOpened": "2025-09-23T00:09:09.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\Program.cs",
+              "RelativeDocumentMoniker": "06. Triples of Latin Letters\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\Program.cs",
+              "RelativeToolTip": "06. Triples of Latin Letters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:08:52.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "05. Print Part of the ASCII Table",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
+              "RelativeDocumentMoniker": "05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
+              "RelativeToolTip": "05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T00:05:46.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\Program.cs",
+              "RelativeDocumentMoniker": "05. Print Part of the ASCII Table\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\Program.cs",
+              "RelativeToolTip": "05. Print Part of the ASCII Table\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T00:05:34.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\Program.cs",
               "RelativeDocumentMoniker": "04. Sum of Chars\\Program.cs",
@@ -72,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "03. Elevator.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\03. Elevator\\03. Elevator.csproj",
               "RelativeDocumentMoniker": "03. Elevator\\03. Elevator.csproj",
@@ -85,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\03. Elevator\\Program.cs",
               "RelativeDocumentMoniker": "03. Elevator\\Program.cs",
@@ -93,37 +148,11 @@
               "RelativeToolTip": "03. Elevator\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T11:29:55.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T11:29:55.724Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "02. Sum Digits.csproj",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
-              "RelativeDocumentMoniker": "02. Sum Digits\\02. Sum Digits.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
-              "RelativeToolTip": "02. Sum Digits\\02. Sum Digits.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T11:18:03.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\Program.cs",
-              "RelativeDocumentMoniker": "02. Sum Digits\\Program.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\Program.cs",
-              "RelativeToolTip": "02. Sum Digits\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T11:17:59.544Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "01. Integer Operations.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\01. Integer Operations\\01. Integer Operations.csproj",
               "RelativeDocumentMoniker": "01. Integer Operations\\01. Integer Operations.csproj",
@@ -136,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\01. Integer Operations\\Program.cs",
               "RelativeDocumentMoniker": "01. Integer Operations\\Program.cs",
@@ -144,7 +173,46 @@
               "RelativeToolTip": "01. Integer Operations\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T10:50:56.67Z"
+              "WhenOpened": "2025-09-20T10:50:56.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "04. Sum of Chars.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\04. Sum of Chars.csproj",
+              "RelativeDocumentMoniker": "04. Sum of Chars\\04. Sum of Chars.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\04. Sum of Chars.csproj",
+              "RelativeToolTip": "04. Sum of Chars\\04. Sum of Chars.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-22T23:58:48.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "02. Sum Digits.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
+              "RelativeDocumentMoniker": "02. Sum Digits\\02. Sum Digits.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
+              "RelativeToolTip": "02. Sum Digits\\02. Sum Digits.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T11:18:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\Program.cs",
+              "RelativeDocumentMoniker": "02. Sum Digits\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\Program.cs",
+              "RelativeToolTip": "02. Sum Digits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:17:59.544Z"
             }
           ]
         }
