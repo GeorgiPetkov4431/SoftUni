@@ -63,15 +63,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "06. Triples of Latin Letters",
+              "Title": "06. Triples of Latin Letters.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
               "RelativeDocumentMoniker": "06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
               "RelativeToolTip": "06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-23T00:09:09.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T00:09:09.982Z"
             },
             {
               "$type": "Document",
@@ -81,7 +80,7 @@
               "RelativeDocumentMoniker": "06. Triples of Latin Letters\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\Program.cs",
               "RelativeToolTip": "06. Triples of Latin Letters\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T00:08:52.61Z",
               "EditorCaption": ""
@@ -89,15 +88,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "05. Print Part of the ASCII Table",
+              "Title": "05. Print Part of the ASCII Table.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
               "RelativeDocumentMoniker": "05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
               "RelativeToolTip": "05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-23T00:05:46.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T00:05:46.357Z"
             },
             {
               "$type": "Document",
@@ -109,8 +107,7 @@
               "RelativeToolTip": "05. Print Part of the ASCII Table\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T00:05:34.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T00:05:34.787Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "04. Sum of Chars\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T23:58:32.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T23:58:32.592Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "03. Elevator\\03. Elevator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T11:30:07.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T11:30:07.842Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "01. Integer Operations\\01. Integer Operations.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T10:51:08.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T10:51:08.488Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "01. Integer Operations\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T10:50:56.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T10:50:56.67Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "04. Sum of Chars\\04. Sum of Chars.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-22T23:58:48.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-22T23:58:48.634Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "02. Sum Digits\\02. Sum Digits.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T11:18:03.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T11:18:03.204Z"
             },
             {
               "$type": "Document",
