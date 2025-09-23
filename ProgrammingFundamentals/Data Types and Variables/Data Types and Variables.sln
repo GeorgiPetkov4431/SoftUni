@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum Digits", "02. Sum D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Elevator", "03. Elevator\03. Elevator.csproj", "{2BD10858-B427-49EE-B3DB-12C3AD854088}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum of Chars", "04. Sum of Chars\04. Sum of Chars.csproj", "{C02BBD6E-507A-419A-9A29-89CDDAED17DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2BD10858-B427-49EE-B3DB-12C3AD854088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD10858-B427-49EE-B3DB-12C3AD854088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD10858-B427-49EE-B3DB-12C3AD854088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C02BBD6E-507A-419A-9A29-89CDDAED17DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02BBD6E-507A-419A-9A29-89CDDAED17DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02BBD6E-507A-419A-9A29-89CDDAED17DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02BBD6E-507A-419A-9A29-89CDDAED17DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
