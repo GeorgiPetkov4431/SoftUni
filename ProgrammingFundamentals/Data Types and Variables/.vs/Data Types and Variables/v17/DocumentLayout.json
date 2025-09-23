@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E3FD1923-3FDD-457A-A0E7-4C192E746566}|10. Pokemon\\10. Pokemon.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\10. pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3FD1923-3FDD-457A-A0E7-4C192E746566}|10. Pokemon\\10. Pokemon.csproj|solutionrelative:10. pokemon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3FD1923-3FDD-457A-A0E7-4C192E746566}|10. Pokemon\\10. Pokemon.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\10. pokemon\\10. pokemon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3FD1923-3FDD-457A-A0E7-4C192E746566}|10. Pokemon\\10. Pokemon.csproj|solutionrelative:10. pokemon\\10. pokemon.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86BB6248-6477-4665-9002-09B071DE8E78}|09. Spice Must Flow\\09. Spice Must Flow.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\09. spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86BB6248-6477-4665-9002-09B071DE8E78}|09. Spice Must Flow\\09. Spice Must Flow.csproj|solutionrelative:09. spice must flow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,7 +95,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "09. Spice Must Flow",
+              "Title": "10. Pokemon",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\10. Pokemon\\10. Pokemon.csproj",
+              "RelativeDocumentMoniker": "10. Pokemon\\10. Pokemon.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\10. Pokemon\\10. Pokemon.csproj",
+              "RelativeToolTip": "10. Pokemon\\10. Pokemon.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T17:55:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\10. Pokemon\\Program.cs",
+              "RelativeDocumentMoniker": "10. Pokemon\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\10. Pokemon\\Program.cs",
+              "RelativeToolTip": "10. Pokemon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T17:55:15.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "09. Spice Must Flow.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
               "RelativeDocumentMoniker": "09. Spice Must Flow\\09. Spice Must Flow.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\09. Spice Must Flow\\09. Spice Must Flow.csproj",
@@ -99,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\09. Spice Must Flow\\Program.cs",
               "RelativeDocumentMoniker": "09. Spice Must Flow\\Program.cs",
@@ -112,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "08. Beer Kegs.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\08. Beer Kegs\\08. Beer Kegs.csproj",
               "RelativeDocumentMoniker": "08. Beer Kegs\\08. Beer Kegs.csproj",
@@ -125,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\08. Beer Kegs\\Program.cs",
               "RelativeDocumentMoniker": "08. Beer Kegs\\Program.cs",
@@ -133,12 +167,11 @@
               "RelativeToolTip": "08. Beer Kegs\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T17:00:02.923Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-23T17:00:02.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "07. Water Overflow.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\07. Water Overflow\\07. Water Overflow.csproj",
               "RelativeDocumentMoniker": "07. Water Overflow\\07. Water Overflow.csproj",
@@ -151,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\07. Water Overflow\\Program.cs",
               "RelativeDocumentMoniker": "07. Water Overflow\\Program.cs",
@@ -163,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "06. Triples of Latin Letters.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
               "RelativeDocumentMoniker": "06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
@@ -176,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\Program.cs",
               "RelativeDocumentMoniker": "06. Triples of Latin Letters\\Program.cs",
@@ -188,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "05. Print Part of the ASCII Table.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
               "RelativeDocumentMoniker": "05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
@@ -201,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\Program.cs",
               "RelativeDocumentMoniker": "05. Print Part of the ASCII Table\\Program.cs",
@@ -213,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\Program.cs",
               "RelativeDocumentMoniker": "04. Sum of Chars\\Program.cs",
@@ -225,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "03. Elevator.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\03. Elevator\\03. Elevator.csproj",
               "RelativeDocumentMoniker": "03. Elevator\\03. Elevator.csproj",
@@ -238,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\03. Elevator\\Program.cs",
               "RelativeDocumentMoniker": "03. Elevator\\Program.cs",
@@ -250,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "01. Integer Operations.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\01. Integer Operations\\01. Integer Operations.csproj",
               "RelativeDocumentMoniker": "01. Integer Operations\\01. Integer Operations.csproj",
@@ -263,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\01. Integer Operations\\Program.cs",
               "RelativeDocumentMoniker": "01. Integer Operations\\Program.cs",
@@ -275,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "04. Sum of Chars.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\04. Sum of Chars.csproj",
               "RelativeDocumentMoniker": "04. Sum of Chars\\04. Sum of Chars.csproj",
@@ -288,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "02. Sum Digits.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
               "RelativeDocumentMoniker": "02. Sum Digits\\02. Sum Digits.csproj",
@@ -301,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\Program.cs",
               "RelativeDocumentMoniker": "02. Sum Digits\\Program.cs",
