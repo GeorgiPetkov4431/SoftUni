@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87A8397E-8DB2-43AA-879A-524B4CF68D69}|07. Water Overflow\\07. Water Overflow.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\07. water overflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A8397E-8DB2-43AA-879A-524B4CF68D69}|07. Water Overflow\\07. Water Overflow.csproj|solutionrelative:07. water overflow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A8397E-8DB2-43AA-879A-524B4CF68D69}|07. Water Overflow\\07. Water Overflow.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\07. water overflow\\07. water overflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87A8397E-8DB2-43AA-879A-524B4CF68D69}|07. Water Overflow\\07. Water Overflow.csproj|solutionrelative:07. water overflow\\07. water overflow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7371E608-6801-4D64-A306-A7818DF202AC}|06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\data types and variables\\06. triples of latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7371E608-6801-4D64-A306-A7818DF202AC}|06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj|solutionrelative:06. triples of latin letters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,6 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "07. Water Overflow",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\07. Water Overflow\\07. Water Overflow.csproj",
+              "RelativeDocumentMoniker": "07. Water Overflow\\07. Water Overflow.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\07. Water Overflow\\07. Water Overflow.csproj",
+              "RelativeToolTip": "07. Water Overflow\\07. Water Overflow.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-23T12:08:43.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\07. Water Overflow\\Program.cs",
+              "RelativeDocumentMoniker": "07. Water Overflow\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\07. Water Overflow\\Program.cs",
+              "RelativeToolTip": "07. Water Overflow\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-23T12:08:30.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "06. Triples of Latin Letters.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
               "RelativeDocumentMoniker": "06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
@@ -70,11 +104,12 @@
               "RelativeToolTip": "06. Triples of Latin Letters\\06. Triples of Latin Letters.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-23T00:09:09.982Z"
+              "WhenOpened": "2025-09-23T00:09:09.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\06. Triples of Latin Letters\\Program.cs",
               "RelativeDocumentMoniker": "06. Triples of Latin Letters\\Program.cs",
@@ -87,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "05. Print Part of the ASCII Table.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
               "RelativeDocumentMoniker": "05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
@@ -95,11 +130,12 @@
               "RelativeToolTip": "05. Print Part of the ASCII Table\\05. Print Part of the ASCII Table.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-23T00:05:46.357Z"
+              "WhenOpened": "2025-09-23T00:05:46.357Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\05. Print Part of the ASCII Table\\Program.cs",
               "RelativeDocumentMoniker": "05. Print Part of the ASCII Table\\Program.cs",
@@ -111,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\Program.cs",
               "RelativeDocumentMoniker": "04. Sum of Chars\\Program.cs",
@@ -123,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "03. Elevator.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\03. Elevator\\03. Elevator.csproj",
               "RelativeDocumentMoniker": "03. Elevator\\03. Elevator.csproj",
@@ -131,11 +167,12 @@
               "RelativeToolTip": "03. Elevator\\03. Elevator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T11:30:07.842Z"
+              "WhenOpened": "2025-09-20T11:30:07.842Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\03. Elevator\\Program.cs",
               "RelativeDocumentMoniker": "03. Elevator\\Program.cs",
@@ -147,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "01. Integer Operations.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\01. Integer Operations\\01. Integer Operations.csproj",
               "RelativeDocumentMoniker": "01. Integer Operations\\01. Integer Operations.csproj",
@@ -155,11 +192,12 @@
               "RelativeToolTip": "01. Integer Operations\\01. Integer Operations.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T10:51:08.488Z"
+              "WhenOpened": "2025-09-20T10:51:08.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\01. Integer Operations\\Program.cs",
               "RelativeDocumentMoniker": "01. Integer Operations\\Program.cs",
@@ -171,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "04. Sum of Chars.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\04. Sum of Chars\\04. Sum of Chars.csproj",
               "RelativeDocumentMoniker": "04. Sum of Chars\\04. Sum of Chars.csproj",
@@ -179,11 +217,12 @@
               "RelativeToolTip": "04. Sum of Chars\\04. Sum of Chars.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-22T23:58:48.634Z"
+              "WhenOpened": "2025-09-22T23:58:48.634Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "02. Sum Digits.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\02. Sum Digits.csproj",
               "RelativeDocumentMoniker": "02. Sum Digits\\02. Sum Digits.csproj",
@@ -191,11 +230,12 @@
               "RelativeToolTip": "02. Sum Digits\\02. Sum Digits.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-20T11:18:03.204Z"
+              "WhenOpened": "2025-09-20T11:18:03.204Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Data Types and Variables\\02. Sum Digits\\Program.cs",
               "RelativeDocumentMoniker": "02. Sum Digits\\Program.cs",
