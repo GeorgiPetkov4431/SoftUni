@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\bin\Debug\net8.0\08. Magic Sum.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\refint\08. Magic Sum.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\08. Magic Sum.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\08. Magic Sum\obj\Debug\net8.0\ref\08. Magic Sum.dll

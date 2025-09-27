@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\bin\Debug\net8.0\07. Max Sequence of Equal Elements.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\bin\Debug\net8.0\07. Max Sequence of Equal Elements.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\bin\Debug\net8.0\07. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\bin\Debug\net8.0\07. Max Sequence of Equal Elements.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\bin\Debug\net8.0\07. Max Sequence of Equal Elements.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\07. Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\07. Max Sequence of Equal Elements.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\07. Max Sequence of Equal Elements.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\refint\07. Max Sequence of Equal Elements.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\07. Max Sequence of Equal Elements.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\07. Max Sequence of Equal Elements.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\07. Max Sequence of Equal Elements\obj\Debug\net8.0\ref\07. Max Sequence of Equal Elements.dll
