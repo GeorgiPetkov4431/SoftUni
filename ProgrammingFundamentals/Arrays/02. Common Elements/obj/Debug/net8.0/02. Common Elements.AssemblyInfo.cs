@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Common Elements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28a58d42a6cf4fd9d1786a7bf7849c4374792cfe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f876978bf2ab9f844af73a624353c2abfc2ed6")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Common Elements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Common Elements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
