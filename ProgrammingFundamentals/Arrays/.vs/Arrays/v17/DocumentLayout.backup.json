@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88B1D594-D009-4E3C-81D5-5F34CBC56BD2}|06. Equal Sums\\06. Equal Sums.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\06. equal sums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88B1D594-D009-4E3C-81D5-5F34CBC56BD2}|06. Equal Sums\\06. Equal Sums.csproj|solutionrelative:06. equal sums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4F38A001-04AD-40CC-AB48-9C17EE082889}|05. Top Integers\\05. Top Integers.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\05. top integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F38A001-04AD-40CC-AB48-9C17EE082889}|05. Top Integers\\05. Top Integers.csproj|solutionrelative:05. top integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F38A001-04AD-40CC-AB48-9C17EE082889}|05. Top Integers\\05. Top Integers.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\05. top integers\\05. top integers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4F38A001-04AD-40CC-AB48-9C17EE082889}|05. Top Integers\\05. Top Integers.csproj|solutionrelative:05. top integers\\05. top integers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9DB51B7-AFC8-4C6F-AC45-50CF18710F50}|04. Array Rotation\\04. Array Rotation.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\04. array rotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9DB51B7-AFC8-4C6F-AC45-50CF18710F50}|04. Array Rotation\\04. Array Rotation.csproj|solutionrelative:04. array rotation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88B1D594-D009-4E3C-81D5-5F34CBC56BD2}|06. Equal Sums\\06. Equal Sums.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\06. equal sums\\06. equal sums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88B1D594-D009-4E3C-81D5-5F34CBC56BD2}|06. Equal Sums\\06. Equal Sums.csproj|solutionrelative:06. equal sums\\06. equal sums.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F38A001-04AD-40CC-AB48-9C17EE082889}|05. Top Integers\\05. Top Integers.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\05. top integers\\05. top integers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F38A001-04AD-40CC-AB48-9C17EE082889}|05. Top Integers\\05. Top Integers.csproj|solutionrelative:05. top integers\\05. top integers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9DB51B7-AFC8-4C6F-AC45-50CF18710F50}|04. Array Rotation\\04. Array Rotation.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\04. array rotation\\04. array rotation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -54,8 +62,34 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "05. Top Integers",
+              "DocumentIndex": 3,
+              "Title": "06. Equal Sums",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\06. Equal Sums\\06. Equal Sums.csproj",
+              "RelativeDocumentMoniker": "06. Equal Sums\\06. Equal Sums.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\06. Equal Sums\\06. Equal Sums.csproj",
+              "RelativeToolTip": "06. Equal Sums\\06. Equal Sums.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T19:25:39.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\06. Equal Sums\\Program.cs",
+              "RelativeDocumentMoniker": "06. Equal Sums\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\06. Equal Sums\\Program.cs",
+              "RelativeToolTip": "06. Equal Sums\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T19:25:37.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "05. Top Integers.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\05. Top Integers\\05. Top Integers.csproj",
               "RelativeDocumentMoniker": "05. Top Integers\\05. Top Integers.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\05. Top Integers\\05. Top Integers.csproj",
@@ -67,21 +101,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\05. Top Integers\\Program.cs",
               "RelativeDocumentMoniker": "05. Top Integers\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\05. Top Integers\\Program.cs",
               "RelativeToolTip": "05. Top Integers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T16:02:30.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "04. Array Rotation",
+              "DocumentIndex": 5,
+              "Title": "04. Array Rotation.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\04. Array Rotation\\04. Array Rotation.csproj",
               "RelativeDocumentMoniker": "04. Array Rotation\\04. Array Rotation.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\04. Array Rotation\\04. Array Rotation.csproj",
@@ -99,14 +133,14 @@
               "RelativeDocumentMoniker": "04. Array Rotation\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\04. Array Rotation\\Program.cs",
               "RelativeToolTip": "04. Array Rotation\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T15:43:54.858Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "03. Zig-Zag Arrays.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj",
               "RelativeDocumentMoniker": "03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj",
@@ -119,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\03. Zig-Zag Arrays\\Program.cs",
               "RelativeDocumentMoniker": "03. Zig-Zag Arrays\\Program.cs",
@@ -127,12 +161,11 @@
               "RelativeToolTip": "03. Zig-Zag Arrays\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T15:14:01.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T15:14:01.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "02. Common Elements.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\02. Common Elements\\02. Common Elements.csproj",
               "RelativeDocumentMoniker": "02. Common Elements\\02. Common Elements.csproj",
@@ -145,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\02. Common Elements\\Program.cs",
               "RelativeDocumentMoniker": "02. Common Elements\\Program.cs",
@@ -157,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "01. Train.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\01. Train\\01. Train.csproj",
               "RelativeDocumentMoniker": "01. Train\\01. Train.csproj",
@@ -170,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\01. Train\\Program.cs",
               "RelativeDocumentMoniker": "01. Train\\Program.cs",

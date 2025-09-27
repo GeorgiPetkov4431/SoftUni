@@ -9,15 +9,15 @@ internal class Program
     {
         int[] array = Console.ReadLine().Split().Select(int.Parse).ToArray();
 
-        for (int i = 0; i < array.Length - 1; i++) {
+        for (int i = 0; i < array.Length; i++) {
             bool topInteger = true;
             for (int j = i + 1; j < array.Length; j++) {
                 if (array[i] <= array[j]) {
-                    topInteger = false; break;
+                    topInteger = false;
+                    break;
                 }
             }
             if (topInteger) Console.Write($"{array[i]} ");
         }
-        Console.Write(array[array.Length - 1]);
     }
 }

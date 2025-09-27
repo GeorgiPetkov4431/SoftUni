@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05. Top Integers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70f876978bf2ab9f844af73a624353c2abfc2ed6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79b78e2ce618a454edc8ae8a174f8b7dec665435")]
 [assembly: System.Reflection.AssemblyProductAttribute("05. Top Integers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05. Top Integers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\bin\Debug\net8.0\06. Equal Sums.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\bin\Debug\net8.0\06. Equal Sums.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\bin\Debug\net8.0\06. Equal Sums.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\bin\Debug\net8.0\06. Equal Sums.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\bin\Debug\net8.0\06. Equal Sums.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\06. Equal Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\06. Equal Sums.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\06. Equal Sums.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\06. Equal Sums.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\06. Equal Sums.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\06. Equal Sums.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\refint\06. Equal Sums.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\06. Equal Sums.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\06. Equal Sums.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\06. Equal Sums\obj\Debug\net8.0\ref\06. Equal Sums.dll
