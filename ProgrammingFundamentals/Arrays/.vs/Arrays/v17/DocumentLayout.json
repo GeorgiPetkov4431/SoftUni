@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D7540D-5BF2-448D-B844-9AA020DDABD0}|02. Common Elements\\02. Common Elements.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\02. common elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D7540D-5BF2-448D-B844-9AA020DDABD0}|02. Common Elements\\02. Common Elements.csproj|solutionrelative:02. common elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D7540D-5BF2-448D-B844-9AA020DDABD0}|02. Common Elements\\02. Common Elements.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\02. common elements\\02. common elements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78D7540D-5BF2-448D-B844-9AA020DDABD0}|02. Common Elements\\02. Common Elements.csproj|solutionrelative:02. common elements\\02. common elements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BBC03B-37C8-4929-B87F-4D2E2B4B0246}|01. Train\\01. Train.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08BBC03B-37C8-4929-B87F-4D2E2B4B0246}|01. Train\\01. Train.csproj|solutionrelative:01. train\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08BBC03B-37C8-4929-B87F-4D2E2B4B0246}|01. Train\\01. Train.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\01. train\\01. train.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08BBC03B-37C8-4929-B87F-4D2E2B4B0246}|01. Train\\01. Train.csproj|solutionrelative:01. train\\01. train.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "02. Common Elements",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\02. Common Elements\\02. Common Elements.csproj",
+              "RelativeDocumentMoniker": "02. Common Elements\\02. Common Elements.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\02. Common Elements\\02. Common Elements.csproj",
+              "RelativeToolTip": "02. Common Elements\\02. Common Elements.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T15:01:41.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\02. Common Elements\\Program.cs",
+              "RelativeDocumentMoniker": "02. Common Elements\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\02. Common Elements\\Program.cs",
+              "RelativeToolTip": "02. Common Elements\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T15:01:39.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "01. Train",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\01. Train\\01. Train.csproj",
+              "RelativeDocumentMoniker": "01. Train\\01. Train.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\01. Train\\01. Train.csproj",
+              "RelativeToolTip": "01. Train\\01. Train.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T14:59:35.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\01. Train\\Program.cs",
+              "RelativeDocumentMoniker": "01. Train\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\01. Train\\Program.cs",
+              "RelativeToolTip": "01. Train\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T14:59:27.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
