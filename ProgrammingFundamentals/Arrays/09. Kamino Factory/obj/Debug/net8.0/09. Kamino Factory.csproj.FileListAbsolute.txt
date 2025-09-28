@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\bin\Debug\net8.0\09. Kamino Factory.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\bin\Debug\net8.0\09. Kamino Factory.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\bin\Debug\net8.0\09. Kamino Factory.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\bin\Debug\net8.0\09. Kamino Factory.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\bin\Debug\net8.0\09. Kamino Factory.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\09. Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\09. Kamino Factory.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\09. Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\09. Kamino Factory.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\09. Kamino Factory.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\refint\09. Kamino Factory.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\09. Kamino Factory.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\09. Kamino Factory.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Arrays\09. Kamino Factory\obj\Debug\net8.0\ref\09. Kamino Factory.dll

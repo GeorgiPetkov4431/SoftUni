@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F23F9213-3835-4445-A2C0-5282F040BB31}|08. Magic Sum\\08. Magic Sum.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\08. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F23F9213-3835-4445-A2C0-5282F040BB31}|08. Magic Sum\\08. Magic Sum.csproj|solutionrelative:08. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B10B4EA-4228-4E2A-BABD-72C2FDCD53D1}|10. LadyBugs\\10. LadyBugs.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\10. ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B10B4EA-4228-4E2A-BABD-72C2FDCD53D1}|10. LadyBugs\\10. LadyBugs.csproj|solutionrelative:10. ladybugs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F23F9213-3835-4445-A2C0-5282F040BB31}|08. Magic Sum\\08. Magic Sum.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\08. magic sum\\08. magic sum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F23F9213-3835-4445-A2C0-5282F040BB31}|08. Magic Sum\\08. Magic Sum.csproj|solutionrelative:08. magic sum\\08. magic sum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D0052651-680E-4327-B72B-87CDF59EA7EF}|09. Kamino Factory\\09. Kamino Factory.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\09. kamino factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0052651-680E-4327-B72B-87CDF59EA7EF}|09. Kamino Factory\\09. Kamino Factory.csproj|solutionrelative:09. kamino factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14172610-E341-4409-83C6-23065628E972}|07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\07. max sequence of equal elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{14172610-E341-4409-83C6-23065628E972}|07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj|solutionrelative:07. max sequence of equal elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B10B4EA-4228-4E2A-BABD-72C2FDCD53D1}|10. LadyBugs\\10. LadyBugs.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\10. ladybugs\\10. ladybugs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B10B4EA-4228-4E2A-BABD-72C2FDCD53D1}|10. LadyBugs\\10. LadyBugs.csproj|solutionrelative:10. ladybugs\\10. ladybugs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23F9213-3835-4445-A2C0-5282F040BB31}|08. Magic Sum\\08. Magic Sum.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\08. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F23F9213-3835-4445-A2C0-5282F040BB31}|08. Magic Sum\\08. Magic Sum.csproj|solutionrelative:08. magic sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0052651-680E-4327-B72B-87CDF59EA7EF}|09. Kamino Factory\\09. Kamino Factory.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\09. kamino factory\\09. kamino factory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D0052651-680E-4327-B72B-87CDF59EA7EF}|09. Kamino Factory\\09. Kamino Factory.csproj|solutionrelative:09. kamino factory\\09. kamino factory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F23F9213-3835-4445-A2C0-5282F040BB31}|08. Magic Sum\\08. Magic Sum.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\08. magic sum\\08. magic sum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F23F9213-3835-4445-A2C0-5282F040BB31}|08. Magic Sum\\08. Magic Sum.csproj|solutionrelative:08. magic sum\\08. magic sum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14172610-E341-4409-83C6-23065628E972}|07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\arrays\\07. max sequence of equal elements\\07. max sequence of equal elements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -74,12 +90,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "09. Kamino Factory.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\09. Kamino Factory\\09. Kamino Factory.csproj",
+              "RelativeDocumentMoniker": "09. Kamino Factory\\09. Kamino Factory.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\09. Kamino Factory\\09. Kamino Factory.csproj",
+              "RelativeToolTip": "09. Kamino Factory\\09. Kamino Factory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T22:13:24.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "08. Magic Sum",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\09. Kamino Factory\\Program.cs",
+              "RelativeDocumentMoniker": "09. Kamino Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\09. Kamino Factory\\Program.cs",
+              "RelativeToolTip": "09. Kamino Factory\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwDgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T22:13:10.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "08. Magic Sum.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\08. Magic Sum\\08. Magic Sum.csproj",
               "RelativeDocumentMoniker": "08. Magic Sum\\08. Magic Sum.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\08. Magic Sum\\08. Magic Sum.csproj",
@@ -91,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\08. Magic Sum\\Program.cs",
               "RelativeDocumentMoniker": "08. Magic Sum\\Program.cs",
@@ -99,13 +141,12 @@
               "RelativeToolTip": "08. Magic Sum\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T22:01:17.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T22:01:17.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "07. Max Sequence of Equal Elements",
+              "DocumentIndex": 7,
+              "Title": "07. Max Sequence of Equal Elements.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
               "RelativeDocumentMoniker": "07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\07. Max Sequence of Equal Elements\\07. Max Sequence of Equal Elements.csproj",
@@ -123,14 +164,40 @@
               "RelativeDocumentMoniker": "07. Max Sequence of Equal Elements\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\07. Max Sequence of Equal Elements\\Program.cs",
               "RelativeToolTip": "07. Max Sequence of Equal Elements\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-27T19:59:47.476Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\10. LadyBugs\\Program.cs",
+              "RelativeDocumentMoniker": "10. LadyBugs\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\10. LadyBugs\\Program.cs",
+              "RelativeToolTip": "10. LadyBugs\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T22:20:19.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "10. LadyBugs.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\10. LadyBugs\\10. LadyBugs.csproj",
+              "RelativeDocumentMoniker": "10. LadyBugs\\10. LadyBugs.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\10. LadyBugs\\10. LadyBugs.csproj",
+              "RelativeToolTip": "10. LadyBugs\\10. LadyBugs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-27T22:20:25.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "06. Equal Sums.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\06. Equal Sums\\06. Equal Sums.csproj",
               "RelativeDocumentMoniker": "06. Equal Sums\\06. Equal Sums.csproj",
@@ -143,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\06. Equal Sums\\Program.cs",
               "RelativeDocumentMoniker": "06. Equal Sums\\Program.cs",
@@ -151,12 +218,11 @@
               "RelativeToolTip": "06. Equal Sums\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAYwB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T19:25:37.048Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-27T19:25:37.048Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "05. Top Integers.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\05. Top Integers\\05. Top Integers.csproj",
               "RelativeDocumentMoniker": "05. Top Integers\\05. Top Integers.csproj",
@@ -169,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\05. Top Integers\\Program.cs",
               "RelativeDocumentMoniker": "05. Top Integers\\Program.cs",
@@ -181,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "04. Array Rotation.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\04. Array Rotation\\04. Array Rotation.csproj",
               "RelativeDocumentMoniker": "04. Array Rotation\\04. Array Rotation.csproj",
@@ -194,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\04. Array Rotation\\Program.cs",
               "RelativeDocumentMoniker": "04. Array Rotation\\Program.cs",
@@ -206,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "03. Zig-Zag Arrays.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj",
               "RelativeDocumentMoniker": "03. Zig-Zag Arrays\\03. Zig-Zag Arrays.csproj",
@@ -219,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\03. Zig-Zag Arrays\\Program.cs",
               "RelativeDocumentMoniker": "03. Zig-Zag Arrays\\Program.cs",
@@ -231,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "02. Common Elements.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\02. Common Elements\\02. Common Elements.csproj",
               "RelativeDocumentMoniker": "02. Common Elements\\02. Common Elements.csproj",
@@ -244,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\02. Common Elements\\Program.cs",
               "RelativeDocumentMoniker": "02. Common Elements\\Program.cs",
@@ -256,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "01. Train.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\01. Train\\01. Train.csproj",
               "RelativeDocumentMoniker": "01. Train\\01. Train.csproj",
@@ -269,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Arrays\\01. Train\\Program.cs",
               "RelativeDocumentMoniker": "01. Train\\Program.cs",
