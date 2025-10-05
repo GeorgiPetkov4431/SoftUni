@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A84182BE-BB8A-451B-9D4F-AF4770880F35}|06. Middle Characters\\06. Middle Characters.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\methods\\06. middle characters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84182BE-BB8A-451B-9D4F-AF4770880F35}|06. Middle Characters\\06. Middle Characters.csproj|solutionrelative:06. middle characters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A84182BE-BB8A-451B-9D4F-AF4770880F35}|06. Middle Characters\\06. Middle Characters.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\methods\\06. middle characters\\06. middle characters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A84182BE-BB8A-451B-9D4F-AF4770880F35}|06. Middle Characters\\06. Middle Characters.csproj|solutionrelative:06. middle characters\\06. middle characters.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EF2CF6-DDC7-4068-8F6A-D39AB99FD6C8}|05. Add and Subtract\\05. Add and Subtract.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\methods\\05. add and subtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23EF2CF6-DDC7-4068-8F6A-D39AB99FD6C8}|05. Add and Subtract\\05. Add and Subtract.csproj|solutionrelative:05. add and subtract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23EF2CF6-DDC7-4068-8F6A-D39AB99FD6C8}|05. Add and Subtract\\05. Add and Subtract.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\methods\\05. add and subtract\\05. add and subtract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{23EF2CF6-DDC7-4068-8F6A-D39AB99FD6C8}|05. Add and Subtract\\05. Add and Subtract.csproj|solutionrelative:05. add and subtract\\05. add and subtract.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35788CB8-C40A-4624-9596-D60A2A4D0CA0}|04. Password Validator\\04. Password Validator.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\methods\\04. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35788CB8-C40A-4624-9596-D60A2A4D0CA0}|04. Password Validator\\04. Password Validator.csproj|solutionrelative:04. password validator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,7 +63,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "04. Password Validator",
+              "Title": "06. Middle Characters",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\06. Middle Characters\\06. Middle Characters.csproj",
+              "RelativeDocumentMoniker": "06. Middle Characters\\06. Middle Characters.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\06. Middle Characters\\06. Middle Characters.csproj",
+              "RelativeToolTip": "06. Middle Characters\\06. Middle Characters.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T12:59:16.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\06. Middle Characters\\Program.cs",
+              "RelativeDocumentMoniker": "06. Middle Characters\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\06. Middle Characters\\Program.cs",
+              "RelativeToolTip": "06. Middle Characters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:59:09.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "05. Add and Subtract",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\05. Add and Subtract\\05. Add and Subtract.csproj",
+              "RelativeDocumentMoniker": "05. Add and Subtract\\05. Add and Subtract.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\05. Add and Subtract\\05. Add and Subtract.csproj",
+              "RelativeToolTip": "05. Add and Subtract\\05. Add and Subtract.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-05T12:54:32.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\05. Add and Subtract\\Program.cs",
+              "RelativeDocumentMoniker": "05. Add and Subtract\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\05. Add and Subtract\\Program.cs",
+              "RelativeToolTip": "05. Add and Subtract\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:54:14.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "04. Password Validator.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\04. Password Validator\\04. Password Validator.csproj",
               "RelativeDocumentMoniker": "04. Password Validator\\04. Password Validator.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\04. Password Validator\\04. Password Validator.csproj",
@@ -59,21 +127,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\04. Password Validator\\Program.cs",
               "RelativeDocumentMoniker": "04. Password Validator\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\04. Password Validator\\Program.cs",
               "RelativeToolTip": "04. Password Validator\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAQwCUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAzwCUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T12:35:53.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "03. Characters in Range",
+              "DocumentIndex": 7,
+              "Title": "03. Characters in Range.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\03. Characters in Range\\03. Characters in Range.csproj",
               "RelativeDocumentMoniker": "03. Characters in Range\\03. Characters in Range.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\03. Characters in Range\\03. Characters in Range.csproj",
@@ -85,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\03. Characters in Range\\Program.cs",
               "RelativeDocumentMoniker": "03. Characters in Range\\Program.cs",
@@ -93,13 +161,12 @@
               "RelativeToolTip": "03. Characters in Range\\Program.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T12:29:27.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:29:27.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "02. Vowels Count",
+              "DocumentIndex": 9,
+              "Title": "02. Vowels Count.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\02. Vowels Count\\02. Vowels Count.csproj",
               "RelativeDocumentMoniker": "02. Vowels Count\\02. Vowels Count.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\02. Vowels Count\\02. Vowels Count.csproj",
@@ -111,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\02. Vowels Count\\Program.cs",
               "RelativeDocumentMoniker": "02. Vowels Count\\Program.cs",
@@ -119,13 +186,12 @@
               "RelativeToolTip": "02. Vowels Count\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T12:22:54.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:22:54.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "01. Smallest of Three Numbers",
+              "DocumentIndex": 10,
+              "Title": "01. Smallest of Three Numbers.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj",
               "RelativeDocumentMoniker": "01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj",
@@ -137,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\01. Smallest of Three Numbers\\Program.cs",
               "RelativeDocumentMoniker": "01. Smallest of Three Numbers\\Program.cs",
@@ -145,8 +211,7 @@
               "RelativeToolTip": "01. Smallest of Three Numbers\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T12:19:11.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:19:11.434Z"
             }
           ]
         }
