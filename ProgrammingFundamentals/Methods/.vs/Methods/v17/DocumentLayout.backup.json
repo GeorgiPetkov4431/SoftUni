@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAC6D470-F86A-4F92-9EA6-20D3476CFA73}|10. Top Number\\10. Top Number.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\methods\\10. top number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC6D470-F86A-4F92-9EA6-20D3476CFA73}|10. Top Number\\10. Top Number.csproj|solutionrelative:10. top number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC6D470-F86A-4F92-9EA6-20D3476CFA73}|10. Top Number\\10. Top Number.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\methods\\10. top number\\10. top number.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BAC6D470-F86A-4F92-9EA6-20D3476CFA73}|10. Top Number\\10. Top Number.csproj|solutionrelative:10. top number\\10. top number.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{48BE443D-7E29-42C9-B69C-2EDBBF00B9B8}|09. Palindrome Integers\\09. Palindrome Integers.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\methods\\09. palindrome integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48BE443D-7E29-42C9-B69C-2EDBBF00B9B8}|09. Palindrome Integers\\09. Palindrome Integers.csproj|solutionrelative:09. palindrome integers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,7 +95,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "09. Palindrome Integers",
+              "Title": "10. Top Number",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\10. Top Number\\10. Top Number.csproj",
+              "RelativeDocumentMoniker": "10. Top Number\\10. Top Number.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\10. Top Number\\10. Top Number.csproj",
+              "RelativeToolTip": "10. Top Number\\10. Top Number.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-06T15:36:22.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\10. Top Number\\Program.cs",
+              "RelativeDocumentMoniker": "10. Top Number\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\10. Top Number\\Program.cs",
+              "RelativeToolTip": "10. Top Number\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T15:36:15.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "09. Palindrome Integers.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
               "RelativeDocumentMoniker": "09. Palindrome Integers\\09. Palindrome Integers.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
@@ -99,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\09. Palindrome Integers\\Program.cs",
               "RelativeDocumentMoniker": "09. Palindrome Integers\\Program.cs",
@@ -112,8 +146,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "08. Factorial Division",
+              "DocumentIndex": 5,
+              "Title": "08. Factorial Division.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\08. Factorial Division\\08. Factorial Division.csproj",
               "RelativeDocumentMoniker": "08. Factorial Division\\08. Factorial Division.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\08. Factorial Division\\08. Factorial Division.csproj",
@@ -125,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\08. Factorial Division\\Program.cs",
               "RelativeDocumentMoniker": "08. Factorial Division\\Program.cs",
@@ -133,12 +167,11 @@
               "RelativeToolTip": "08. Factorial Division\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T00:34:24.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T00:34:24.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "07. NxN Matrix.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\07. NxN Matrix\\07. NxN Matrix.csproj",
               "RelativeDocumentMoniker": "07. NxN Matrix\\07. NxN Matrix.csproj",
@@ -151,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\07. NxN Matrix\\Program.cs",
               "RelativeDocumentMoniker": "07. NxN Matrix\\Program.cs",
@@ -159,12 +192,11 @@
               "RelativeToolTip": "07. NxN Matrix\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T13:20:08.33Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T13:20:08.33Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "06. Middle Characters.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\06. Middle Characters\\06. Middle Characters.csproj",
               "RelativeDocumentMoniker": "06. Middle Characters\\06. Middle Characters.csproj",
@@ -177,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\06. Middle Characters\\Program.cs",
               "RelativeDocumentMoniker": "06. Middle Characters\\Program.cs",
@@ -189,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "05. Add and Subtract.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\05. Add and Subtract\\05. Add and Subtract.csproj",
               "RelativeDocumentMoniker": "05. Add and Subtract\\05. Add and Subtract.csproj",
@@ -202,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\05. Add and Subtract\\Program.cs",
               "RelativeDocumentMoniker": "05. Add and Subtract\\Program.cs",
@@ -214,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "04. Password Validator.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\04. Password Validator\\04. Password Validator.csproj",
               "RelativeDocumentMoniker": "04. Password Validator\\04. Password Validator.csproj",
@@ -227,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\04. Password Validator\\Program.cs",
               "RelativeDocumentMoniker": "04. Password Validator\\Program.cs",
@@ -239,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "03. Characters in Range.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\03. Characters in Range\\03. Characters in Range.csproj",
               "RelativeDocumentMoniker": "03. Characters in Range\\03. Characters in Range.csproj",
@@ -252,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\03. Characters in Range\\Program.cs",
               "RelativeDocumentMoniker": "03. Characters in Range\\Program.cs",
@@ -264,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "02. Vowels Count.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\02. Vowels Count\\02. Vowels Count.csproj",
               "RelativeDocumentMoniker": "02. Vowels Count\\02. Vowels Count.csproj",
@@ -277,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\02. Vowels Count\\Program.cs",
               "RelativeDocumentMoniker": "02. Vowels Count\\Program.cs",
@@ -289,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "01. Smallest of Three Numbers.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj",
               "RelativeDocumentMoniker": "01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj",
@@ -302,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\01. Smallest of Three Numbers\\Program.cs",
               "RelativeDocumentMoniker": "01. Smallest of Three Numbers\\Program.cs",
