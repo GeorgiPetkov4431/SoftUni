@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01. Smallest of Three Numbers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+555cf73e1ccfbc92aa395af3f6076dee567ba8d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85ca704b738b92b6c4fb309d7a0ee83723124b1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("01. Smallest of Three Numbers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01. Smallest of Three Numbers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
