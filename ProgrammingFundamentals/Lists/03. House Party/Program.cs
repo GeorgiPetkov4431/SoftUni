@@ -24,7 +24,8 @@ internal class Program
 
     static void AddGuest(List<string> guestList, string guest)
     {
-        if (!guestList.Contains(guest)) guestList.Add(guest);
+        int guestIndex = guestList.FindIndex(e => e == guest);
+        if (guestIndex == -1) guestList.Add(guest);
         else Console.WriteLine($"{guest} is already in the list!");
     }
 

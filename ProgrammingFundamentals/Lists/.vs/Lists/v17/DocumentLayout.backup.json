@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FDB0313-CCB5-49F9-A000-A94A6E681BBE}|04. List Operations\\04. List Operations.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\04. list operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FDB0313-CCB5-49F9-A000-A94A6E681BBE}|04. List Operations\\04. List Operations.csproj|solutionrelative:04. list operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FDB0313-CCB5-49F9-A000-A94A6E681BBE}|04. List Operations\\04. List Operations.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\04. list operations\\04. list operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FDB0313-CCB5-49F9-A000-A94A6E681BBE}|04. List Operations\\04. List Operations.csproj|solutionrelative:04. list operations\\04. list operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC800F9C-F651-42E0-B6EF-B0EB1D114C6C}|03. House Party\\03. House Party.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\03. house party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC800F9C-F651-42E0-B6EF-B0EB1D114C6C}|03. House Party\\03. House Party.csproj|solutionrelative:03. house party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC800F9C-F651-42E0-B6EF-B0EB1D114C6C}|03. House Party\\03. House Party.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\03. house party\\03. house party.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC800F9C-F651-42E0-B6EF-B0EB1D114C6C}|03. House Party\\03. House Party.csproj|solutionrelative:03. house party\\03. house party.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12A5724C-FEFD-4E95-8DD1-C44FD8E1AA77}|02. Change List\\02. Change List.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\02. change list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12A5724C-FEFD-4E95-8DD1-C44FD8E1AA77}|02. Change List\\02. Change List.csproj|solutionrelative:02. change list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,7 +47,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "02. Change List",
+              "Title": "04. List Operations",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\04. List Operations\\04. List Operations.csproj",
+              "RelativeDocumentMoniker": "04. List Operations\\04. List Operations.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\04. List Operations\\04. List Operations.csproj",
+              "RelativeToolTip": "04. List Operations\\04. List Operations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-11T16:54:57.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\04. List Operations\\Program.cs",
+              "RelativeDocumentMoniker": "04. List Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\04. List Operations\\Program.cs",
+              "RelativeToolTip": "04. List Operations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:54:44.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03. House Party",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\03. House Party\\03. House Party.csproj",
+              "RelativeDocumentMoniker": "03. House Party\\03. House Party.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\03. House Party\\03. House Party.csproj",
+              "RelativeToolTip": "03. House Party\\03. House Party.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-11T16:39:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\03. House Party\\Program.cs",
+              "RelativeDocumentMoniker": "03. House Party\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\03. House Party\\Program.cs",
+              "RelativeToolTip": "03. House Party\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wCEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:39:42.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02. Change List.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\02. Change List\\02. Change List.csproj",
               "RelativeDocumentMoniker": "02. Change List\\02. Change List.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\02. Change List\\02. Change List.csproj",
@@ -43,21 +111,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\02. Change List\\Program.cs",
               "RelativeDocumentMoniker": "02. Change List\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\02. Change List\\Program.cs",
               "RelativeToolTip": "02. Change List\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-11T15:19:47.189Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "01. Train",
+              "DocumentIndex": 7,
+              "Title": "01. Train.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\01. Train\\01. Train.csproj",
               "RelativeDocumentMoniker": "01. Train\\01. Train.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\01. Train\\01. Train.csproj",
@@ -69,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\01. Train\\Program.cs",
               "RelativeDocumentMoniker": "01. Train\\Program.cs",
@@ -77,8 +145,7 @@
               "RelativeToolTip": "01. Train\\Program.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvyoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T10:28:43.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T10:28:43.552Z"
             }
           ]
         }

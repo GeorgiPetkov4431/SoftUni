@@ -1,0 +1,50 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace _06._Cards_Game;
+
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        List<int> playerOneDeck = Console.ReadLine().Split().Select(int.Parse).ToList();
+        List<int> playerTwoDeck = Console.ReadLine().Split().Select(int.Parse).ToList();
+
+        while (playerOneDeck.Count > 0 && playerTwoDeck.Count > 0)
+        {
+            int playerOneCard = playerOneDeck[0];
+            int playerTwoCard = playerTwoDeck[0];
+
+            if (playerOneCard > playerTwoCard)
+            {
+                playerOneDeck.RemoveAt(0);
+                playerTwoDeck.RemoveAt(0);
+                playerOneDeck.Add(playerTwoCard);
+                playerOneDeck.Add(playerOneCard);
+            }
+            else if (playerTwoCard > playerOneCard)
+            {
+                playerOneDeck.RemoveAt(0);
+                playerTwoDeck.RemoveAt(0);
+                playerTwoDeck.Add(playerOneCard);
+                playerTwoDeck.Add(playerTwoCard);
+            }
+            else
+            {
+                playerOneDeck.RemoveAt(0);
+                playerTwoDeck.RemoveAt(0);
+            }
+        }
+
+        if (playerOneDeck.Count > 0) Console.WriteLine($"First player wins! Sum: {Sum(playerOneDeck)}");
+        else if (playerTwoDeck.Count > 0) Console.WriteLine($"Second player wins! Sum: {Sum(playerTwoDeck)}");
+        else Console.WriteLine("No player wins! Sum: 0");
+    }
+
+    static int Sum(List<int> list)
+    {
+        int sum = 0;
+        foreach (int i in list) sum += i;
+        return sum;
+    }
+}
