@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. House Party")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+182a1c04be4a2178bd67d6e49a12512a65826c6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af0287f2f6f1fbaaa557dc1efb3fc19e6ff8ceb1")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. House Party")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. House Party")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
