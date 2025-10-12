@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\bin\Debug\net8.0\10. SoftUni Course Planning.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\refint\10. SoftUni Course Planning.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\10. SoftUni Course Planning.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Lists\10. SoftUni Course Planning\obj\Debug\net8.0\ref\10. SoftUni Course Planning.dll
