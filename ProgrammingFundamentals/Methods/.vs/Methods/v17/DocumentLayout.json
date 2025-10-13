@@ -103,15 +103,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "11. Array Manipulator",
+              "Title": "11. Array Manipulator.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\11. Array Manipulator\\11. Array Manipulator.csproj",
               "RelativeDocumentMoniker": "11. Array Manipulator\\11. Array Manipulator.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\11. Array Manipulator\\11. Array Manipulator.csproj",
               "RelativeToolTip": "11. Array Manipulator\\11. Array Manipulator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T15:47:47.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T15:47:47.141Z"
             },
             {
               "$type": "Document",
@@ -121,7 +120,7 @@
               "RelativeDocumentMoniker": "11. Array Manipulator\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Methods\\11. Array Manipulator\\Program.cs",
               "RelativeToolTip": "11. Array Manipulator\\Program.cs",
-              "ViewState": "AgIAAJAAAAAAAAAAAAAYwKYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAiwKYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-06T15:47:39.337Z",
               "EditorCaption": ""
@@ -136,8 +135,7 @@
               "RelativeToolTip": "10. Top Number\\10. Top Number.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T15:36:22.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T15:36:22.918Z"
             },
             {
               "$type": "Document",
@@ -149,8 +147,7 @@
               "RelativeToolTip": "10. Top Number\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAQwBkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T15:36:15.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T15:36:15.311Z"
             },
             {
               "$type": "Document",
@@ -162,8 +159,7 @@
               "RelativeToolTip": "09. Palindrome Integers\\09. Palindrome Integers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T00:42:16.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T00:42:16.839Z"
             },
             {
               "$type": "Document",
@@ -187,8 +183,7 @@
               "RelativeToolTip": "08. Factorial Division\\08. Factorial Division.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-06T00:34:34.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-06T00:34:34.813Z"
             },
             {
               "$type": "Document",
@@ -212,8 +207,7 @@
               "RelativeToolTip": "07. NxN Matrix\\07. NxN Matrix.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T13:20:17.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T13:20:17.037Z"
             },
             {
               "$type": "Document",
@@ -237,8 +231,7 @@
               "RelativeToolTip": "06. Middle Characters\\06. Middle Characters.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T12:59:16.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:59:16.435Z"
             },
             {
               "$type": "Document",
@@ -262,8 +255,7 @@
               "RelativeToolTip": "05. Add and Subtract\\05. Add and Subtract.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T12:54:32.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:54:32.442Z"
             },
             {
               "$type": "Document",
@@ -287,8 +279,7 @@
               "RelativeToolTip": "04. Password Validator\\04. Password Validator.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T12:36:03.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:36:03.151Z"
             },
             {
               "$type": "Document",
@@ -312,8 +303,7 @@
               "RelativeToolTip": "03. Characters in Range\\03. Characters in Range.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T12:29:36.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:29:36.49Z"
             },
             {
               "$type": "Document",
@@ -337,8 +327,7 @@
               "RelativeToolTip": "02. Vowels Count\\02. Vowels Count.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T12:23:02.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:23:02.647Z"
             },
             {
               "$type": "Document",
@@ -362,8 +351,7 @@
               "RelativeToolTip": "01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-05T12:19:28.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T12:19:28.019Z"
             },
             {
               "$type": "Document",
