@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C901FA61-1FE5-4C9A-828F-C3DBDA301B4F}|04. Computer Store\\04. Computer Store.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid exam preparation\\04. computer store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C901FA61-1FE5-4C9A-828F-C3DBDA301B4F}|04. Computer Store\\04. Computer Store.csproj|solutionrelative:04. computer store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C901FA61-1FE5-4C9A-828F-C3DBDA301B4F}|04. Computer Store\\04. Computer Store.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid exam preparation\\04. computer store\\04. computer store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C901FA61-1FE5-4C9A-828F-C3DBDA301B4F}|04. Computer Store\\04. Computer Store.csproj|solutionrelative:04. computer store\\04. computer store.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6193C9C9-59A6-4BF0-9023-C391F43A15CE}|01. Guinea Pig\\01. Guinea Pig.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid exam preparation\\01. guinea pig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6193C9C9-59A6-4BF0-9023-C391F43A15CE}|01. Guinea Pig\\01. Guinea Pig.csproj|solutionrelative:01. guinea pig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A2D4FB-0C1A-4017-BE41-6547B05AE068}|02. The Lift\\02. The Lift.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid exam preparation\\02. the lift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7A2D4FB-0C1A-4017-BE41-6547B05AE068}|02. The Lift\\02. The Lift.csproj|solutionrelative:02. the lift\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF192CC-A643-420F-969F-1A4710D758A3}|03. Moving Target\\03. Moving Target.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid exam preparation\\03. moving target\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FF192CC-A643-420F-969F-1A4710D758A3}|03. Moving Target\\03. Moving Target.csproj|solutionrelative:03. moving target\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FF192CC-A643-420F-969F-1A4710D758A3}|03. Moving Target\\03. Moving Target.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid exam preparation\\03. moving target\\03. moving target.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0FF192CC-A643-420F-969F-1A4710D758A3}|03. Moving Target\\03. Moving Target.csproj|solutionrelative:03. moving target\\03. moving target.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7A2D4FB-0C1A-4017-BE41-6547B05AE068}|02. The Lift\\02. The Lift.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid exam preparation\\02. the lift\\02. the lift.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7A2D4FB-0C1A-4017-BE41-6547B05AE068}|02. The Lift\\02. The Lift.csproj|solutionrelative:02. the lift\\02. the lift.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6193C9C9-59A6-4BF0-9023-C391F43A15CE}|01. Guinea Pig\\01. Guinea Pig.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid exam preparation\\01. guinea pig\\01. guinea pig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6193C9C9-59A6-4BF0-9023-C391F43A15CE}|01. Guinea Pig\\01. Guinea Pig.csproj|solutionrelative:01. guinea pig\\01. guinea pig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "04. Computer Store",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\04. Computer Store\\04. Computer Store.csproj",
+              "RelativeDocumentMoniker": "04. Computer Store\\04. Computer Store.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\04. Computer Store\\04. Computer Store.csproj",
+              "RelativeToolTip": "04. Computer Store\\04. Computer Store.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T19:38:07.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\04. Computer Store\\Program.cs",
+              "RelativeDocumentMoniker": "04. Computer Store\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\04. Computer Store\\Program.cs",
+              "RelativeToolTip": "04. Computer Store\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwB0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T19:37:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03. Moving Target",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\03. Moving Target\\03. Moving Target.csproj",
+              "RelativeDocumentMoniker": "03. Moving Target\\03. Moving Target.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\03. Moving Target\\03. Moving Target.csproj",
+              "RelativeToolTip": "03. Moving Target\\03. Moving Target.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T19:15:11.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\03. Moving Target\\Program.cs",
+              "RelativeDocumentMoniker": "03. Moving Target\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\03. Moving Target\\Program.cs",
+              "RelativeToolTip": "03. Moving Target\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T19:13:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "02. The Lift",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\02. The Lift\\02. The Lift.csproj",
+              "RelativeDocumentMoniker": "02. The Lift\\02. The Lift.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\02. The Lift\\02. The Lift.csproj",
+              "RelativeToolTip": "02. The Lift\\02. The Lift.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T16:25:49.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\02. The Lift\\Program.cs",
+              "RelativeDocumentMoniker": "02. The Lift\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\02. The Lift\\Program.cs",
+              "RelativeToolTip": "02. The Lift\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T16:25:36.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01. Guinea Pig",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\01. Guinea Pig\\01. Guinea Pig.csproj",
+              "RelativeDocumentMoniker": "01. Guinea Pig\\01. Guinea Pig.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\01. Guinea Pig\\01. Guinea Pig.csproj",
+              "RelativeToolTip": "01. Guinea Pig\\01. Guinea Pig.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-18T15:21:58.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\01. Guinea Pig\\Program.cs",
+              "RelativeDocumentMoniker": "01. Guinea Pig\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Exam Preparation\\01. Guinea Pig\\Program.cs",
+              "RelativeToolTip": "01. Guinea Pig\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:21:20.204Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

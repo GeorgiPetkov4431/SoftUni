@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\bin\Debug\net8.0\04. Computer Store.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\bin\Debug\net8.0\04. Computer Store.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\bin\Debug\net8.0\04. Computer Store.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\bin\Debug\net8.0\04. Computer Store.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\bin\Debug\net8.0\04. Computer Store.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\04. Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\04. Computer Store.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\04. Computer Store.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\04. Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\04. Computer Store.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\04. Computer Store.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\refint\04. Computer Store.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\04. Computer Store.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\04. Computer Store.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Exam Preparation\04. Computer Store\obj\Debug\net8.0\ref\04. Computer Store.dll
