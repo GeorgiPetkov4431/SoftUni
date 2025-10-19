@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\bin\Debug\net8.0\02. Friend List Maintenance.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\bin\Debug\net8.0\02. Friend List Maintenance.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\bin\Debug\net8.0\02. Friend List Maintenance.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\bin\Debug\net8.0\02. Friend List Maintenance.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\bin\Debug\net8.0\02. Friend List Maintenance.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\02. Friend List Maintenance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\02. Friend List Maintenance.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\02. Friend List Maintenance.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\02. Friend List Maintenance.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\02. Friend List Maintenance.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\02. Friend List Maintenance.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\refint\02. Friend List Maintenance.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\02. Friend List Maintenance.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\02. Friend List Maintenance.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\02. Friend List Maintenance\obj\Debug\net8.0\ref\02. Friend List Maintenance.dll

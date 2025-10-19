@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\bin\Debug\net8.0\01. Cooking Masterclass.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\bin\Debug\net8.0\01. Cooking Masterclass.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\bin\Debug\net8.0\01. Cooking Masterclass.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\bin\Debug\net8.0\01. Cooking Masterclass.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\bin\Debug\net8.0\01. Cooking Masterclass.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\01. Cooking Masterclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\01. Cooking Masterclass.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\01. Cooking Masterclass.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\01. Cooking Masterclass.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\01. Cooking Masterclass.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\01. Cooking Masterclass.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\refint\01. Cooking Masterclass.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\01. Cooking Masterclass.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\01. Cooking Masterclass.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Mid Practical Exam\01. Cooking Masterclass\obj\Debug\net8.0\ref\01. Cooking Masterclass.dll
