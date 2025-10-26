@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B924EBD8-4DC9-47F5-966A-1BBA310685C9}|02. Friend List Maintenance\\02. Friend List Maintenance.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid practical exam\\02. friend list maintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B924EBD8-4DC9-47F5-966A-1BBA310685C9}|02. Friend List Maintenance\\02. Friend List Maintenance.csproj|solutionrelative:02. friend list maintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{653D2F37-9577-4E5F-BD35-31FD85B619F5}|03. Chat Logger\\03. Chat Logger.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid practical exam\\03. chat logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{653D2F37-9577-4E5F-BD35-31FD85B619F5}|03. Chat Logger\\03. Chat Logger.csproj|solutionrelative:03. chat logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B924EBD8-4DC9-47F5-966A-1BBA310685C9}|02. Friend List Maintenance\\02. Friend List Maintenance.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid practical exam\\02. friend list maintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B924EBD8-4DC9-47F5-966A-1BBA310685C9}|02. Friend List Maintenance\\02. Friend List Maintenance.csproj|solutionrelative:02. friend list maintenance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{653D2F37-9577-4E5F-BD35-31FD85B619F5}|03. Chat Logger\\03. Chat Logger.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\mid practical exam\\03. chat logger\\03. chat logger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\03. Chat Logger\\Program.cs",
               "RelativeDocumentMoniker": "03. Chat Logger\\Program.cs",
@@ -77,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\02. Friend List Maintenance\\Program.cs",
               "RelativeDocumentMoniker": "02. Friend List Maintenance\\Program.cs",

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46D0B6E2-00FF-4451-9610-0BBC5DA72261}|08. Anonymous Threat\\08. Anonymous Threat.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\08. anonymous threat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46D0B6E2-00FF-4451-9610-0BBC5DA72261}|08. Anonymous Threat\\08. Anonymous Threat.csproj|solutionrelative:08. anonymous threat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{964F70FF-B79D-4153-BE14-7CA201EEF1A2}|09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\09. pokemon dont go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{964F70FF-B79D-4153-BE14-7CA201EEF1A2}|09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj|solutionrelative:09. pokemon dont go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2973C32-CC7F-420B-94F1-1E5ED97BB005}|10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\10. softuni course planning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2973C32-CC7F-420B-94F1-1E5ED97BB005}|10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj|solutionrelative:10. softuni course planning\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{39B55178-0D08-4A63-BD4C-92114D3C456A}|01. Train\\01. Train.csproj|solutionrelative:01. train\\01. train.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{964F70FF-B79D-4153-BE14-7CA201EEF1A2}|09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\09. pokemon dont go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{964F70FF-B79D-4153-BE14-7CA201EEF1A2}|09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj|solutionrelative:09. pokemon dont go\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{964F70FF-B79D-4153-BE14-7CA201EEF1A2}|09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\09. pokemon dont go\\09. pokemon dont go.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{964F70FF-B79D-4153-BE14-7CA201EEF1A2}|09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj|solutionrelative:09. pokemon dont go\\09. pokemon dont go.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46D0B6E2-00FF-4451-9610-0BBC5DA72261}|08. Anonymous Threat\\08. Anonymous Threat.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\08. anonymous threat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46D0B6E2-00FF-4451-9610-0BBC5DA72261}|08. Anonymous Threat\\08. Anonymous Threat.csproj|solutionrelative:08. anonymous threat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46D0B6E2-00FF-4451-9610-0BBC5DA72261}|08. Anonymous Threat\\08. Anonymous Threat.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\lists\\08. anonymous threat\\08. anonymous threat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -82,11 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "10. SoftUni Course Planning.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
               "RelativeDocumentMoniker": "10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
@@ -98,20 +98,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\10. SoftUni Course Planning\\Program.cs",
               "RelativeDocumentMoniker": "10. SoftUni Course Planning\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\10. SoftUni Course Planning\\Program.cs",
               "RelativeToolTip": "10. SoftUni Course Planning\\Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwFUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T01:16:28.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "09. Pokemon Dont Go.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj",
               "RelativeDocumentMoniker": "09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj",
@@ -123,27 +123,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\09. Pokemon Dont Go\\Program.cs",
               "RelativeDocumentMoniker": "09. Pokemon Dont Go\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\09. Pokemon Dont Go\\Program.cs",
               "RelativeToolTip": "09. Pokemon Dont Go\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwCIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T01:06:41.84Z"
+              "WhenOpened": "2025-10-12T01:06:41.84Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\08. Anonymous Threat\\Program.cs",
               "RelativeDocumentMoniker": "08. Anonymous Threat\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\08. Anonymous Threat\\Program.cs",
               "RelativeToolTip": "08. Anonymous Threat\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T21:53:17.176Z"
+              "WhenOpened": "2025-10-11T21:53:17.176Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -183,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "01. Train.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\01. Train\\01. Train.csproj",
               "RelativeDocumentMoniker": "01. Train\\01. Train.csproj",

@@ -39,15 +39,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "03. Chat Logger",
+              "Title": "03. Chat Logger.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\03. Chat Logger\\03. Chat Logger.csproj",
               "RelativeDocumentMoniker": "03. Chat Logger\\03. Chat Logger.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\03. Chat Logger\\03. Chat Logger.csproj",
               "RelativeToolTip": "03. Chat Logger\\03. Chat Logger.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T06:37:38.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T06:37:38.172Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "03. Chat Logger\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\03. Chat Logger\\Program.cs",
               "RelativeToolTip": "03. Chat Logger\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-19T06:37:30.095Z",
               "EditorCaption": ""
@@ -65,15 +64,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "02. Friend List Maintenance",
+              "Title": "02. Friend List Maintenance.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\02. Friend List Maintenance\\02. Friend List Maintenance.csproj",
               "RelativeDocumentMoniker": "02. Friend List Maintenance\\02. Friend List Maintenance.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\02. Friend List Maintenance\\02. Friend List Maintenance.csproj",
               "RelativeToolTip": "02. Friend List Maintenance\\02. Friend List Maintenance.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T06:13:18.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T06:13:18.738Z"
             },
             {
               "$type": "Document",
@@ -85,21 +83,19 @@
               "RelativeToolTip": "02. Friend List Maintenance\\Program.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAQwEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T06:13:11.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T06:13:11.854Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "01. Cooking Masterclass",
+              "Title": "01. Cooking Masterclass.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\01. Cooking Masterclass\\01. Cooking Masterclass.csproj",
               "RelativeDocumentMoniker": "01. Cooking Masterclass\\01. Cooking Masterclass.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Mid Practical Exam\\01. Cooking Masterclass\\01. Cooking Masterclass.csproj",
               "RelativeToolTip": "01. Cooking Masterclass\\01. Cooking Masterclass.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-19T06:00:01.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T06:00:01.647Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "01. Cooking Masterclass\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T05:59:50.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T05:59:50.725Z"
             }
           ]
         }

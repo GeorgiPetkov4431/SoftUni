@@ -87,15 +87,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "10. SoftUni Course Planning",
+              "Title": "10. SoftUni Course Planning.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
               "RelativeDocumentMoniker": "10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
               "RelativeToolTip": "10. SoftUni Course Planning\\10. SoftUni Course Planning.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-12T01:16:34.033Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T01:16:34.033Z"
             },
             {
               "$type": "Document",
@@ -105,7 +104,7 @@
               "RelativeDocumentMoniker": "10. SoftUni Course Planning\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\10. SoftUni Course Planning\\Program.cs",
               "RelativeToolTip": "10. SoftUni Course Planning\\Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAQwFoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwFUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T01:16:28.937Z",
               "EditorCaption": ""
@@ -113,15 +112,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "09. Pokemon Dont Go",
+              "Title": "09. Pokemon Dont Go.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj",
               "RelativeDocumentMoniker": "09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Lists\\09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj",
               "RelativeToolTip": "09. Pokemon Dont Go\\09. Pokemon Dont Go.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-12T01:07:00.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T01:07:00.861Z"
             },
             {
               "$type": "Document",
@@ -133,8 +131,7 @@
               "RelativeToolTip": "09. Pokemon Dont Go\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAkwCIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T01:06:41.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T01:06:41.84Z"
             },
             {
               "$type": "Document",
@@ -146,8 +143,7 @@
               "RelativeToolTip": "08. Anonymous Threat\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T21:53:17.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T21:53:17.176Z"
             },
             {
               "$type": "Document",
@@ -183,8 +179,7 @@
               "RelativeToolTip": "05. Bomb Numbers\\05. Bomb Numbers.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-11T17:20:15.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T17:20:15.392Z"
             },
             {
               "$type": "Document",
@@ -196,8 +191,7 @@
               "RelativeToolTip": "01. Train\\01. Train.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-11T10:29:05.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T10:29:05.645Z"
             },
             {
               "$type": "Document",
@@ -209,8 +203,7 @@
               "RelativeToolTip": "08. Anonymous Threat\\08. Anonymous Threat.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-11T21:53:30.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T21:53:30.777Z"
             },
             {
               "$type": "Document",
@@ -234,8 +227,7 @@
               "RelativeToolTip": "04. List Operations\\04. List Operations.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-11T16:54:57.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T16:54:57.942Z"
             },
             {
               "$type": "Document",
@@ -259,8 +251,7 @@
               "RelativeToolTip": "03. House Party\\03. House Party.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-11T16:39:44.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T16:39:44.731Z"
             },
             {
               "$type": "Document",
@@ -284,8 +275,7 @@
               "RelativeToolTip": "02. Change List\\02. Change List.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-11T15:20:09.526Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T15:20:09.526Z"
             },
             {
               "$type": "Document",
