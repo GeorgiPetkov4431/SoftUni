@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51EB2400-FC1E-4A23-B4CD-CC8151CD3774}|04. Students\\04. Students.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51EB2400-FC1E-4A23-B4CD-CC8151CD3774}|04. Students\\04. Students.csproj|solutionrelative:04. students\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51EB2400-FC1E-4A23-B4CD-CC8151CD3774}|04. Students\\04. Students.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\04. students\\04. students.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{51EB2400-FC1E-4A23-B4CD-CC8151CD3774}|04. Students\\04. Students.csproj|solutionrelative:04. students\\04. students.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6608B6D5-BA55-4E16-85CC-A0EEA25D6C1C}|03. Articles 2.0\\03. Articles 2.0.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\03. articles 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6608B6D5-BA55-4E16-85CC-A0EEA25D6C1C}|03. Articles 2.0\\03. Articles 2.0.csproj|solutionrelative:03. articles 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{55A64F1A-977B-4605-9A66-EAAE2BFF8DF4}|02. Articles\\02. Articles.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55A64F1A-977B-4605-9A66-EAAE2BFF8DF4}|02. Articles\\02. Articles.csproj|solutionrelative:02. articles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6608B6D5-BA55-4E16-85CC-A0EEA25D6C1C}|03. Articles 2.0\\03. Articles 2.0.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\03. articles 2.0\\03. articles 2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6608B6D5-BA55-4E16-85CC-A0EEA25D6C1C}|03. Articles 2.0\\03. Articles 2.0.csproj|solutionrelative:03. articles 2.0\\03. articles 2.0.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55A64F1A-977B-4605-9A66-EAAE2BFF8DF4}|02. Articles\\02. Articles.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\02. articles\\02. articles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -31,7 +47,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "02. Articles",
+              "Title": "04. Students",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\04. Students\\04. Students.csproj",
+              "RelativeDocumentMoniker": "04. Students\\04. Students.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\04. Students\\04. Students.csproj",
+              "RelativeToolTip": "04. Students\\04. Students.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T02:06:51.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\04. Students\\Program.cs",
+              "RelativeDocumentMoniker": "04. Students\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\04. Students\\Program.cs",
+              "RelativeToolTip": "04. Students\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T02:06:43.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03. Articles 2.0",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\03. Articles 2.0\\03. Articles 2.0.csproj",
+              "RelativeDocumentMoniker": "03. Articles 2.0\\03. Articles 2.0.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\03. Articles 2.0\\03. Articles 2.0.csproj",
+              "RelativeToolTip": "03. Articles 2.0\\03. Articles 2.0.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T18:25:20.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\03. Articles 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "03. Articles 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\03. Articles 2.0\\Program.cs",
+              "RelativeToolTip": "03. Articles 2.0\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T18:25:13.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "02. Articles.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\02. Articles\\02. Articles.csproj",
               "RelativeDocumentMoniker": "02. Articles\\02. Articles.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\02. Articles\\02. Articles.csproj",
@@ -43,20 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\02. Articles\\Program.cs",
               "RelativeDocumentMoniker": "02. Articles\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\02. Articles\\Program.cs",
               "RelativeToolTip": "02. Articles\\Program.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAqwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAgAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-26T14:40:57.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "01. Advertisement Message.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\01. Advertisement Message\\01. Advertisement Message.csproj",
               "RelativeDocumentMoniker": "01. Advertisement Message\\01. Advertisement Message.csproj",
@@ -69,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\01. Advertisement Message\\Program.cs",
               "RelativeDocumentMoniker": "01. Advertisement Message\\Program.cs",
@@ -77,8 +145,7 @@
               "RelativeToolTip": "01. Advertisement Message\\Program.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwC8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-24T12:19:28.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-24T12:19:28.8Z"
             }
           ]
         }
