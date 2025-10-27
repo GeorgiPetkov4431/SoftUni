@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71A9D1D1-5C18-4079-A12C-DF7824D614DF}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\06. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A9D1D1-5C18-4079-A12C-DF7824D614DF}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|solutionrelative:06. vehicle catalogue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A9D1D1-5C18-4079-A12C-DF7824D614DF}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\06. vehicle catalogue\\06. vehicle catalogue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71A9D1D1-5C18-4079-A12C-DF7824D614DF}|06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj|solutionrelative:06. vehicle catalogue\\06. vehicle catalogue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3FFDF285-ECBA-4244-9988-A18736DE00F8}|05. Teamwork Projects\\05. Teamwork Projects.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\objects and classes\\05. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FFDF285-ECBA-4244-9988-A18736DE00F8}|05. Teamwork Projects\\05. Teamwork Projects.csproj|solutionrelative:05. teamwork projects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,24 +54,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "06. Vehicle Catalogue",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
+              "RelativeDocumentMoniker": "06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
+              "RelativeToolTip": "06. Vehicle Catalogue\\06. Vehicle Catalogue.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T17:34:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\06. Vehicle Catalogue\\Program.cs",
+              "RelativeDocumentMoniker": "06. Vehicle Catalogue\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\06. Vehicle Catalogue\\Program.cs",
+              "RelativeToolTip": "06. Vehicle Catalogue\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T17:34:21.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\05. Teamwork Projects\\Program.cs",
               "RelativeDocumentMoniker": "05. Teamwork Projects\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\05. Teamwork Projects\\Program.cs",
               "RelativeToolTip": "05. Teamwork Projects\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAqwFwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T16:11:16.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "04. Students.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\04. Students\\04. Students.csproj",
               "RelativeDocumentMoniker": "04. Students\\04. Students.csproj",
@@ -71,11 +105,12 @@
               "RelativeToolTip": "04. Students\\04. Students.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-27T02:06:51.611Z"
+              "WhenOpened": "2025-10-27T02:06:51.611Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\04. Students\\Program.cs",
               "RelativeDocumentMoniker": "04. Students\\Program.cs",
@@ -88,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "03. Articles 2.0.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\03. Articles 2.0\\03. Articles 2.0.csproj",
               "RelativeDocumentMoniker": "03. Articles 2.0\\03. Articles 2.0.csproj",
@@ -96,11 +131,12 @@
               "RelativeToolTip": "03. Articles 2.0\\03. Articles 2.0.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-26T18:25:20.565Z"
+              "WhenOpened": "2025-10-26T18:25:20.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\03. Articles 2.0\\Program.cs",
               "RelativeDocumentMoniker": "03. Articles 2.0\\Program.cs",
@@ -113,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "02. Articles.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\02. Articles\\02. Articles.csproj",
               "RelativeDocumentMoniker": "02. Articles\\02. Articles.csproj",
@@ -121,11 +157,12 @@
               "RelativeToolTip": "02. Articles\\02. Articles.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-26T14:41:06.815Z"
+              "WhenOpened": "2025-10-26T14:41:06.815Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\02. Articles\\Program.cs",
               "RelativeDocumentMoniker": "02. Articles\\Program.cs",
@@ -138,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "01. Advertisement Message.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\01. Advertisement Message\\01. Advertisement Message.csproj",
               "RelativeDocumentMoniker": "01. Advertisement Message\\01. Advertisement Message.csproj",
@@ -146,11 +183,12 @@
               "RelativeToolTip": "01. Advertisement Message\\01. Advertisement Message.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-24T12:19:49.282Z"
+              "WhenOpened": "2025-10-24T12:19:49.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Objects and Classes\\01. Advertisement Message\\Program.cs",
               "RelativeDocumentMoniker": "01. Advertisement Message\\Program.cs",

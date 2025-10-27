@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Teamwork Projects", "05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Vehicle Catalogue", "06. Vehicle Catalogue\06. Vehicle Catalogue.csproj", "{71A9D1D1-5C18-4079-A12C-DF7824D614DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Order by Age", "07. Order by Age\07. Order by Age.csproj", "{988170A8-0006-484E-80AB-E6765D3D38C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{71A9D1D1-5C18-4079-A12C-DF7824D614DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71A9D1D1-5C18-4079-A12C-DF7824D614DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71A9D1D1-5C18-4079-A12C-DF7824D614DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988170A8-0006-484E-80AB-E6765D3D38C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988170A8-0006-484E-80AB-E6765D3D38C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988170A8-0006-484E-80AB-E6765D3D38C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988170A8-0006-484E-80AB-E6765D3D38C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
