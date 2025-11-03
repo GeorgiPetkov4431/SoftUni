@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B48391D0-EF19-40B5-A171-9C2BFD637269}|02. A Miner Task\\02. A Miner Task.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\02. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B48391D0-EF19-40B5-A171-9C2BFD637269}|02. A Miner Task\\02. A Miner Task.csproj|solutionrelative:02. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B48391D0-EF19-40B5-A171-9C2BFD637269}|02. A Miner Task\\02. A Miner Task.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\02. a miner task\\02. a miner task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B48391D0-EF19-40B5-A171-9C2BFD637269}|02. A Miner Task\\02. A Miner Task.csproj|solutionrelative:02. a miner task\\02. a miner task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21E01E6-9ED4-4DCA-84CA-3A39A44E091C}|01. Count Chars in a String\\01. Count Chars in a String.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21E01E6-9ED4-4DCA-84CA-3A39A44E091C}|01. Count Chars in a String\\01. Count Chars in a String.csproj|solutionrelative:01. count chars in a string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21E01E6-9ED4-4DCA-84CA-3A39A44E091C}|01. Count Chars in a String\\01. Count Chars in a String.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\01. count chars in a string\\01. count chars in a string.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B21E01E6-9ED4-4DCA-84CA-3A39A44E091C}|01. Count Chars in a String\\01. Count Chars in a String.csproj|solutionrelative:01. count chars in a string\\01. count chars in a string.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "02. A Miner Task",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\02. A Miner Task.csproj",
+              "RelativeDocumentMoniker": "02. A Miner Task\\02. A Miner Task.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\02. A Miner Task.csproj",
+              "RelativeToolTip": "02. A Miner Task\\02. A Miner Task.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-03T01:43:22.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\Program.cs",
+              "RelativeDocumentMoniker": "02. A Miner Task\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\Program.cs",
+              "RelativeToolTip": "02. A Miner Task\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T01:43:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "01. Count Chars in a String.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\01. Count Chars in a String\\01. Count Chars in a String.csproj",
+              "RelativeDocumentMoniker": "01. Count Chars in a String\\01. Count Chars in a String.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\01. Count Chars in a String\\01. Count Chars in a String.csproj",
+              "RelativeToolTip": "01. Count Chars in a String\\01. Count Chars in a String.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-30T12:46:01.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\01. Count Chars in a String\\Program.cs",
+              "RelativeDocumentMoniker": "01. Count Chars in a String\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\01. Count Chars in a String\\Program.cs",
+              "RelativeToolTip": "01. Count Chars in a String\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T12:45:40.239Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
