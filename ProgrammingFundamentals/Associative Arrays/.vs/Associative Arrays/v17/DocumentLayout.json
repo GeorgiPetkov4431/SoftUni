@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FB247629-AF4E-4A5F-BC2C-CE52FBD534C5}|03. Orders\\03. Orders.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB247629-AF4E-4A5F-BC2C-CE52FBD534C5}|03. Orders\\03. Orders.csproj|solutionrelative:03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB247629-AF4E-4A5F-BC2C-CE52FBD534C5}|03. Orders\\03. Orders.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\03. orders\\03. orders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB247629-AF4E-4A5F-BC2C-CE52FBD534C5}|03. Orders\\03. Orders.csproj|solutionrelative:03. orders\\03. orders.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B48391D0-EF19-40B5-A171-9C2BFD637269}|02. A Miner Task\\02. A Miner Task.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\02. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B48391D0-EF19-40B5-A171-9C2BFD637269}|02. A Miner Task\\02. A Miner Task.csproj|solutionrelative:02. a miner task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,7 +39,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "02. A Miner Task",
+              "Title": "03. Orders",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\03. Orders\\03. Orders.csproj",
+              "RelativeDocumentMoniker": "03. Orders\\03. Orders.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\03. Orders\\03. Orders.csproj",
+              "RelativeToolTip": "03. Orders\\03. Orders.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T20:43:19.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\03. Orders\\Program.cs",
+              "RelativeDocumentMoniker": "03. Orders\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\03. Orders\\Program.cs",
+              "RelativeToolTip": "03. Orders\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T20:43:00.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "02. A Miner Task.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\02. A Miner Task.csproj",
               "RelativeDocumentMoniker": "02. A Miner Task\\02. A Miner Task.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\02. A Miner Task.csproj",
@@ -43,20 +77,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\Program.cs",
               "RelativeDocumentMoniker": "02. A Miner Task\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\Program.cs",
               "RelativeToolTip": "02. A Miner Task\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-03T01:43:13.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "01. Count Chars in a String.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\01. Count Chars in a String\\01. Count Chars in a String.csproj",
               "RelativeDocumentMoniker": "01. Count Chars in a String\\01. Count Chars in a String.csproj",
@@ -69,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\01. Count Chars in a String\\Program.cs",
               "RelativeDocumentMoniker": "01. Count Chars in a String\\Program.cs",
@@ -77,8 +111,7 @@
               "RelativeToolTip": "01. Count Chars in a String\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwA8AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-30T12:45:40.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-30T12:45:40.239Z"
             }
           ]
         }
