@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. A Miner Task")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92df3c6c62f1870d21f653b86eb67b2b5cd52dbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdb9b093836443748507c32c6400d1ef7a917d37")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. A Miner Task")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. A Miner Task")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

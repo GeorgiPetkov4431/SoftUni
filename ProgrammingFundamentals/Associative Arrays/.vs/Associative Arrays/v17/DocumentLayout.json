@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4F1C8D1A-7635-4816-ADB4-0676567E4602}|05. Courses\\05. Courses.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\05. courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1C8D1A-7635-4816-ADB4-0676567E4602}|05. Courses\\05. Courses.csproj|solutionrelative:05. courses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1C8D1A-7635-4816-ADB4-0676567E4602}|05. Courses\\05. Courses.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\05. courses\\05. courses.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F1C8D1A-7635-4816-ADB4-0676567E4602}|05. Courses\\05. Courses.csproj|solutionrelative:05. courses\\05. courses.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDCB587-705C-4B36-AB24-ABA4A88848D6}|04. SoftUni Parking\\04. SoftUni Parking.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\04. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDCB587-705C-4B36-AB24-ABA4A88848D6}|04. SoftUni Parking\\04. SoftUni Parking.csproj|solutionrelative:04. softuni parking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDCB587-705C-4B36-AB24-ABA4A88848D6}|04. SoftUni Parking\\04. SoftUni Parking.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\04. softuni parking\\04. softuni parking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BDCB587-705C-4B36-AB24-ABA4A88848D6}|04. SoftUni Parking\\04. SoftUni Parking.csproj|solutionrelative:04. softuni parking\\04. softuni parking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FB247629-AF4E-4A5F-BC2C-CE52FBD534C5}|03. Orders\\03. Orders.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\associative arrays\\03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB247629-AF4E-4A5F-BC2C-CE52FBD534C5}|03. Orders\\03. Orders.csproj|solutionrelative:03. orders\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,7 +55,59 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "03. Orders",
+              "Title": "05. Courses",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\05. Courses\\05. Courses.csproj",
+              "RelativeDocumentMoniker": "05. Courses\\05. Courses.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\05. Courses\\05. Courses.csproj",
+              "RelativeToolTip": "05. Courses\\05. Courses.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T00:22:28.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\05. Courses\\Program.cs",
+              "RelativeDocumentMoniker": "05. Courses\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\05. Courses\\Program.cs",
+              "RelativeToolTip": "05. Courses\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T00:20:19.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "04. SoftUni Parking",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\04. SoftUni Parking\\04. SoftUni Parking.csproj",
+              "RelativeDocumentMoniker": "04. SoftUni Parking\\04. SoftUni Parking.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\04. SoftUni Parking\\04. SoftUni Parking.csproj",
+              "RelativeToolTip": "04. SoftUni Parking\\04. SoftUni Parking.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-04T23:56:09.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\04. SoftUni Parking\\Program.cs",
+              "RelativeDocumentMoniker": "04. SoftUni Parking\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\04. SoftUni Parking\\Program.cs",
+              "RelativeToolTip": "04. SoftUni Parking\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T23:55:43.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03. Orders.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\03. Orders\\03. Orders.csproj",
               "RelativeDocumentMoniker": "03. Orders\\03. Orders.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\03. Orders\\03. Orders.csproj",
@@ -51,20 +119,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\03. Orders\\Program.cs",
               "RelativeDocumentMoniker": "03. Orders\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\03. Orders\\Program.cs",
               "RelativeToolTip": "03. Orders\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAqwDIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswDIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-04T20:43:00.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "02. A Miner Task.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\02. A Miner Task.csproj",
               "RelativeDocumentMoniker": "02. A Miner Task\\02. A Miner Task.csproj",
@@ -77,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\02. A Miner Task\\Program.cs",
               "RelativeDocumentMoniker": "02. A Miner Task\\Program.cs",
@@ -85,12 +153,11 @@
               "RelativeToolTip": "02. A Miner Task\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T01:43:13.73Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-03T01:43:13.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "01. Count Chars in a String.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\01. Count Chars in a String\\01. Count Chars in a String.csproj",
               "RelativeDocumentMoniker": "01. Count Chars in a String\\01. Count Chars in a String.csproj",
@@ -103,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Associative Arrays\\01. Count Chars in a String\\Program.cs",
               "RelativeDocumentMoniker": "01. Count Chars in a String\\Program.cs",
