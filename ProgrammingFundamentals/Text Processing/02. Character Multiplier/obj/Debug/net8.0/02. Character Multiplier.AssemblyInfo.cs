@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Character Multiplier")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31edcbc05a51e701035f7bd8e0c763bf9a3f43a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dcd636442f8c86619acc8b515704d8c809d4279")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Character Multiplier")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Character Multiplier")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

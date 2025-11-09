@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36202.13 d17.14
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Valid Usernames", "01. Valid Usernames\01. Valid Usernames.csproj", "{321C3AFD-8719-454D-AC6F-CE99A56CCC35}"
 EndProject
@@ -12,6 +12,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Caesar Cipher", "04. Caesar Cipher\04. Caesar Cipher.csproj", "{012ECA2F-7B42-4CA2-A759-BDCD6117C2F9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiply Big Number", "05. Multiply Big Number\05. Multiply Big Number.csproj", "{AC1AEA14-94B4-4D5B-A4A6-5CCD91059056}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Replace Repeating Chars", "06. Replace Repeating Chars\06. Replace Repeating Chars.csproj", "{48A1682B-358D-4FFF-A7ED-985FE88A672A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. String Explosion", "07. String Explosion\07. String Explosion.csproj", "{F4EF4531-98E2-4107-9581-AA864F19392E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Letters Change Numbers", "08. Letters Change Numbers\08. Letters Change Numbers.csproj", "{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +45,18 @@ Global
 		{AC1AEA14-94B4-4D5B-A4A6-5CCD91059056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC1AEA14-94B4-4D5B-A4A6-5CCD91059056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC1AEA14-94B4-4D5B-A4A6-5CCD91059056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A1682B-358D-4FFF-A7ED-985FE88A672A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A1682B-358D-4FFF-A7ED-985FE88A672A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A1682B-358D-4FFF-A7ED-985FE88A672A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A1682B-358D-4FFF-A7ED-985FE88A672A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4EF4531-98E2-4107-9581-AA864F19392E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4EF4531-98E2-4107-9581-AA864F19392E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4EF4531-98E2-4107-9581-AA864F19392E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4EF4531-98E2-4107-9581-AA864F19392E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

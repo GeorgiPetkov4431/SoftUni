@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}|08. Letters Change Numbers\\08. Letters Change Numbers.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\text processing\\08. letters change numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}|08. Letters Change Numbers\\08. Letters Change Numbers.csproj|solutionrelative:08. letters change numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}|08. Letters Change Numbers\\08. Letters Change Numbers.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\text processing\\08. letters change numbers\\08. letters change numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3AA78275-767B-4E6C-A22C-BFBD4B58B3FC}|08. Letters Change Numbers\\08. Letters Change Numbers.csproj|solutionrelative:08. letters change numbers\\08. letters change numbers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EF4531-98E2-4107-9581-AA864F19392E}|07. String Explosion\\07. String Explosion.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\text processing\\07. string explosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4EF4531-98E2-4107-9581-AA864F19392E}|07. String Explosion\\07. String Explosion.csproj|solutionrelative:07. string explosion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4EF4531-98E2-4107-9581-AA864F19392E}|07. String Explosion\\07. String Explosion.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\text processing\\07. string explosion\\07. string explosion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4EF4531-98E2-4107-9581-AA864F19392E}|07. String Explosion\\07. String Explosion.csproj|solutionrelative:07. string explosion\\07. string explosion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A1682B-358D-4FFF-A7ED-985FE88A672A}|06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\text processing\\06. replace repeating chars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A1682B-358D-4FFF-A7ED-985FE88A672A}|06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj|solutionrelative:06. replace repeating chars\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A1682B-358D-4FFF-A7ED-985FE88A672A}|06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\text processing\\06. replace repeating chars\\06. replace repeating chars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{48A1682B-358D-4FFF-A7ED-985FE88A672A}|06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj|solutionrelative:06. replace repeating chars\\06. replace repeating chars.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AC1AEA14-94B4-4D5B-A4A6-5CCD91059056}|05. Multiply Big Number\\05. Multiply Big Number.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\text processing\\05. multiply big number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AC1AEA14-94B4-4D5B-A4A6-5CCD91059056}|05. Multiply Big Number\\05. Multiply Big Number.csproj|solutionrelative:05. multiply big number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -55,7 +79,85 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "05. Multiply Big Number",
+              "Title": "08. Letters Change Numbers",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
+              "RelativeDocumentMoniker": "08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
+              "RelativeToolTip": "08. Letters Change Numbers\\08. Letters Change Numbers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T14:37:16.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\08. Letters Change Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "08. Letters Change Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\08. Letters Change Numbers\\Program.cs",
+              "RelativeToolTip": "08. Letters Change Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T14:37:13.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "07. String Explosion",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\07. String Explosion\\07. String Explosion.csproj",
+              "RelativeDocumentMoniker": "07. String Explosion\\07. String Explosion.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\07. String Explosion\\07. String Explosion.csproj",
+              "RelativeToolTip": "07. String Explosion\\07. String Explosion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T13:13:53.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\07. String Explosion\\Program.cs",
+              "RelativeDocumentMoniker": "07. String Explosion\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\07. String Explosion\\Program.cs",
+              "RelativeToolTip": "07. String Explosion\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T13:13:46.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "06. Replace Repeating Chars",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
+              "RelativeDocumentMoniker": "06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
+              "RelativeToolTip": "06. Replace Repeating Chars\\06. Replace Repeating Chars.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-09T12:37:41.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\06. Replace Repeating Chars\\Program.cs",
+              "RelativeDocumentMoniker": "06. Replace Repeating Chars\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\06. Replace Repeating Chars\\Program.cs",
+              "RelativeToolTip": "06. Replace Repeating Chars\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T12:36:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "05. Multiply Big Number.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
               "RelativeDocumentMoniker": "05. Multiply Big Number\\05. Multiply Big Number.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\05. Multiply Big Number\\05. Multiply Big Number.csproj",
@@ -67,21 +169,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\05. Multiply Big Number\\Program.cs",
               "RelativeDocumentMoniker": "05. Multiply Big Number\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\05. Multiply Big Number\\Program.cs",
               "RelativeToolTip": "05. Multiply Big Number\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-08T22:49:03.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "04. Caesar Cipher",
+              "DocumentIndex": 9,
+              "Title": "04. Caesar Cipher.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
               "RelativeDocumentMoniker": "04. Caesar Cipher\\04. Caesar Cipher.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\04. Caesar Cipher\\04. Caesar Cipher.csproj",
@@ -93,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\04. Caesar Cipher\\Program.cs",
               "RelativeDocumentMoniker": "04. Caesar Cipher\\Program.cs",
@@ -101,13 +203,12 @@
               "RelativeToolTip": "04. Caesar Cipher\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T22:45:49.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T22:45:49.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "02. Character Multiplier",
+              "DocumentIndex": 13,
+              "Title": "02. Character Multiplier.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\02. Character Multiplier\\02. Character Multiplier.csproj",
               "RelativeDocumentMoniker": "02. Character Multiplier\\02. Character Multiplier.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\02. Character Multiplier\\02. Character Multiplier.csproj",
@@ -119,8 +220,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "03. Extract File",
+              "DocumentIndex": 14,
+              "Title": "03. Extract File.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\03. Extract File\\03. Extract File.csproj",
               "RelativeDocumentMoniker": "03. Extract File\\03. Extract File.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\03. Extract File\\03. Extract File.csproj",
@@ -132,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\03. Extract File\\Program.cs",
               "RelativeDocumentMoniker": "03. Extract File\\Program.cs",
@@ -140,12 +241,11 @@
               "RelativeToolTip": "03. Extract File\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwBQAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:43:24.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T21:43:24.266Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\02. Character Multiplier\\Program.cs",
               "RelativeDocumentMoniker": "02. Character Multiplier\\Program.cs",
@@ -153,13 +253,12 @@
               "RelativeToolTip": "02. Character Multiplier\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:39:13.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T21:39:13.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "01. Valid Usernames",
+              "DocumentIndex": 15,
+              "Title": "01. Valid Usernames.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\01. Valid Usernames\\01. Valid Usernames.csproj",
               "RelativeDocumentMoniker": "01. Valid Usernames\\01. Valid Usernames.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\01. Valid Usernames\\01. Valid Usernames.csproj",
@@ -171,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Text Processing\\01. Valid Usernames\\Program.cs",
               "RelativeDocumentMoniker": "01. Valid Usernames\\Program.cs",
@@ -179,8 +278,7 @@
               "RelativeToolTip": "01. Valid Usernames\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-08T21:31:07.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-08T21:31:07.484Z"
             }
           ]
         }
