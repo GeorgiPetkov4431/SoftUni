@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\bin\Debug\net8.0\03. Extract File.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\bin\Debug\net8.0\03. Extract File.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\bin\Debug\net8.0\03. Extract File.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\bin\Debug\net8.0\03. Extract File.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\bin\Debug\net8.0\03. Extract File.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\03. Extract File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\03. Extract File.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\03. Extract File.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\03. Extract File.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\03. Extract File.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\03. Extract File.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\refint\03. Extract File.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\03. Extract File.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\03. Extract File.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Text Processing\03. Extract File\obj\Debug\net8.0\ref\03. Extract File.dll
