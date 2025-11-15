@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. String Explosion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dcd636442f8c86619acc8b515704d8c809d4279")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b38c12a50c809bf5520d1db6e668d5aa494087f")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. String Explosion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. String Explosion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
