@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42447EC2-B26B-4137-8DA5-3C79AC33ED6B}|03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\regular expressions\\03. softuni bar income\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42447EC2-B26B-4137-8DA5-3C79AC33ED6B}|03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj|solutionrelative:03. softuni bar income\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7FC07317-DD92-415B-B90C-423454BC5BC8}|01. Furniture\\01. Furniture.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\regular expressions\\01. furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FC07317-DD92-415B-B90C-423454BC5BC8}|01. Furniture\\01. Furniture.csproj|solutionrelative:01. furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEAAD6D0-7163-4EBA-B3A4-D6881B76DA73}|04. Star Enigma\\04. Star Enigma.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\regular expressions\\04. star enigma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEAAD6D0-7163-4EBA-B3A4-D6881B76DA73}|04. Star Enigma\\04. Star Enigma.csproj|solutionrelative:04. star enigma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE84EDE0-A0D7-4289-8E20-1DACE03104DE}|02. Race\\02. Race.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\regular expressions\\02. race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE84EDE0-A0D7-4289-8E20-1DACE03104DE}|02. Race\\02. Race.csproj|solutionrelative:02. race\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42447EC2-B26B-4137-8DA5-3C79AC33ED6B}|03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\regular expressions\\03. softuni bar income\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42447EC2-B26B-4137-8DA5-3C79AC33ED6B}|03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj|solutionrelative:03. softuni bar income\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAAD6D0-7163-4EBA-B3A4-D6881B76DA73}|04. Star Enigma\\04. Star Enigma.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\regular expressions\\04. star enigma\\04. star enigma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FEAAD6D0-7163-4EBA-B3A4-D6881B76DA73}|04. Star Enigma\\04. Star Enigma.csproj|solutionrelative:04. star enigma\\04. star enigma.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC07317-DD92-415B-B90C-423454BC5BC8}|01. Furniture\\01. Furniture.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\regular expressions\\01. furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC07317-DD92-415B-B90C-423454BC5BC8}|01. Furniture\\01. Furniture.csproj|solutionrelative:01. furniture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42447EC2-B26B-4137-8DA5-3C79AC33ED6B}|03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\regular expressions\\03. softuni bar income\\03. softuni bar income.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -39,7 +47,33 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "03. SoftUni Bar Income",
+              "Title": "04. Star Enigma",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\04. Star Enigma\\04. Star Enigma.csproj",
+              "RelativeDocumentMoniker": "04. Star Enigma\\04. Star Enigma.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\04. Star Enigma\\04. Star Enigma.csproj",
+              "RelativeToolTip": "04. Star Enigma\\04. Star Enigma.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-15T17:47:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\04. Star Enigma\\Program.cs",
+              "RelativeDocumentMoniker": "04. Star Enigma\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\04. Star Enigma\\Program.cs",
+              "RelativeToolTip": "04. Star Enigma\\Program.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T17:47:31.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03. SoftUni Bar Income.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj",
               "RelativeDocumentMoniker": "03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\03. SoftUni Bar Income\\03. SoftUni Bar Income.csproj",
@@ -51,21 +85,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\03. SoftUni Bar Income\\Program.cs",
               "RelativeDocumentMoniker": "03. SoftUni Bar Income\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\03. SoftUni Bar Income\\Program.cs",
               "RelativeToolTip": "03. SoftUni Bar Income\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAmwDUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwDUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T16:45:06.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "02. Race",
+              "DocumentIndex": 6,
+              "Title": "02. Race.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\02. Race\\02. Race.csproj",
               "RelativeDocumentMoniker": "02. Race\\02. Race.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\02. Race\\02. Race.csproj",
@@ -77,21 +111,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\02. Race\\Program.cs",
               "RelativeDocumentMoniker": "02. Race\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\02. Race\\Program.cs",
               "RelativeToolTip": "02. Race\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBEAAABdAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwBEAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-15T12:34:29.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "01. Furniture",
+              "DocumentIndex": 7,
+              "Title": "01. Furniture.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\01. Furniture\\01. Furniture.csproj",
               "RelativeDocumentMoniker": "01. Furniture\\01. Furniture.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\01. Furniture\\01. Furniture.csproj",
@@ -103,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Regular Expressions\\01. Furniture\\Program.cs",
               "RelativeDocumentMoniker": "01. Furniture\\Program.cs",
@@ -111,8 +145,7 @@
               "RelativeToolTip": "01. Furniture\\Program.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAqwAwAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-15T12:11:20.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-15T12:11:20.59Z"
             }
           ]
         }
