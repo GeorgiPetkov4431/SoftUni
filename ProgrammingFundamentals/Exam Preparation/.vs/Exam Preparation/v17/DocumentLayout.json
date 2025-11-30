@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87989898-8620-4D75-9C24-AD6F8B9031ED}|05. Emoji Detector\\05. Emoji Detector.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\exam preparation\\05. emoji detector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87989898-8620-4D75-9C24-AD6F8B9031ED}|05. Emoji Detector\\05. Emoji Detector.csproj|solutionrelative:05. emoji detector\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5209174-DFD5-4326-8FC2-C1495FE3C215}|04. Activation Keys\\04. Activation Keys.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\exam preparation\\04. activation keys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5209174-DFD5-4326-8FC2-C1495FE3C215}|04. Activation Keys\\04. Activation Keys.csproj|solutionrelative:04. activation keys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5209174-DFD5-4326-8FC2-C1495FE3C215}|04. Activation Keys\\04. Activation Keys.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\exam preparation\\04. activation keys\\04. activation keys.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F5209174-DFD5-4326-8FC2-C1495FE3C215}|04. Activation Keys\\04. Activation Keys.csproj|solutionrelative:04. activation keys\\04. activation keys.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5209174-DFD5-4326-8FC2-C1495FE3C215}|04. Activation Keys\\04. Activation Keys.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\exam preparation\\04. activation keys\\04. activation keys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5209174-DFD5-4326-8FC2-C1495FE3C215}|04. Activation Keys\\04. Activation Keys.csproj|solutionrelative:04. activation keys\\04. activation keys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6879A1CF-15F8-4694-9CBB-B7467B7FB90E}|03. Pirates\\03. Pirates.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\exam preparation\\03. pirates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6879A1CF-15F8-4694-9CBB-B7467B7FB90E}|03. Pirates\\03. Pirates.csproj|solutionrelative:03. pirates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6879A1CF-15F8-4694-9CBB-B7467B7FB90E}|03. Pirates\\03. Pirates.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\exam preparation\\03. pirates\\03. pirates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6879A1CF-15F8-4694-9CBB-B7467B7FB90E}|03. Pirates\\03. Pirates.csproj|solutionrelative:03. pirates\\03. pirates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66C2992A-E44E-4A11-9672-3A76B3F2A8BF}|02 - Fancy Barcodes\\02 - Fancy Barcodes.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\exam preparation\\02 - fancy barcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{66C2992A-E44E-4A11-9672-3A76B3F2A8BF}|02 - Fancy Barcodes\\02 - Fancy Barcodes.csproj|solutionrelative:02 - fancy barcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,37 +50,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\05. Emoji Detector\\Program.cs",
+              "RelativeDocumentMoniker": "05. Emoji Detector\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\05. Emoji Detector\\Program.cs",
+              "RelativeToolTip": "05. Emoji Detector\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:44:53.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04. Activation Keys",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\04. Activation Keys\\04. Activation Keys.csproj",
+              "RelativeDocumentMoniker": "04. Activation Keys\\04. Activation Keys.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\04. Activation Keys\\04. Activation Keys.csproj",
+              "RelativeToolTip": "04. Activation Keys\\04. Activation Keys.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T22:37:32.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "04. Activation Keys.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\04. Activation Keys\\04. Activation Keys.csproj",
+              "RelativeDocumentMoniker": "04. Activation Keys\\04. Activation Keys.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\04. Activation Keys\\04. Activation Keys.csproj",
+              "RelativeToolTip": "04. Activation Keys\\04. Activation Keys.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T22:20:49.367Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "02 - Fancy Barcodes",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\04. Activation Keys\\Program.cs",
+              "RelativeDocumentMoniker": "04. Activation Keys\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\04. Activation Keys\\Program.cs",
+              "RelativeToolTip": "04. Activation Keys\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T22:20:47.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03. Pirates.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\03. Pirates\\03. Pirates.csproj",
+              "RelativeDocumentMoniker": "03. Pirates\\03. Pirates.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\03. Pirates\\03. Pirates.csproj",
+              "RelativeToolTip": "03. Pirates\\03. Pirates.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-29T15:32:15.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\03. Pirates\\Program.cs",
+              "RelativeDocumentMoniker": "03. Pirates\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\03. Pirates\\Program.cs",
+              "RelativeToolTip": "03. Pirates\\Program.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAuwGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T15:32:06.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "02 - Fancy Barcodes.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\02 - Fancy Barcodes\\02 - Fancy Barcodes.csproj",
               "RelativeDocumentMoniker": "02 - Fancy Barcodes\\02 - Fancy Barcodes.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\02 - Fancy Barcodes\\02 - Fancy Barcodes.csproj",
               "RelativeToolTip": "02 - Fancy Barcodes\\02 - Fancy Barcodes.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T23:11:40.244Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T23:11:40.244Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\02 - Fancy Barcodes\\Program.cs",
               "RelativeDocumentMoniker": "02 - Fancy Barcodes\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\02 - Fancy Barcodes\\Program.cs",
               "RelativeToolTip": "02 - Fancy Barcodes\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T23:11:37.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T23:11:37.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "01 - Secret Chat.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\01 - Secret Chat\\01 - Secret Chat.csproj",
               "RelativeDocumentMoniker": "01 - Secret Chat\\01 - Secret Chat.csproj",
@@ -64,21 +159,19 @@
               "RelativeToolTip": "01 - Secret Chat\\01 - Secret Chat.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-22T15:30:31.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T15:30:31.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\01 - Secret Chat\\Program.cs",
               "RelativeDocumentMoniker": "01 - Secret Chat\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Exam Preparation\\01 - Secret Chat\\Program.cs",
               "RelativeToolTip": "01 - Secret Chat\\Program.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwD0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwDIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-22T15:30:05.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-22T15:30:05.934Z"
             }
           ]
         }

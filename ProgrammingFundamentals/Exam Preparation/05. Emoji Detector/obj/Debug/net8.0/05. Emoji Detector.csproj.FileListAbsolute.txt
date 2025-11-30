@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\bin\Debug\net8.0\05. Emoji Detector.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\bin\Debug\net8.0\05. Emoji Detector.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\bin\Debug\net8.0\05. Emoji Detector.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\bin\Debug\net8.0\05. Emoji Detector.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\bin\Debug\net8.0\05. Emoji Detector.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\05. Emoji Detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\05. Emoji Detector.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\05. Emoji Detector.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\05. Emoji Detector.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\05. Emoji Detector.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\05. Emoji Detector.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\refint\05. Emoji Detector.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\05. Emoji Detector.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\05. Emoji Detector.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\05. Emoji Detector\obj\Debug\net8.0\ref\05. Emoji Detector.dll

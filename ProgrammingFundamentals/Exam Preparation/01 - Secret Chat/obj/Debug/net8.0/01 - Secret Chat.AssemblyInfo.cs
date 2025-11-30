@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01 - Secret Chat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e439b7a54ef1482b2830506c8726cc2aeba7428")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d4116cc1f41266688d855b6d893f3da736d1b05")]
 [assembly: System.Reflection.AssemblyProductAttribute("01 - Secret Chat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01 - Secret Chat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\bin\Debug\net8.0\04. Activation Keys.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\bin\Debug\net8.0\04. Activation Keys.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\bin\Debug\net8.0\04. Activation Keys.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\bin\Debug\net8.0\04. Activation Keys.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\bin\Debug\net8.0\04. Activation Keys.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\04. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\04. Activation Keys.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\04. Activation Keys.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\04. Activation Keys.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\04. Activation Keys.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\04. Activation Keys.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\refint\04. Activation Keys.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\04. Activation Keys.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\04. Activation Keys.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Exam Preparation\04. Activation Keys\obj\Debug\net8.0\ref\04. Activation Keys.dll
