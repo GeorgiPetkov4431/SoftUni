@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\bin\Debug\net8.0\04. Theoretical Exam.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\bin\Debug\net8.0\04. Theoretical Exam.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\bin\Debug\net8.0\04. Theoretical Exam.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\bin\Debug\net8.0\04. Theoretical Exam.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\bin\Debug\net8.0\04. Theoretical Exam.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\04. Theoretical Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\04. Theoretical Exam.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\04. Theoretical Exam.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\04. Theoretical Exam.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\04. Theoretical Exam.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\04. Theoretical Exam.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\refint\04. Theoretical Exam.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\04. Theoretical Exam.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\04. Theoretical Exam.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\04. Theoretical Exam\obj\Debug\net8.0\ref\04. Theoretical Exam.dll

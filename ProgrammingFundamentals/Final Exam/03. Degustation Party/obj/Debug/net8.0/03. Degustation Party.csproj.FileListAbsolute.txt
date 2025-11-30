@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\bin\Debug\net8.0\03. Degustation Party.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\bin\Debug\net8.0\03. Degustation Party.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\bin\Debug\net8.0\03. Degustation Party.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\bin\Debug\net8.0\03. Degustation Party.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\bin\Debug\net8.0\03. Degustation Party.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\03. Degustation Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\03. Degustation Party.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\03. Degustation Party.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\03. Degustation Party.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\03. Degustation Party.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\03. Degustation Party.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\refint\03. Degustation Party.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\03. Degustation Party.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\03. Degustation Party.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\03. Degustation Party\obj\Debug\net8.0\ref\03. Degustation Party.dll

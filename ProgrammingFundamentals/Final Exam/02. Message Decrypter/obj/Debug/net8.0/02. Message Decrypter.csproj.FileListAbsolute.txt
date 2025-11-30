@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\bin\Debug\net8.0\02. Message Decrypter.exe
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\bin\Debug\net8.0\02. Message Decrypter.deps.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\bin\Debug\net8.0\02. Message Decrypter.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\bin\Debug\net8.0\02. Message Decrypter.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\bin\Debug\net8.0\02. Message Decrypter.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\02. Message Decrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\02. Message Decrypter.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\02. Message Decrypter.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\02. Message Decrypter.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\02. Message Decrypter.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\02. Message Decrypter.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\refint\02. Message Decrypter.dll
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\02. Message Decrypter.pdb
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\02. Message Decrypter.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\ProgrammingFundamentals\Final Exam\02. Message Decrypter\obj\Debug\net8.0\ref\02. Message Decrypter.dll
