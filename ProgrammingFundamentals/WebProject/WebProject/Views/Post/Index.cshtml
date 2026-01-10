@@ -1,0 +1,21 @@
+﻿@model List<PostModel>
+
+<h1>Posts</h1>
+
+<h3>Create new post:</h3>
+<form asp-action="Index" method="POST">
+	<div>
+		<input type="text" name="title">
+	</div>
+	<div>
+		<textarea name="description" rows="5" cols="50"></textarea>
+	</div>
+	<button type="submit">Create</button>
+</form>
+
+@foreach(PostModel post in Model)
+{
+	<h4>@post.Title</h4>
+	<div>@post.Description</div>
+	<hr/>
+}

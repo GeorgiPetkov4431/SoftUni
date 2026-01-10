@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\basic web project\\parkingsystem\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\basic web project\\parkingsystem\\parkingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\parkingsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\basic web project\\parkingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\basic web project\\parkingsystem\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\data\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\basic web project\\parkingsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\georg\\desktop\\softuni\\programmingfundamentals\\basic web project\\parkingsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParkingSystem",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\ParkingSystem.csproj",
+              "RelativeDocumentMoniker": "ParkingSystem\\ParkingSystem.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\ParkingSystem.csproj",
+              "RelativeToolTip": "ParkingSystem\\ParkingSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T22:36:31.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ParkingSystem\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ParkingSystem\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-08T22:31:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "ParkingSystem\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Controllers\\CarController.cs",
+              "RelativeToolTip": "ParkingSystem\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T22:24:47.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ParkingSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ParkingSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T22:23:30.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Data\\DataAccess.cs",
+              "RelativeDocumentMoniker": "ParkingSystem\\Data\\DataAccess.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Data\\DataAccess.cs",
+              "RelativeToolTip": "ParkingSystem\\Data\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T22:21:32.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "ParkingSystem\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ProgrammingFundamentals\\Basic Web Project\\ParkingSystem\\Models\\Car.cs",
+              "RelativeToolTip": "ParkingSystem\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T22:19:57.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
