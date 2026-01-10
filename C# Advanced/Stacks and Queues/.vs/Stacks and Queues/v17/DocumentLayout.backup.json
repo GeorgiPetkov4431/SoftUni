@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFA0F71F-8242-4226-A91B-F9011EAF106D}|00. Testing\\00. Testing.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\00. testing\\00. testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EFA0F71F-8242-4226-A91B-F9011EAF106D}|00. Testing\\00. Testing.csproj|solutionrelative:00. testing\\00. testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{540412E9-C31C-4770-95AD-652265AAFD7E}|04. Fast Food\\04. Fast Food.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\04. fast food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540412E9-C31C-4770-95AD-652265AAFD7E}|04. Fast Food\\04. Fast Food.csproj|solutionrelative:04. fast food\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540412E9-C31C-4770-95AD-652265AAFD7E}|04. Fast Food\\04. Fast Food.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\04. fast food\\04. fast food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{540412E9-C31C-4770-95AD-652265AAFD7E}|04. Fast Food\\04. Fast Food.csproj|solutionrelative:04. fast food\\04. fast food.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389679EE-316F-4FA4-A3C5-B219CA7CB1A3}|03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\03. maximum and minimum element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389679EE-316F-4FA4-A3C5-B219CA7CB1A3}|03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj|solutionrelative:03. maximum and minimum element\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389679EE-316F-4FA4-A3C5-B219CA7CB1A3}|03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\03. maximum and minimum element\\03. maximum and minimum element.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{389679EE-316F-4FA4-A3C5-B219CA7CB1A3}|03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj|solutionrelative:03. maximum and minimum element\\03. maximum and minimum element.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F04668F-BAFE-4D9D-9E8C-D0667E96A7C3}|02. Basic Queue Operations\\02. Basic Queue Operations.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\02. basic queue operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F04668F-BAFE-4D9D-9E8C-D0667E96A7C3}|02. Basic Queue Operations\\02. Basic Queue Operations.csproj|solutionrelative:02. basic queue operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8DCEB7-F399-4E33-8211-C8BBE61F15CF}|01. Basic Stack Operations\\01. Basic Stack Operations.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\01. basic stack operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC8DCEB7-F399-4E33-8211-C8BBE61F15CF}|01. Basic Stack Operations\\01. Basic Stack Operations.csproj|solutionrelative:01. basic stack operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F04668F-BAFE-4D9D-9E8C-D0667E96A7C3}|02. Basic Queue Operations\\02. Basic Queue Operations.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\02. basic queue operations\\02. basic queue operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F04668F-BAFE-4D9D-9E8C-D0667E96A7C3}|02. Basic Queue Operations\\02. Basic Queue Operations.csproj|solutionrelative:02. basic queue operations\\02. basic queue operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC8DCEB7-F399-4E33-8211-C8BBE61F15CF}|01. Basic Stack Operations\\01. Basic Stack Operations.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\01. basic stack operations\\01. basic stack operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC8DCEB7-F399-4E33-8211-C8BBE61F15CF}|01. Basic Stack Operations\\01. Basic Stack Operations.csproj|solutionrelative:01. basic stack operations\\01. basic stack operations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFA0F71F-8242-4226-A91B-F9011EAF106D}|00. Testing\\00. Testing.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\00. testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFA0F71F-8242-4226-A91B-F9011EAF106D}|00. Testing\\00. Testing.csproj|solutionrelative:00. testing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFA0F71F-8242-4226-A91B-F9011EAF106D}|00. Testing\\00. Testing.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\00. testing\\00. testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFA0F71F-8242-4226-A91B-F9011EAF106D}|00. Testing\\00. Testing.csproj|solutionrelative:00. testing\\00. testing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,19 +50,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "00. Testing",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\00. Testing\\00. Testing.csproj",
-              "RelativeDocumentMoniker": "00. Testing\\00. Testing.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\00. Testing\\00. Testing.csproj",
-              "RelativeToolTip": "00. Testing\\00. Testing.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "04. Fast Food",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\04. Fast Food\\04. Fast Food.csproj",
+              "RelativeDocumentMoniker": "04. Fast Food\\04. Fast Food.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\04. Fast Food\\04. Fast Food.csproj",
+              "RelativeToolTip": "04. Fast Food\\04. Fast Food.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-08T23:13:43.26Z",
+              "WhenOpened": "2026-01-10T22:46:00.44Z",
               "EditorCaption": ""
             },
             {
@@ -43,7 +75,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\04. Fast Food\\Program.cs",
+              "RelativeDocumentMoniker": "04. Fast Food\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\04. Fast Food\\Program.cs",
+              "RelativeToolTip": "04. Fast Food\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T22:45:58.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03. Maximum and Minimum Element",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+              "RelativeDocumentMoniker": "03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+              "RelativeToolTip": "03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T22:37:37.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\03. Maximum and Minimum Element\\Program.cs",
+              "RelativeDocumentMoniker": "03. Maximum and Minimum Element\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\03. Maximum and Minimum Element\\Program.cs",
+              "RelativeToolTip": "03. Maximum and Minimum Element\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T22:37:18.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "02. Basic Queue Operations.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+              "RelativeDocumentMoniker": "02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+              "RelativeToolTip": "02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T21:04:35.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\02. Basic Queue Operations\\Program.cs",
+              "RelativeDocumentMoniker": "02. Basic Queue Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\02. Basic Queue Operations\\Program.cs",
+              "RelativeToolTip": "02. Basic Queue Operations\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T21:04:24.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01. Basic Stack Operations.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+              "RelativeDocumentMoniker": "01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+              "RelativeToolTip": "01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-10T20:51:28.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\01. Basic Stack Operations\\Program.cs",
+              "RelativeDocumentMoniker": "01. Basic Stack Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\01. Basic Stack Operations\\Program.cs",
+              "RelativeToolTip": "01. Basic Stack Operations\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T20:51:25.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "00. Testing.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\00. Testing\\00. Testing.csproj",
+              "RelativeDocumentMoniker": "00. Testing\\00. Testing.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\00. Testing\\00. Testing.csproj",
+              "RelativeToolTip": "00. Testing\\00. Testing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-08T23:13:43.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\00. Testing\\Program.cs",
               "RelativeDocumentMoniker": "00. Testing\\Program.cs",
@@ -51,8 +186,7 @@
               "RelativeToolTip": "00. Testing\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T23:13:34.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-08T23:13:34.175Z"
             }
           ]
         }
