@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13F55B6C-249A-451D-BE00-CE9F9339155A}|11. Key Revolver\\11. Key Revolver.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\11. key revolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13F55B6C-249A-451D-BE00-CE9F9339155A}|11. Key Revolver\\11. Key Revolver.csproj|solutionrelative:11. key revolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13F55B6C-249A-451D-BE00-CE9F9339155A}|11. Key Revolver\\11. Key Revolver.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\11. key revolver\\11. key revolver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{13F55B6C-249A-451D-BE00-CE9F9339155A}|11. Key Revolver\\11. Key Revolver.csproj|solutionrelative:11. key revolver\\11. key revolver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0D5970BE-D04F-449D-BE18-D36E28482341}|12. Cups and Bottles\\12. Cups and Bottles.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\12. cups and bottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5970BE-D04F-449D-BE18-D36E28482341}|12. Cups and Bottles\\12. Cups and Bottles.csproj|solutionrelative:12. cups and bottles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81D117DA-4534-4184-9DB2-96E48EA53900}|10. Crossroads\\10. Crossroads.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\10. crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81D117DA-4534-4184-9DB2-96E48EA53900}|10. Crossroads\\10. Crossroads.csproj|solutionrelative:10. crossroads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F55B6C-249A-451D-BE00-CE9F9339155A}|11. Key Revolver\\11. Key Revolver.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\11. key revolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13F55B6C-249A-451D-BE00-CE9F9339155A}|11. Key Revolver\\11. Key Revolver.csproj|solutionrelative:11. key revolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5970BE-D04F-449D-BE18-D36E28482341}|12. Cups and Bottles\\12. Cups and Bottles.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\12. cups and bottles\\12. cups and bottles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D5970BE-D04F-449D-BE18-D36E28482341}|12. Cups and Bottles\\12. Cups and Bottles.csproj|solutionrelative:12. cups and bottles\\12. cups and bottles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13F55B6C-249A-451D-BE00-CE9F9339155A}|11. Key Revolver\\11. Key Revolver.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\11. key revolver\\11. key revolver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13F55B6C-249A-451D-BE00-CE9F9339155A}|11. Key Revolver\\11. Key Revolver.csproj|solutionrelative:11. key revolver\\11. key revolver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{81D117DA-4534-4184-9DB2-96E48EA53900}|10. Crossroads\\10. Crossroads.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\stacks and queues\\10. crossroads\\10. crossroads.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -105,6 +113,19 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "12. Cups and Bottles",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\12. Cups and Bottles\\12. Cups and Bottles.csproj",
+              "RelativeDocumentMoniker": "12. Cups and Bottles\\12. Cups and Bottles.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\12. Cups and Bottles\\12. Cups and Bottles.csproj",
+              "RelativeToolTip": "12. Cups and Bottles\\12. Cups and Bottles.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-12T19:42:06.304Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -114,8 +135,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "11. Key Revolver",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\12. Cups and Bottles\\Program.cs",
+              "RelativeDocumentMoniker": "12. Cups and Bottles\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\12. Cups and Bottles\\Program.cs",
+              "RelativeToolTip": "12. Cups and Bottles\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T19:37:45.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "11. Key Revolver.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\11. Key Revolver\\11. Key Revolver.csproj",
               "RelativeDocumentMoniker": "11. Key Revolver\\11. Key Revolver.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\11. Key Revolver\\11. Key Revolver.csproj",
@@ -127,21 +161,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\11. Key Revolver\\Program.cs",
               "RelativeDocumentMoniker": "11. Key Revolver\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\11. Key Revolver\\Program.cs",
               "RelativeToolTip": "11. Key Revolver\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T14:28:19.613Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "10. Crossroads",
+              "DocumentIndex": 5,
+              "Title": "10. Crossroads.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\10. Crossroads\\10. Crossroads.csproj",
               "RelativeDocumentMoniker": "10. Crossroads\\10. Crossroads.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\10. Crossroads\\10. Crossroads.csproj",
@@ -153,21 +187,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\10. Crossroads\\Program.cs",
               "RelativeDocumentMoniker": "10. Crossroads\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\10. Crossroads\\Program.cs",
               "RelativeToolTip": "10. Crossroads\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-11T17:55:12.808Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "09. Simple Text Editor",
+              "DocumentIndex": 7,
+              "Title": "09. Simple Text Editor.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\09. Simple Text Editor\\09. Simple Text Editor.csproj",
               "RelativeDocumentMoniker": "09. Simple Text Editor\\09. Simple Text Editor.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\09. Simple Text Editor\\09. Simple Text Editor.csproj",
@@ -179,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\09. Simple Text Editor\\Program.cs",
               "RelativeDocumentMoniker": "09. Simple Text Editor\\Program.cs",
@@ -187,12 +221,11 @@
               "RelativeToolTip": "09. Simple Text Editor\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAuwCwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T16:00:45.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T16:00:45.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "08. Balanced Parentheses.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\08. Balanced Parentheses\\08. Balanced Parentheses.csproj",
               "RelativeDocumentMoniker": "08. Balanced Parentheses\\08. Balanced Parentheses.csproj",
@@ -205,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\08. Balanced Parentheses\\Program.cs",
               "RelativeDocumentMoniker": "08. Balanced Parentheses\\Program.cs",
@@ -213,12 +246,11 @@
               "RelativeToolTip": "08. Balanced Parentheses\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAuwCQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T15:35:26.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-11T15:35:26.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\07. Truck Tour\\Program.cs",
               "RelativeDocumentMoniker": "07. Truck Tour\\Program.cs",
@@ -230,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "06. Songs Queue.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\06. Songs Queue\\06. Songs Queue.csproj",
               "RelativeDocumentMoniker": "06. Songs Queue\\06. Songs Queue.csproj",
@@ -243,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\06. Songs Queue\\Program.cs",
               "RelativeDocumentMoniker": "06. Songs Queue\\Program.cs",
@@ -255,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "05. Fashion Boutique.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\05. Fashion Boutique\\05. Fashion Boutique.csproj",
               "RelativeDocumentMoniker": "05. Fashion Boutique\\05. Fashion Boutique.csproj",
@@ -268,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\05. Fashion Boutique\\Program.cs",
               "RelativeDocumentMoniker": "05. Fashion Boutique\\Program.cs",
@@ -280,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "04. Fast Food.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\04. Fast Food\\04. Fast Food.csproj",
               "RelativeDocumentMoniker": "04. Fast Food\\04. Fast Food.csproj",
@@ -293,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\04. Fast Food\\Program.cs",
               "RelativeDocumentMoniker": "04. Fast Food\\Program.cs",
@@ -305,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "03. Maximum and Minimum Element.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
               "RelativeDocumentMoniker": "03. Maximum and Minimum Element\\03. Maximum and Minimum Element.csproj",
@@ -318,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\03. Maximum and Minimum Element\\Program.cs",
               "RelativeDocumentMoniker": "03. Maximum and Minimum Element\\Program.cs",
@@ -330,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "02. Basic Queue Operations.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
               "RelativeDocumentMoniker": "02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
@@ -343,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\02. Basic Queue Operations\\Program.cs",
               "RelativeDocumentMoniker": "02. Basic Queue Operations\\Program.cs",
@@ -355,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "01. Basic Stack Operations.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
               "RelativeDocumentMoniker": "01. Basic Stack Operations\\01. Basic Stack Operations.csproj",
@@ -368,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\01. Basic Stack Operations\\Program.cs",
               "RelativeDocumentMoniker": "01. Basic Stack Operations\\Program.cs",
@@ -380,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "00. Testing.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\00. Testing\\00. Testing.csproj",
               "RelativeDocumentMoniker": "00. Testing\\00. Testing.csproj",
@@ -393,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Stacks and Queues\\00. Testing\\Program.cs",
               "RelativeDocumentMoniker": "00. Testing\\Program.cs",
