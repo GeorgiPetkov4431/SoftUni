@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\bin\Debug\net8.0\10. Crossroads.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\bin\Debug\net8.0\10. Crossroads.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\bin\Debug\net8.0\10. Crossroads.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\bin\Debug\net8.0\10. Crossroads.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\bin\Debug\net8.0\10. Crossroads.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\10. Crossroads.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\10. Crossroads.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\10. Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\10. Crossroads.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\10. Crossroads.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\refint\10. Crossroads.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\10. Crossroads.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\10. Crossroads.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Stacks and Queues\10. Crossroads\obj\Debug\net8.0\ref\10. Crossroads.dll

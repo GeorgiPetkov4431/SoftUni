@@ -21,6 +21,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Truck Tour", "07. Truck
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Balanced Parentheses", "08. Balanced Parentheses\08. Balanced Parentheses.csproj", "{71AC99F7-3B6B-4A3E-BD63-780A04C17E05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Simple Text Editor", "09. Simple Text Editor\09. Simple Text Editor.csproj", "{18BADE31-47AB-40B7-AB4C-3BAC45965A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Crossroads", "10. Crossroads\10. Crossroads.csproj", "{81D117DA-4534-4184-9DB2-96E48EA53900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Key Revolver", "11. Key Revolver\11. Key Revolver.csproj", "{13F55B6C-249A-451D-BE00-CE9F9339155A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +69,18 @@ Global
 		{71AC99F7-3B6B-4A3E-BD63-780A04C17E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71AC99F7-3B6B-4A3E-BD63-780A04C17E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71AC99F7-3B6B-4A3E-BD63-780A04C17E05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18BADE31-47AB-40B7-AB4C-3BAC45965A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18BADE31-47AB-40B7-AB4C-3BAC45965A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18BADE31-47AB-40B7-AB4C-3BAC45965A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18BADE31-47AB-40B7-AB4C-3BAC45965A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D117DA-4534-4184-9DB2-96E48EA53900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D117DA-4534-4184-9DB2-96E48EA53900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D117DA-4534-4184-9DB2-96E48EA53900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D117DA-4534-4184-9DB2-96E48EA53900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F55B6C-249A-451D-BE00-CE9F9339155A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F55B6C-249A-451D-BE00-CE9F9339155A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F55B6C-249A-451D-BE00-CE9F9339155A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F55B6C-249A-451D-BE00-CE9F9339155A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
