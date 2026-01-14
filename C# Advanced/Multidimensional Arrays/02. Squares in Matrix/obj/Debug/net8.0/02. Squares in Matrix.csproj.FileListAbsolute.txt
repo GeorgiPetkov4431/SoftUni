@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\bin\Debug\net8.0\02. Squares in Matrix.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\refint\02. Squares in Matrix.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\02. Squares in Matrix.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\02. Squares in Matrix\obj\Debug\net8.0\ref\02. Squares in Matrix.dll

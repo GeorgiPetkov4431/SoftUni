@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net8.0\01. Diagonal Difference.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net8.0\01. Diagonal Difference.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net8.0\01. Diagonal Difference.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net8.0\01. Diagonal Difference.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\bin\Debug\net8.0\01. Diagonal Difference.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\01. Diagonal Difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\01. Diagonal Difference.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\01. Diagonal Difference.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\01. Diagonal Difference.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\01. Diagonal Difference.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\refint\01. Diagonal Difference.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\01. Diagonal Difference.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\01. Diagonal Difference.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\01. Diagonal Difference\obj\Debug\net8.0\ref\01. Diagonal Difference.dll

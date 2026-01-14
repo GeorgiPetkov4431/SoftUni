@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\03. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|solutionrelative:03. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629730B-CC79-4EB2-9A00-308F549F35A2}|02. Squares in Matrix\\02. Squares in Matrix.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\02. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D629730B-CC79-4EB2-9A00-308F549F35A2}|02. Squares in Matrix\\02. Squares in Matrix.csproj|solutionrelative:02. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E71CC2-20DB-4D65-B704-AC91C6E62AC8}|01. Diagonal Difference\\01. Diagonal Difference.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\01. diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E71CC2-20DB-4D65-B704-AC91C6E62AC8}|01. Diagonal Difference\\01. Diagonal Difference.csproj|solutionrelative:01. diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\03. maximal sum\\03. maximal sum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|solutionrelative:03. maximal sum\\03. maximal sum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629730B-CC79-4EB2-9A00-308F549F35A2}|02. Squares in Matrix\\02. Squares in Matrix.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\02. squares in matrix\\02. squares in matrix.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D629730B-CC79-4EB2-9A00-308F549F35A2}|02. Squares in Matrix\\02. Squares in Matrix.csproj|solutionrelative:02. squares in matrix\\02. squares in matrix.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E71CC2-20DB-4D65-B704-AC91C6E62AC8}|01. Diagonal Difference\\01. Diagonal Difference.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\01. diagonal difference\\01. diagonal difference.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E7E71CC2-20DB-4D65-B704-AC91C6E62AC8}|01. Diagonal Difference\\01. Diagonal Difference.csproj|solutionrelative:01. diagonal difference\\01. diagonal difference.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03. Maximal Sum",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\03. Maximal Sum.csproj",
+              "RelativeDocumentMoniker": "03. Maximal Sum\\03. Maximal Sum.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\03. Maximal Sum.csproj",
+              "RelativeToolTip": "03. Maximal Sum\\03. Maximal Sum.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T13:35:55.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\Program.cs",
+              "RelativeDocumentMoniker": "03. Maximal Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\Program.cs",
+              "RelativeToolTip": "03. Maximal Sum\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAA6wE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:35:48.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02. Squares in Matrix",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\02. Squares in Matrix\\02. Squares in Matrix.csproj",
+              "RelativeDocumentMoniker": "02. Squares in Matrix\\02. Squares in Matrix.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\02. Squares in Matrix\\02. Squares in Matrix.csproj",
+              "RelativeToolTip": "02. Squares in Matrix\\02. Squares in Matrix.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T13:27:12.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\02. Squares in Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "02. Squares in Matrix\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\02. Squares in Matrix\\Program.cs",
+              "RelativeToolTip": "02. Squares in Matrix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T13:24:12.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01. Diagonal Difference.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\01. Diagonal Difference\\01. Diagonal Difference.csproj",
+              "RelativeDocumentMoniker": "01. Diagonal Difference\\01. Diagonal Difference.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\01. Diagonal Difference\\01. Diagonal Difference.csproj",
+              "RelativeToolTip": "01. Diagonal Difference\\01. Diagonal Difference.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T13:35:29.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\01. Diagonal Difference\\Program.cs",
+              "RelativeDocumentMoniker": "01. Diagonal Difference\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\01. Diagonal Difference\\Program.cs",
+              "RelativeToolTip": "01. Diagonal Difference\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:32:42.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
