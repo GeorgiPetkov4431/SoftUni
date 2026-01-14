@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\bin\Debug\net8.0\04. Matrix Shuffling.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\refint\04. Matrix Shuffling.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\04. Matrix Shuffling.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\04. Matrix Shuffling\obj\Debug\net8.0\ref\04. Matrix Shuffling.dll

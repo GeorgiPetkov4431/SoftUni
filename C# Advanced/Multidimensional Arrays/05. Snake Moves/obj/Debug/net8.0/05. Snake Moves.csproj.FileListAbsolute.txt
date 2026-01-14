@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\bin\Debug\net8.0\05. Snake Moves.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\refint\05. Snake Moves.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\05. Snake Moves.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\05. Snake Moves\obj\Debug\net8.0\ref\05. Snake Moves.dll

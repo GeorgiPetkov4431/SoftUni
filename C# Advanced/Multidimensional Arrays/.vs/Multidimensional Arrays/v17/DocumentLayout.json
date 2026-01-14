@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\03. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|solutionrelative:03. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29416F10-66D7-44B7-80A5-2B9E6A0F972E}|06. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\06. jagged array manipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29416F10-66D7-44B7-80A5-2B9E6A0F972E}|06. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj|solutionrelative:06. jagged array manipulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D629730B-CC79-4EB2-9A00-308F549F35A2}|02. Squares in Matrix\\02. Squares in Matrix.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\02. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D629730B-CC79-4EB2-9A00-308F549F35A2}|02. Squares in Matrix\\02. Squares in Matrix.csproj|solutionrelative:02. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29416F10-66D7-44B7-80A5-2B9E6A0F972E}|06. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\06. jagged array manipulator\\06. jagged array manipulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{29416F10-66D7-44B7-80A5-2B9E6A0F972E}|06. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj|solutionrelative:06. jagged array manipulator\\06. jagged array manipulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878A8285-BDBB-4ED8-B973-AF8DFC347A5E}|05. Snake Moves\\05. Snake Moves.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\05. snake moves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{878A8285-BDBB-4ED8-B973-AF8DFC347A5E}|05. Snake Moves\\05. Snake Moves.csproj|solutionrelative:05. snake moves\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE82AD-D894-4D18-9641-D08A30A0EDC0}|04. Matrix Shuffling\\04. Matrix Shuffling.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\04. matrix shuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4EE82AD-D894-4D18-9641-D08A30A0EDC0}|04. Matrix Shuffling\\04. Matrix Shuffling.csproj|solutionrelative:04. matrix shuffling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{878A8285-BDBB-4ED8-B973-AF8DFC347A5E}|05. Snake Moves\\05. Snake Moves.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\05. snake moves\\05. snake moves.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{878A8285-BDBB-4ED8-B973-AF8DFC347A5E}|05. Snake Moves\\05. Snake Moves.csproj|solutionrelative:05. snake moves\\05. snake moves.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7E71CC2-20DB-4D65-B704-AC91C6E62AC8}|01. Diagonal Difference\\01. Diagonal Difference.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\01. diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7E71CC2-20DB-4D65-B704-AC91C6E62AC8}|01. Diagonal Difference\\01. Diagonal Difference.csproj|solutionrelative:01. diagonal difference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\03. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|solutionrelative:03. maximal sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4EE82AD-D894-4D18-9641-D08A30A0EDC0}|04. Matrix Shuffling\\04. Matrix Shuffling.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\04. matrix shuffling\\04. matrix shuffling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4EE82AD-D894-4D18-9641-D08A30A0EDC0}|04. Matrix Shuffling\\04. Matrix Shuffling.csproj|solutionrelative:04. matrix shuffling\\04. matrix shuffling.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D629730B-CC79-4EB2-9A00-308F549F35A2}|02. Squares in Matrix\\02. Squares in Matrix.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\02. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D629730B-CC79-4EB2-9A00-308F549F35A2}|02. Squares in Matrix\\02. Squares in Matrix.csproj|solutionrelative:02. squares in matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE87BB37-EC16-446B-BB97-7EBB043D7074}|03. Maximal Sum\\03. Maximal Sum.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\03. maximal sum\\03. maximal sum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -37,19 +61,6 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "03. Maximal Sum",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\03. Maximal Sum.csproj",
-              "RelativeDocumentMoniker": "03. Maximal Sum\\03. Maximal Sum.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\03. Maximal Sum.csproj",
-              "RelativeToolTip": "03. Maximal Sum\\03. Maximal Sum.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-14T13:35:55.236Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
@@ -59,20 +70,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "06. Jagged Array Manipulator",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\06. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj",
+              "RelativeDocumentMoniker": "06. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\06. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj",
+              "RelativeToolTip": "06. Jagged Array Manipulator\\06. Jagged Array Manipulator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T18:57:34.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\06. Jagged Array Manipulator\\Program.cs",
+              "RelativeDocumentMoniker": "06. Jagged Array Manipulator\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\06. Jagged Array Manipulator\\Program.cs",
+              "RelativeToolTip": "06. Jagged Array Manipulator\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwFwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:57:20.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "05. Snake Moves",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\05. Snake Moves\\05. Snake Moves.csproj",
+              "RelativeDocumentMoniker": "05. Snake Moves\\05. Snake Moves.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\05. Snake Moves\\05. Snake Moves.csproj",
+              "RelativeToolTip": "05. Snake Moves\\05. Snake Moves.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T16:39:27.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\05. Snake Moves\\Program.cs",
+              "RelativeDocumentMoniker": "05. Snake Moves\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\05. Snake Moves\\Program.cs",
+              "RelativeToolTip": "05. Snake Moves\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwG8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T16:39:18.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "04. Matrix Shuffling",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\04. Matrix Shuffling\\04. Matrix Shuffling.csproj",
+              "RelativeDocumentMoniker": "04. Matrix Shuffling\\04. Matrix Shuffling.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\04. Matrix Shuffling\\04. Matrix Shuffling.csproj",
+              "RelativeToolTip": "04. Matrix Shuffling\\04. Matrix Shuffling.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T15:52:34.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\04. Matrix Shuffling\\Program.cs",
+              "RelativeDocumentMoniker": "04. Matrix Shuffling\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\04. Matrix Shuffling\\Program.cs",
+              "RelativeToolTip": "04. Matrix Shuffling\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T15:52:32.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\Program.cs",
               "RelativeDocumentMoniker": "03. Maximal Sum\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\Program.cs",
               "RelativeToolTip": "03. Maximal Sum\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAA6wE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T13:35:48.952Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "02. Squares in Matrix",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\02. Squares in Matrix\\02. Squares in Matrix.csproj",
               "RelativeDocumentMoniker": "02. Squares in Matrix\\02. Squares in Matrix.csproj",
@@ -84,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\02. Squares in Matrix\\Program.cs",
               "RelativeDocumentMoniker": "02. Squares in Matrix\\Program.cs",
@@ -92,12 +181,11 @@
               "RelativeToolTip": "02. Squares in Matrix\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T13:24:12.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T13:24:12.411Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "01. Diagonal Difference.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\01. Diagonal Difference\\01. Diagonal Difference.csproj",
               "RelativeDocumentMoniker": "01. Diagonal Difference\\01. Diagonal Difference.csproj",
@@ -110,15 +198,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\01. Diagonal Difference\\Program.cs",
               "RelativeDocumentMoniker": "01. Diagonal Difference\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\01. Diagonal Difference\\Program.cs",
               "RelativeToolTip": "01. Diagonal Difference\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAqwCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-13T13:32:42.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "03. Maximal Sum.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\03. Maximal Sum.csproj",
+              "RelativeDocumentMoniker": "03. Maximal Sum\\03. Maximal Sum.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\03. Maximal Sum\\03. Maximal Sum.csproj",
+              "RelativeToolTip": "03. Maximal Sum\\03. Maximal Sum.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T13:35:55.236Z",
               "EditorCaption": ""
             }
           ]
