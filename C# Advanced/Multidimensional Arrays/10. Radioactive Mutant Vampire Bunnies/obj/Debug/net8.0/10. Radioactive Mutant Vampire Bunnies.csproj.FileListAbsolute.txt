@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\bin\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\refint\10. Radioactive Mutant Vampire Bunnies.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\10. Radioactive Mutant Vampire Bunnies.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\10. Radioactive Mutant Vampire Bunnies\obj\Debug\net8.0\ref\10. Radioactive Mutant Vampire Bunnies.dll

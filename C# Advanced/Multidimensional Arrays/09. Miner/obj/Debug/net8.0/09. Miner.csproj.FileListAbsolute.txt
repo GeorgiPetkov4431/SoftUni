@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\bin\Debug\net8.0\09. Miner.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\bin\Debug\net8.0\09. Miner.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\bin\Debug\net8.0\09. Miner.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\bin\Debug\net8.0\09. Miner.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\bin\Debug\net8.0\09. Miner.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\09. Miner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\09. Miner.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\09. Miner.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\09. Miner.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\09. Miner.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\09. Miner.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\refint\09. Miner.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\09. Miner.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\09. Miner.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\09. Miner\obj\Debug\net8.0\ref\09. Miner.dll
