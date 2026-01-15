@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("06. Jagged Array Manipulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02c8f20af7d4f6b2e0c53d97f50abe8cc733728d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dcd04719c9dadb3e3a1d403818470d3510144ed5")]
 [assembly: System.Reflection.AssemblyProductAttribute("06. Jagged Array Manipulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("06. Jagged Array Manipulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

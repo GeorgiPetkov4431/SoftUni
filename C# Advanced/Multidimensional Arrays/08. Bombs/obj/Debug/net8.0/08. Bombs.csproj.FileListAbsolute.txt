@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\bin\Debug\net8.0\08. Bombs.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\bin\Debug\net8.0\08. Bombs.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\bin\Debug\net8.0\08. Bombs.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\bin\Debug\net8.0\08. Bombs.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\bin\Debug\net8.0\08. Bombs.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\08. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\08. Bombs.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\08. Bombs.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\08. Bombs.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\08. Bombs.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\08. Bombs.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\refint\08. Bombs.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\08. Bombs.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\08. Bombs.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Multidimensional Arrays\08. Bombs\obj\Debug\net8.0\ref\08. Bombs.dll
