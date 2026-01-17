@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36811.4 d17.14
+VisualStudioVersion = 17.14.36811.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Unique Usernames", "01. Unique Usernames\01. Unique Usernames.csproj", "{14E64912-9648-44AA-84DA-7D72DA35DC00}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count Symbols", "05. Count Symbols\05. Count Symbols.csproj", "{657463C5-B9C1-4556-A8DE-D1C7EF357038}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Wardrobe", "06. Wardrobe\06. Wardrobe.csproj", "{6FCA3A74-10B8-499E-8085-8FA7FD4E24E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. The V-Logger", "07. The V-Logger\07. The V-Logger.csproj", "{9BDA88FF-5818-409A-8A47-88D535221C39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{6FCA3A74-10B8-499E-8085-8FA7FD4E24E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FCA3A74-10B8-499E-8085-8FA7FD4E24E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FCA3A74-10B8-499E-8085-8FA7FD4E24E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDA88FF-5818-409A-8A47-88D535221C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDA88FF-5818-409A-8A47-88D535221C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDA88FF-5818-409A-8A47-88D535221C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDA88FF-5818-409A-8A47-88D535221C39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05. Count Symbols")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+131f13930d436aa7347556468900b4c23c06eaf8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bfb9533d10b146f67dbec995a0839fa9d6798da2")]
 [assembly: System.Reflection.AssemblyProductAttribute("05. Count Symbols")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05. Count Symbols")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
