@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\net8.0\01. Unique Usernames.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\net8.0\01. Unique Usernames.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\net8.0\01. Unique Usernames.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\net8.0\01. Unique Usernames.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\bin\Debug\net8.0\01. Unique Usernames.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\01. Unique Usernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\01. Unique Usernames.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\01. Unique Usernames.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\01. Unique Usernames.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\01. Unique Usernames.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\01. Unique Usernames.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\refint\01. Unique Usernames.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\01. Unique Usernames.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\01. Unique Usernames.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\01. Unique Usernames\obj\Debug\net8.0\ref\01. Unique Usernames.dll

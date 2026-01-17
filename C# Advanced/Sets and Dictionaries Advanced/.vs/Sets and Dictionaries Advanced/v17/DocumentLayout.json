@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FCA3A74-10B8-499E-8085-8FA7FD4E24E2}|06. Wardrobe\\06. Wardrobe.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\06. wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FCA3A74-10B8-499E-8085-8FA7FD4E24E2}|06. Wardrobe\\06. Wardrobe.csproj|solutionrelative:06. wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E64912-9648-44AA-84DA-7D72DA35DC00}|01. Unique Usernames\\01. Unique Usernames.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\01. unique usernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E64912-9648-44AA-84DA-7D72DA35DC00}|01. Unique Usernames\\01. Unique Usernames.csproj|solutionrelative:01. unique usernames\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657463C5-B9C1-4556-A8DE-D1C7EF357038}|05. Count Symbols\\05. Count Symbols.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\05. count symbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{657463C5-B9C1-4556-A8DE-D1C7EF357038}|05. Count Symbols\\05. Count Symbols.csproj|solutionrelative:05. count symbols\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{657463C5-B9C1-4556-A8DE-D1C7EF357038}|05. Count Symbols\\05. Count Symbols.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\05. count symbols\\05. count symbols.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{657463C5-B9C1-4556-A8DE-D1C7EF357038}|05. Count Symbols\\05. Count Symbols.csproj|solutionrelative:05. count symbols\\05. count symbols.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD188A65-4BAF-45A5-AF3F-F6D6C784AF6B}|04. Even Times\\04. Even Times.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\04. even times\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD188A65-4BAF-45A5-AF3F-F6D6C784AF6B}|04. Even Times\\04. Even Times.csproj|solutionrelative:04. even times\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD188A65-4BAF-45A5-AF3F-F6D6C784AF6B}|04. Even Times\\04. Even Times.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\04. even times\\04. even times.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AD188A65-4BAF-45A5-AF3F-F6D6C784AF6B}|04. Even Times\\04. Even Times.csproj|solutionrelative:04. even times\\04. even times.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6F005E-B7FA-4EF2-9F81-9465A6CC2505}|03. Periodic Table\\03. Periodic Table.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\03. periodic table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F6F005E-B7FA-4EF2-9F81-9465A6CC2505}|03. Periodic Table\\03. Periodic Table.csproj|solutionrelative:03. periodic table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F6F005E-B7FA-4EF2-9F81-9465A6CC2505}|03. Periodic Table\\03. Periodic Table.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\03. periodic table\\03. periodic table.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F6F005E-B7FA-4EF2-9F81-9465A6CC2505}|03. Periodic Table\\03. Periodic Table.csproj|solutionrelative:03. periodic table\\03. periodic table.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\02. sets of elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|solutionrelative:02. sets of elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\02. sets of elements\\02. sets of elements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|solutionrelative:02. sets of elements\\02. sets of elements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\02. sets of elements\\02. sets of elements.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|solutionrelative:02. sets of elements\\02. sets of elements.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E64912-9648-44AA-84DA-7D72DA35DC00}|01. Unique Usernames\\01. Unique Usernames.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\01. unique usernames\\01. unique usernames.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{14E64912-9648-44AA-84DA-7D72DA35DC00}|01. Unique Usernames\\01. Unique Usernames.csproj|solutionrelative:01. unique usernames\\01. unique usernames.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\06. Wardrobe\\Program.cs",
+              "RelativeDocumentMoniker": "06. Wardrobe\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\06. Wardrobe\\Program.cs",
+              "RelativeToolTip": "06. Wardrobe\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:36:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\05. Count Symbols\\Program.cs",
+              "RelativeDocumentMoniker": "05. Count Symbols\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\05. Count Symbols\\Program.cs",
+              "RelativeToolTip": "05. Count Symbols\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T16:02:54.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "04. Even Times",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\04. Even Times\\04. Even Times.csproj",
+              "RelativeDocumentMoniker": "04. Even Times\\04. Even Times.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\04. Even Times\\04. Even Times.csproj",
+              "RelativeToolTip": "04. Even Times\\04. Even Times.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T15:47:38.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\04. Even Times\\Program.cs",
+              "RelativeDocumentMoniker": "04. Even Times\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\04. Even Times\\Program.cs",
+              "RelativeToolTip": "04. Even Times\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA8wBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:47:30.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "03. Periodic Table",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\03. Periodic Table\\03. Periodic Table.csproj",
+              "RelativeDocumentMoniker": "03. Periodic Table\\03. Periodic Table.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\03. Periodic Table\\03. Periodic Table.csproj",
+              "RelativeToolTip": "03. Periodic Table\\03. Periodic Table.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T15:44:34.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\03. Periodic Table\\Program.cs",
+              "RelativeDocumentMoniker": "03. Periodic Table\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\03. Periodic Table\\Program.cs",
+              "RelativeToolTip": "03. Periodic Table\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T15:44:14.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "02. Sets of Elements",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\02. Sets of Elements.csproj",
+              "RelativeDocumentMoniker": "02. Sets of Elements\\02. Sets of Elements.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\02. Sets of Elements.csproj",
+              "RelativeToolTip": "02. Sets of Elements\\02. Sets of Elements.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T23:30:46.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\01. Unique Usernames\\Program.cs",
+              "RelativeDocumentMoniker": "01. Unique Usernames\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\01. Unique Usernames\\Program.cs",
+              "RelativeToolTip": "01. Unique Usernames\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T21:40:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "05. Count Symbols",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\05. Count Symbols\\05. Count Symbols.csproj",
+              "RelativeDocumentMoniker": "05. Count Symbols\\05. Count Symbols.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\05. Count Symbols\\05. Count Symbols.csproj",
+              "RelativeToolTip": "05. Count Symbols\\05. Count Symbols.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-17T16:03:06.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "02. Sets of Elements",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\02. Sets of Elements.csproj",
+              "RelativeDocumentMoniker": "02. Sets of Elements\\02. Sets of Elements.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\02. Sets of Elements.csproj",
+              "RelativeToolTip": "02. Sets of Elements\\02. Sets of Elements.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T23:30:34.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\Program.cs",
+              "RelativeDocumentMoniker": "02. Sets of Elements\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\Program.cs",
+              "RelativeToolTip": "02. Sets of Elements\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T23:30:24.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "01. Unique Usernames",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\01. Unique Usernames\\01. Unique Usernames.csproj",
+              "RelativeDocumentMoniker": "01. Unique Usernames\\01. Unique Usernames.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\01. Unique Usernames\\01. Unique Usernames.csproj",
+              "RelativeToolTip": "01. Unique Usernames\\01. Unique Usernames.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-16T21:40:39.57Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

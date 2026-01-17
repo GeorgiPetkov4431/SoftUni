@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08. Balanced Parentheses")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82a67445a1cb123401fd91db4cf5318cedcb4d8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+131f13930d436aa7347556468900b4c23c06eaf8")]
 [assembly: System.Reflection.AssemblyProductAttribute("08. Balanced Parentheses")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08. Balanced Parentheses")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

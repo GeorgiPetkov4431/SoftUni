@@ -8,7 +8,14 @@ internal class Program
 {
     static void Main(string[] args)
     {
-        string input = Console.ReadLine();
+        string? input = Console.ReadLine();
+        //string input = Console.ReadLine() ?? string.Empty;
+
+        if (input is null)
+        {
+            Console.WriteLine("NO");
+            return;
+        }
 
         Stack<char> stack = new Stack<char>();
         bool isBalanced = true;
