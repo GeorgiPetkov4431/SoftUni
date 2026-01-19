@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\bin\Debug\net8.0\09. SoftUni Exam Results.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\refint\09. SoftUni Exam Results.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\09. SoftUni Exam Results.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\09. SoftUni Exam Results\obj\Debug\net8.0\ref\09. SoftUni Exam Results.dll

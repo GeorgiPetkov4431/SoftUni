@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\bin\Debug\net8.0\04. Even Times.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\bin\Debug\net8.0\04. Even Times.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\bin\Debug\net8.0\04. Even Times.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\bin\Debug\net8.0\04. Even Times.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\bin\Debug\net8.0\04. Even Times.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\04. Even Times.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\04. Even Times.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\04. Even Times.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\04. Even Times.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\04. Even Times.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\04. Even Times.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\refint\04. Even Times.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\04. Even Times.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\04. Even Times.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\04. Even Times\obj\Debug\net8.0\ref\04. Even Times.dll

@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\bin\Debug\net8.0\05. Count Symbols.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\refint\05. Count Symbols.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\05. Count Symbols.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Sets and Dictionaries Advanced\05. Count Symbols\obj\Debug\net8.0\ref\05. Count Symbols.dll
