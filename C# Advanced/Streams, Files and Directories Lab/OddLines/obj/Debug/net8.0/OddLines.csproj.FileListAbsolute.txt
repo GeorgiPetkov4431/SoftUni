@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\bin\Debug\net8.0\OddLines.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\bin\Debug\net8.0\OddLines.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\bin\Debug\net8.0\OddLines.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\bin\Debug\net8.0\OddLines.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\bin\Debug\net8.0\OddLines.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\OddLines.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\OddLines.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\OddLines.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\OddLines.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\OddLines.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\refint\OddLines.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\OddLines.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\OddLines.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Lab\OddLines\obj\Debug\net8.0\ref\OddLines.dll

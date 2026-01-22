@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\streams, files and directories lab\\linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C5FA7F-B74E-41F3-B3D7-DEB2B3D105CB}|Playground\\Playground.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\streams, files and directories lab\\playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09C5FA7F-B74E-41F3-B3D7-DEB2B3D105CB}|Playground\\Playground.csproj|solutionrelative:playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09C5FA7F-B74E-41F3-B3D7-DEB2B3D105CB}|Playground\\Playground.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\streams, files and directories lab\\playground\\playground.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09C5FA7F-B74E-41F3-B3D7-DEB2B3D105CB}|Playground\\Playground.csproj|solutionrelative:playground\\playground.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\streams, files and directories lab\\linenumbers\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\files\\output.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\streams, files and directories lab\\linenumbers\\linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D33201D4-2748-411C-BE7F-E81F5230FA07}|LineNumbers\\LineNumbers.csproj|solutionrelative:linenumbers\\linenumbers.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\streams, files and directories lab\\oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEEBDCA6-7709-46A4-A04B-5D641AC54D40}|OddLines\\OddLines.csproj|solutionrelative:oddlines\\oddlines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Playground",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\Playground\\Playground.csproj",
+              "RelativeDocumentMoniker": "Playground\\Playground.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\Playground\\Playground.csproj",
+              "RelativeToolTip": "Playground\\Playground.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T23:32:45.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\Playground\\Program.cs",
+              "RelativeDocumentMoniker": "Playground\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\Playground\\Program.cs",
+              "RelativeToolTip": "Playground\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T23:32:42.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "output.txt",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\LineNumbers\\Files\\output.txt",
+              "RelativeDocumentMoniker": "LineNumbers\\Files\\output.txt",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\LineNumbers\\Files\\output.txt",
+              "RelativeToolTip": "LineNumbers\\Files\\output.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-20T15:17:45.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LineNumbers",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\LineNumbers\\LineNumbers.csproj",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T15:13:44.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LineNumbers.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\LineNumbers\\LineNumbers.cs",
+              "RelativeDocumentMoniker": "LineNumbers\\LineNumbers.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\LineNumbers\\LineNumbers.cs",
+              "RelativeToolTip": "LineNumbers\\LineNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:07:16.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OddLines.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\OddLines\\OddLines.cs",
+              "RelativeDocumentMoniker": "OddLines\\OddLines.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Streams, Files and Directories Lab\\OddLines\\OddLines.cs",
+              "RelativeToolTip": "OddLines\\OddLines.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T15:01:16.088Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

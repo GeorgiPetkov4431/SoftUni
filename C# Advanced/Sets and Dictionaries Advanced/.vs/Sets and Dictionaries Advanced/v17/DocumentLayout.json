@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9178B91B-1BD3-44F4-BFE9-413CD25FE3ED}|10. ForceBook\\10. ForceBook.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\10. forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9178B91B-1BD3-44F4-BFE9-413CD25FE3ED}|10. ForceBook\\10. ForceBook.csproj|solutionrelative:10. forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9178B91B-1BD3-44F4-BFE9-413CD25FE3ED}|10. ForceBook\\10. ForceBook.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\10. forcebook\\10. forcebook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9178B91B-1BD3-44F4-BFE9-413CD25FE3ED}|10. ForceBook\\10. ForceBook.csproj|solutionrelative:10. forcebook\\10. forcebook.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1CCD97FC-3894-4DE6-90E4-6FB21BCB67DA}|08. Ranking\\08. Ranking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\08. ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCD97FC-3894-4DE6-90E4-6FB21BCB67DA}|08. Ranking\\08. Ranking.csproj|solutionrelative:08. ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C86E0F6B-E6AE-414C-A982-4CA8F9F32103}|09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\09. softuni exam results\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C86E0F6B-E6AE-414C-A982-4CA8F9F32103}|09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj|solutionrelative:09. softuni exam results\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C86E0F6B-E6AE-414C-A982-4CA8F9F32103}|09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\09. softuni exam results\\09. softuni exam results.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C86E0F6B-E6AE-414C-A982-4CA8F9F32103}|09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj|solutionrelative:09. softuni exam results\\09. softuni exam results.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCD97FC-3894-4DE6-90E4-6FB21BCB67DA}|08. Ranking\\08. Ranking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\08. ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CCD97FC-3894-4DE6-90E4-6FB21BCB67DA}|08. Ranking\\08. Ranking.csproj|solutionrelative:08. ranking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CCD97FC-3894-4DE6-90E4-6FB21BCB67DA}|08. Ranking\\08. Ranking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\08. ranking\\08. ranking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1CCD97FC-3894-4DE6-90E4-6FB21BCB67DA}|08. Ranking\\08. Ranking.csproj|solutionrelative:08. ranking\\08. ranking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9178B91B-1BD3-44F4-BFE9-413CD25FE3ED}|10. ForceBook\\10. ForceBook.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\10. forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9178B91B-1BD3-44F4-BFE9-413CD25FE3ED}|10. ForceBook\\10. ForceBook.csproj|solutionrelative:10. forcebook\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BDA88FF-5818-409A-8A47-88D535221C39}|07. The V-Logger\\07. The V-Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\07. the v-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BDA88FF-5818-409A-8A47-88D535221C39}|07. The V-Logger\\07. The V-Logger.csproj|solutionrelative:07. the v-logger\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BDA88FF-5818-409A-8A47-88D535221C39}|07. The V-Logger\\07. The V-Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\07. the v-logger\\07. the v-logger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9BDA88FF-5818-409A-8A47-88D535221C39}|07. The V-Logger\\07. The V-Logger.csproj|solutionrelative:07. the v-logger\\07. the v-logger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FCA3A74-10B8-499E-8085-8FA7FD4E24E2}|06. Wardrobe\\06. Wardrobe.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\06. wardrobe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,24 +39,12 @@
       "RelativeMoniker": "D:0:0:{AD188A65-4BAF-45A5-AF3F-F6D6C784AF6B}|04. Even Times\\04. Even Times.csproj|solutionrelative:04. even times\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD188A65-4BAF-45A5-AF3F-F6D6C784AF6B}|04. Even Times\\04. Even Times.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\04. even times\\04. even times.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AD188A65-4BAF-45A5-AF3F-F6D6C784AF6B}|04. Even Times\\04. Even Times.csproj|solutionrelative:04. even times\\04. even times.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7F6F005E-B7FA-4EF2-9F81-9465A6CC2505}|03. Periodic Table\\03. Periodic Table.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\03. periodic table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F6F005E-B7FA-4EF2-9F81-9465A6CC2505}|03. Periodic Table\\03. Periodic Table.csproj|solutionrelative:03. periodic table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7F6F005E-B7FA-4EF2-9F81-9465A6CC2505}|03. Periodic Table\\03. Periodic Table.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\03. periodic table\\03. periodic table.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7F6F005E-B7FA-4EF2-9F81-9465A6CC2505}|03. Periodic Table\\03. Periodic Table.csproj|solutionrelative:03. periodic table\\03. periodic table.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\02. sets of elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|solutionrelative:02. sets of elements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\02. sets of elements\\02. sets of elements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|solutionrelative:02. sets of elements\\02. sets of elements.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{57FC3339-26C4-4911-9B35-57EF93C1E0C6}|02. Sets of Elements\\02. Sets of Elements.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\sets and dictionaries advanced\\02. sets of elements\\02. sets of elements.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -90,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,20 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "10. ForceBook",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\10. ForceBook\\10. ForceBook.csproj",
-              "RelativeDocumentMoniker": "10. ForceBook\\10. ForceBook.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\10. ForceBook\\10. ForceBook.csproj",
-              "RelativeToolTip": "10. ForceBook\\10. ForceBook.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-19T14:18:27.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\10. ForceBook\\Program.cs",
               "RelativeDocumentMoniker": "10. ForceBook\\Program.cs",
@@ -128,72 +87,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "09. SoftUni Exam Results",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj",
-              "RelativeDocumentMoniker": "09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj",
-              "RelativeToolTip": "09. SoftUni Exam Results\\09. SoftUni Exam Results.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-19T11:46:55.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\09. SoftUni Exam Results\\Program.cs",
               "RelativeDocumentMoniker": "09. SoftUni Exam Results\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\09. SoftUni Exam Results\\Program.cs",
               "RelativeToolTip": "09. SoftUni Exam Results\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-19T11:46:37.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "08. Ranking",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\08. Ranking\\08. Ranking.csproj",
-              "RelativeDocumentMoniker": "08. Ranking\\08. Ranking.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\08. Ranking\\08. Ranking.csproj",
-              "RelativeToolTip": "08. Ranking\\08. Ranking.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-18T21:39:59.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\08. Ranking\\Program.cs",
               "RelativeDocumentMoniker": "08. Ranking\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\08. Ranking\\Program.cs",
               "RelativeToolTip": "08. Ranking\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T21:39:46.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "07. The V-Logger.csproj",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\07. The V-Logger\\07. The V-Logger.csproj",
-              "RelativeDocumentMoniker": "07. The V-Logger\\07. The V-Logger.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\07. The V-Logger\\07. The V-Logger.csproj",
-              "RelativeToolTip": "07. The V-Logger\\07. The V-Logger.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-17T19:48:41.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\07. The V-Logger\\Program.cs",
               "RelativeDocumentMoniker": "07. The V-Logger\\Program.cs",
@@ -201,12 +121,11 @@
               "RelativeToolTip": "07. The V-Logger\\Program.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAQwDoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-17T19:48:26.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T19:48:26.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\06. Wardrobe\\Program.cs",
               "RelativeDocumentMoniker": "06. Wardrobe\\Program.cs",
@@ -218,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\05. Count Symbols\\Program.cs",
               "RelativeDocumentMoniker": "05. Count Symbols\\Program.cs",
@@ -230,20 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "04. Even Times.csproj",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\04. Even Times\\04. Even Times.csproj",
-              "RelativeDocumentMoniker": "04. Even Times\\04. Even Times.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\04. Even Times\\04. Even Times.csproj",
-              "RelativeToolTip": "04. Even Times\\04. Even Times.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-17T15:47:38.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\04. Even Times\\Program.cs",
               "RelativeDocumentMoniker": "04. Even Times\\Program.cs",
@@ -255,20 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "03. Periodic Table.csproj",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\03. Periodic Table\\03. Periodic Table.csproj",
-              "RelativeDocumentMoniker": "03. Periodic Table\\03. Periodic Table.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\03. Periodic Table\\03. Periodic Table.csproj",
-              "RelativeToolTip": "03. Periodic Table\\03. Periodic Table.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-17T15:44:34.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\03. Periodic Table\\Program.cs",
               "RelativeDocumentMoniker": "03. Periodic Table\\Program.cs",
@@ -280,20 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "02. Sets of Elements.csproj",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\02. Sets of Elements.csproj",
-              "RelativeDocumentMoniker": "02. Sets of Elements\\02. Sets of Elements.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\02. Sets of Elements.csproj",
-              "RelativeToolTip": "02. Sets of Elements\\02. Sets of Elements.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T23:30:46.724Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\01. Unique Usernames\\Program.cs",
               "RelativeDocumentMoniker": "01. Unique Usernames\\Program.cs",
@@ -305,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "05. Count Symbols.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\05. Count Symbols\\05. Count Symbols.csproj",
               "RelativeDocumentMoniker": "05. Count Symbols\\05. Count Symbols.csproj",
@@ -313,24 +193,22 @@
               "RelativeToolTip": "05. Count Symbols\\05. Count Symbols.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-17T16:03:06.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-17T16:03:06.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "02. Sets of Elements",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\02. Sets of Elements.csproj",
               "RelativeDocumentMoniker": "02. Sets of Elements\\02. Sets of Elements.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\02. Sets of Elements.csproj",
               "RelativeToolTip": "02. Sets of Elements\\02. Sets of Elements.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T23:30:34.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T23:30:34.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\02. Sets of Elements\\Program.cs",
               "RelativeDocumentMoniker": "02. Sets of Elements\\Program.cs",
@@ -342,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 12,
               "Title": "01. Unique Usernames.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Sets and Dictionaries Advanced\\01. Unique Usernames\\01. Unique Usernames.csproj",
               "RelativeDocumentMoniker": "01. Unique Usernames\\01. Unique Usernames.csproj",
@@ -350,8 +228,7 @@
               "RelativeToolTip": "01. Unique Usernames\\01. Unique Usernames.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-16T21:40:39.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-16T21:40:39.57Z"
             }
           ]
         }
