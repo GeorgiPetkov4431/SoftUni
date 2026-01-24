@@ -2,10 +2,26 @@
 {
     using System;
     using System.IO;
+    using System.Linq;
+
     public class ZipAndExtract
     {
         static void Main()
         {
+            /*using (StreamWriter sr = new StreamWriter("text.txt"))
+            {
+                sr.Write("what's up");
+            }
+
+            string file = Path.GetFullPath("text.txt");
+            Console.WriteLine(file);
+
+            Console.WriteLine();
+
+            string[] files = Directory.GetFiles(".").Select(f => f = Path.GetFileName(f)).ToArray();
+            Console.WriteLine(string.Join("\n", files));
+
+            return;*/
             string inputFile = @"..\..\..\copyMe.png";
             string zipArchiveFile = @"..\..\..\archive.zip";
             string extractedFile = @"..\..\..\extracted.png";
@@ -18,12 +34,12 @@
 
         public static void ZipFileToArchive(string inputFilePath, string zipArchiveFilePath)
         {
-            throw new NotImplementedException();
+            
         }
 
         public static void ExtractFileFromArchive(string zipArchiveFilePath, string fileName, string outputFilePath)
         {
-            throw new NotImplementedException();
+            
         }
     }
 }

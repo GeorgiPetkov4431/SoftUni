@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\bin\Debug\net8.0\EvenLines.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\bin\Debug\net8.0\EvenLines.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\bin\Debug\net8.0\EvenLines.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\bin\Debug\net8.0\EvenLines.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\bin\Debug\net8.0\EvenLines.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\EvenLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\EvenLines.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\EvenLines.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\EvenLines.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\EvenLines.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\EvenLines.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\refint\EvenLines.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\EvenLines.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\EvenLines.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\EvenLines\obj\Debug\net8.0\ref\EvenLines.dll

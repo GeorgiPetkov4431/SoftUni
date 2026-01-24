@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\bin\Debug\net8.0\ZipAndExtract.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\refint\ZipAndExtract.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ZipAndExtract.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\ZipAndExtract\obj\Debug\net8.0\ref\ZipAndExtract.dll

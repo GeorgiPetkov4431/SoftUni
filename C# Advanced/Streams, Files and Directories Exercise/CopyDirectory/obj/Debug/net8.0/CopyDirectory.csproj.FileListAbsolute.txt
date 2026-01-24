@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\bin\Debug\net8.0\CopyDirectory.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\bin\Debug\net8.0\CopyDirectory.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\bin\Debug\net8.0\CopyDirectory.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\bin\Debug\net8.0\CopyDirectory.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\bin\Debug\net8.0\CopyDirectory.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\CopyDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\CopyDirectory.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\CopyDirectory.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\CopyDirectory.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\CopyDirectory.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\CopyDirectory.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\refint\CopyDirectory.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\CopyDirectory.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\CopyDirectory.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Streams, Files and Directories Exercise\CopyDirectory\obj\Debug\net8.0\ref\CopyDirectory.dll
