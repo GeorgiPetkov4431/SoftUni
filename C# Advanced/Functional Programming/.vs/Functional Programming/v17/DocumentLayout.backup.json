@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{790C5C36-527D-4E4E-AD8B-97020E826EAF}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\06. reverse and exclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790C5C36-527D-4E4E-AD8B-97020E826EAF}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|solutionrelative:06. reverse and exclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAB9024-91C9-4C18-A135-44CA54757726}|07. Predicate for Names\\07. Predicate for Names.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\07. predicate for names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DAB9024-91C9-4C18-A135-44CA54757726}|07. Predicate for Names\\07. Predicate for Names.csproj|solutionrelative:07. predicate for names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1700BA-B4F2-4F58-803B-E212013502A3}|08. List of Predicates\\08. List of Predicates.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\08. list of predicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1700BA-B4F2-4F58-803B-E212013502A3}|08. List of Predicates\\08. List of Predicates.csproj|solutionrelative:08. list of predicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DAB9024-91C9-4C18-A135-44CA54757726}|07. Predicate for Names\\07. Predicate for Names.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\07. predicate for names\\07. predicate for names.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2DAB9024-91C9-4C18-A135-44CA54757726}|07. Predicate for Names\\07. Predicate for Names.csproj|solutionrelative:07. predicate for names\\07. predicate for names.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790C5C36-527D-4E4E-AD8B-97020E826EAF}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\06. reverse and exclude\\06. reverse and exclude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{790C5C36-527D-4E4E-AD8B-97020E826EAF}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|solutionrelative:06. reverse and exclude\\06. reverse and exclude.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D0866C-353A-4165-AD45-28AB35A53528}|05. Applied Arithmetics\\05. Applied Arithmetics.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\05. applied arithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33D0866C-353A-4165-AD45-28AB35A53528}|05. Applied Arithmetics\\05. Applied Arithmetics.csproj|solutionrelative:05. applied arithmetics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33D0866C-353A-4165-AD45-28AB35A53528}|05. Applied Arithmetics\\05. Applied Arithmetics.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\05. applied arithmetics\\05. applied arithmetics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33D0866C-353A-4165-AD45-28AB35A53528}|05. Applied Arithmetics\\05. Applied Arithmetics.csproj|solutionrelative:05. applied arithmetics\\05. applied arithmetics.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61831AF3-E108-4A6A-8EAC-2B29B50FD956}|04. Find Evens or Odds\\04. Find Evens or Odds.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\04. find evens or odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61831AF3-E108-4A6A-8EAC-2B29B50FD956}|04. Find Evens or Odds\\04. Find Evens or Odds.csproj|solutionrelative:04. find evens or odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,7 +79,98 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "04. Find Evens or Odds",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\08. List of Predicates\\Program.cs",
+              "RelativeDocumentMoniker": "08. List of Predicates\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\08. List of Predicates\\Program.cs",
+              "RelativeToolTip": "08. List of Predicates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:38:48.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "07. Predicate for Names",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\07. Predicate for Names\\07. Predicate for Names.csproj",
+              "RelativeDocumentMoniker": "07. Predicate for Names\\07. Predicate for Names.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\07. Predicate for Names\\07. Predicate for Names.csproj",
+              "RelativeToolTip": "07. Predicate for Names\\07. Predicate for Names.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T18:24:00.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\07. Predicate for Names\\Program.cs",
+              "RelativeDocumentMoniker": "07. Predicate for Names\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\07. Predicate for Names\\Program.cs",
+              "RelativeToolTip": "07. Predicate for Names\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T18:23:06.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "06. Reverse and Exclude",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
+              "RelativeDocumentMoniker": "06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
+              "RelativeToolTip": "06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T17:56:01.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\06. Reverse and Exclude\\Program.cs",
+              "RelativeDocumentMoniker": "06. Reverse and Exclude\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\06. Reverse and Exclude\\Program.cs",
+              "RelativeToolTip": "06. Reverse and Exclude\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T17:55:51.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "05. Applied Arithmetics",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+              "RelativeDocumentMoniker": "05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+              "RelativeToolTip": "05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T15:52:36.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\05. Applied Arithmetics\\Program.cs",
+              "RelativeDocumentMoniker": "05. Applied Arithmetics\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\05. Applied Arithmetics\\Program.cs",
+              "RelativeToolTip": "05. Applied Arithmetics\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T15:52:27.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "04. Find Evens or Odds.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
               "RelativeDocumentMoniker": "04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
@@ -63,21 +182,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\Program.cs",
               "RelativeDocumentMoniker": "04. Find Evens or Odds\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\Program.cs",
               "RelativeToolTip": "04. Find Evens or Odds\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T14:10:10.921Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "03. Custom Min Function",
+              "DocumentIndex": 10,
+              "Title": "03. Custom Min Function.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\03. Custom Min Function.csproj",
               "RelativeDocumentMoniker": "03. Custom Min Function\\03. Custom Min Function.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\03. Custom Min Function.csproj",
@@ -89,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\Program.cs",
               "RelativeDocumentMoniker": "03. Custom Min Function\\Program.cs",
@@ -97,12 +216,11 @@
               "RelativeToolTip": "03. Custom Min Function\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T13:59:20.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T13:59:20.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\02. Knights of Honor\\Program.cs",
               "RelativeDocumentMoniker": "02. Knights of Honor\\Program.cs",
@@ -110,13 +228,12 @@
               "RelativeToolTip": "02. Knights of Honor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T01:22:41.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T01:22:41.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "01. Action Print",
+              "DocumentIndex": 13,
+              "Title": "01. Action Print.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\01. Action Print.csproj",
               "RelativeDocumentMoniker": "01. Action Print\\01. Action Print.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\01. Action Print.csproj",
@@ -128,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\Program.cs",
               "RelativeDocumentMoniker": "01. Action Print\\Program.cs",
@@ -136,8 +253,7 @@
               "RelativeToolTip": "01. Action Print\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T01:18:29.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T01:18:29.004Z"
             }
           ]
         }

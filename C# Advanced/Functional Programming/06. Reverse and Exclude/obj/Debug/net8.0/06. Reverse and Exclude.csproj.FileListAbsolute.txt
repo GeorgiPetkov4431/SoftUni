@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\bin\Debug\net8.0\06. Reverse and Exclude.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\bin\Debug\net8.0\06. Reverse and Exclude.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\bin\Debug\net8.0\06. Reverse and Exclude.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\bin\Debug\net8.0\06. Reverse and Exclude.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\bin\Debug\net8.0\06. Reverse and Exclude.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\06. Reverse and Exclude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\06. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\06. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\06. Reverse and Exclude.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\06. Reverse and Exclude.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\06. Reverse and Exclude.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\refint\06. Reverse and Exclude.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\06. Reverse and Exclude.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\06. Reverse and Exclude.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\06. Reverse and Exclude\obj\Debug\net8.0\ref\06. Reverse and Exclude.dll
