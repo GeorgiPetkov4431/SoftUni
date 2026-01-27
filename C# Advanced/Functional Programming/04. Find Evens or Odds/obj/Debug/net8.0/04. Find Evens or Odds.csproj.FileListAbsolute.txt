@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\bin\Debug\net8.0\04. Find Evens or Odds.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\bin\Debug\net8.0\04. Find Evens or Odds.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\bin\Debug\net8.0\04. Find Evens or Odds.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\bin\Debug\net8.0\04. Find Evens or Odds.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\bin\Debug\net8.0\04. Find Evens or Odds.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\04. Find Evens or Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\04. Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\04. Find Evens or Odds.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\04. Find Evens or Odds.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\04. Find Evens or Odds.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\refint\04. Find Evens or Odds.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\04. Find Evens or Odds.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\04. Find Evens or Odds.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\04. Find Evens or Odds\obj\Debug\net8.0\ref\04. Find Evens or Odds.dll

@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\bin\Debug\net8.0\02. Knights of Honor.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\bin\Debug\net8.0\02. Knights of Honor.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\bin\Debug\net8.0\02. Knights of Honor.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\bin\Debug\net8.0\02. Knights of Honor.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\bin\Debug\net8.0\02. Knights of Honor.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\02. Knights of Honor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\02. Knights of Honor.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\02. Knights of Honor.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\02. Knights of Honor.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\02. Knights of Honor.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\02. Knights of Honor.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\refint\02. Knights of Honor.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\02. Knights of Honor.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\02. Knights of Honor.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\02. Knights of Honor\obj\Debug\net8.0\ref\02. Knights of Honor.dll

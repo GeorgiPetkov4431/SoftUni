@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\bin\Debug\net8.0\01. Action Print.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\bin\Debug\net8.0\01. Action Print.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\bin\Debug\net8.0\01. Action Print.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\bin\Debug\net8.0\01. Action Print.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\bin\Debug\net8.0\01. Action Print.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\01. Action Print.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\01. Action Print.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\01. Action Print.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\01. Action Print.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\01. Action Print.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\refint\01. Action Print.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\01. Action Print.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\01. Action Print.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\01. Action Print\obj\Debug\net8.0\ref\01. Action Print.dll

@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61831AF3-E108-4A6A-8EAC-2B29B50FD956}|04. Find Evens or Odds\\04. Find Evens or Odds.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\04. find evens or odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61831AF3-E108-4A6A-8EAC-2B29B50FD956}|04. Find Evens or Odds\\04. Find Evens or Odds.csproj|solutionrelative:04. find evens or odds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F54BD3-A563-47CE-85D1-C241A7C31B18}|03. Custom Min Function\\03. Custom Min Function.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\03. custom min function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F54BD3-A563-47CE-85D1-C241A7C31B18}|03. Custom Min Function\\03. Custom Min Function.csproj|solutionrelative:03. custom min function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61831AF3-E108-4A6A-8EAC-2B29B50FD956}|04. Find Evens or Odds\\04. Find Evens or Odds.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\04. find evens or odds\\04. find evens or odds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{61831AF3-E108-4A6A-8EAC-2B29B50FD956}|04. Find Evens or Odds\\04. Find Evens or Odds.csproj|solutionrelative:04. find evens or odds\\04. find evens or odds.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F54BD3-A563-47CE-85D1-C241A7C31B18}|03. Custom Min Function\\03. Custom Min Function.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\03. custom min function\\03. custom min function.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02F54BD3-A563-47CE-85D1-C241A7C31B18}|03. Custom Min Function\\03. Custom Min Function.csproj|solutionrelative:03. custom min function\\03. custom min function.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28DA9016-9456-473C-8660-2C6CD4DA4E3E}|02. Knights of Honor\\02. Knights of Honor.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\02. knights of honor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28DA9016-9456-473C-8660-2C6CD4DA4E3E}|02. Knights of Honor\\02. Knights of Honor.csproj|solutionrelative:02. knights of honor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1F9534-52A9-497A-A2A5-E06A59F32497}|01. Action Print\\01. Action Print.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\01. action print\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1F9534-52A9-497A-A2A5-E06A59F32497}|01. Action Print\\01. Action Print.csproj|solutionrelative:01. action print\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1F9534-52A9-497A-A2A5-E06A59F32497}|01. Action Print\\01. Action Print.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\01. action print\\01. action print.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF1F9534-52A9-497A-A2A5-E06A59F32497}|01. Action Print\\01. Action Print.csproj|solutionrelative:01. action print\\01. action print.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04. Find Evens or Odds",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+              "RelativeDocumentMoniker": "04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+              "RelativeToolTip": "04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T14:10:16.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\Program.cs",
+              "RelativeDocumentMoniker": "04. Find Evens or Odds\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\Program.cs",
+              "RelativeToolTip": "04. Find Evens or Odds\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T14:10:10.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03. Custom Min Function",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\03. Custom Min Function.csproj",
+              "RelativeDocumentMoniker": "03. Custom Min Function\\03. Custom Min Function.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\03. Custom Min Function.csproj",
+              "RelativeToolTip": "03. Custom Min Function\\03. Custom Min Function.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T13:59:27.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\Program.cs",
+              "RelativeDocumentMoniker": "03. Custom Min Function\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\Program.cs",
+              "RelativeToolTip": "03. Custom Min Function\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T13:59:20.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\02. Knights of Honor\\Program.cs",
+              "RelativeDocumentMoniker": "02. Knights of Honor\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\02. Knights of Honor\\Program.cs",
+              "RelativeToolTip": "02. Knights of Honor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:22:41.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "01. Action Print",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\01. Action Print.csproj",
+              "RelativeDocumentMoniker": "01. Action Print\\01. Action Print.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\01. Action Print.csproj",
+              "RelativeToolTip": "01. Action Print\\01. Action Print.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T01:19:00.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\Program.cs",
+              "RelativeDocumentMoniker": "01. Action Print\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\Program.cs",
+              "RelativeToolTip": "01. Action Print\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T01:18:29.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
