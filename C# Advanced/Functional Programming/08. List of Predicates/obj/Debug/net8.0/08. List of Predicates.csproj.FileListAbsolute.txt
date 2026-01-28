@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\bin\Debug\net8.0\08. List of Predicates.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\bin\Debug\net8.0\08. List of Predicates.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\bin\Debug\net8.0\08. List of Predicates.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\bin\Debug\net8.0\08. List of Predicates.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\bin\Debug\net8.0\08. List of Predicates.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\08. List of Predicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\08. List of Predicates.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\08. List of Predicates.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\08. List of Predicates.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\08. List of Predicates.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\08. List of Predicates.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\refint\08. List of Predicates.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\08. List of Predicates.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\08. List of Predicates.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\08. List of Predicates\obj\Debug\net8.0\ref\08. List of Predicates.dll

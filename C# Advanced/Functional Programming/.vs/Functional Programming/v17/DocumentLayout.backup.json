@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{790C5C36-527D-4E4E-AD8B-97020E826EAF}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\06. reverse and exclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{790C5C36-527D-4E4E-AD8B-97020E826EAF}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|solutionrelative:06. reverse and exclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C94F7D4D-9BEE-4365-AF11-2A24D29E472D}|11. TriFunction\\11. TriFunction.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\11. trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C94F7D4D-9BEE-4365-AF11-2A24D29E472D}|11. TriFunction\\11. TriFunction.csproj|solutionrelative:11. trifunction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C94F7D4D-9BEE-4365-AF11-2A24D29E472D}|11. TriFunction\\11. TriFunction.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\11. trifunction\\11. trifunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C94F7D4D-9BEE-4365-AF11-2A24D29E472D}|11. TriFunction\\11. TriFunction.csproj|solutionrelative:11. trifunction\\11. trifunction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E78FAAB-68FD-40DB-8B65-C280F2F1E75D}|10. Party Reservation Filter Module\\10. Party Reservation Filter Module.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\10. party reservation filter module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E78FAAB-68FD-40DB-8B65-C280F2F1E75D}|10. Party Reservation Filter Module\\10. Party Reservation Filter Module.csproj|solutionrelative:10. party reservation filter module\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1700BA-B4F2-4F58-803B-E212013502A3}|08. List of Predicates\\08. List of Predicates.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\08. list of predicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD1700BA-B4F2-4F58-803B-E212013502A3}|08. List of Predicates\\08. List of Predicates.csproj|solutionrelative:08. list of predicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B7CD0D-5F40-4D65-A6A7-1CCD912E686E}|09. Predicate Party\\09. Predicate Party.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\09. predicate party\\09. predicate party.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6B7CD0D-5F40-4D65-A6A7-1CCD912E686E}|09. Predicate Party\\09. Predicate Party.csproj|solutionrelative:09. predicate party\\09. predicate party.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B7CD0D-5F40-4D65-A6A7-1CCD912E686E}|09. Predicate Party\\09. Predicate Party.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\09. predicate party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B7CD0D-5F40-4D65-A6A7-1CCD912E686E}|09. Predicate Party\\09. Predicate Party.csproj|solutionrelative:09. predicate party\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E78FAAB-68FD-40DB-8B65-C280F2F1E75D}|10. Party Reservation Filter Module\\10. Party Reservation Filter Module.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\10. party reservation filter module\\10. party reservation filter module.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8E78FAAB-68FD-40DB-8B65-C280F2F1E75D}|10. Party Reservation Filter Module\\10. Party Reservation Filter Module.csproj|solutionrelative:10. party reservation filter module\\10. party reservation filter module.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DAB9024-91C9-4C18-A135-44CA54757726}|07. Predicate for Names\\07. Predicate for Names.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\07. predicate for names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2DAB9024-91C9-4C18-A135-44CA54757726}|07. Predicate for Names\\07. Predicate for Names.csproj|solutionrelative:07. predicate for names\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD1700BA-B4F2-4F58-803B-E212013502A3}|08. List of Predicates\\08. List of Predicates.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\08. list of predicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD1700BA-B4F2-4F58-803B-E212013502A3}|08. List of Predicates\\08. List of Predicates.csproj|solutionrelative:08. list of predicates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{790C5C36-527D-4E4E-AD8B-97020E826EAF}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\06. reverse and exclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790C5C36-527D-4E4E-AD8B-97020E826EAF}|06. Reverse and Exclude\\06. Reverse and Exclude.csproj|solutionrelative:06. reverse and exclude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD1700BA-B4F2-4F58-803B-E212013502A3}|08. List of Predicates\\08. List of Predicates.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\08. list of predicates\\08. list of predicates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD1700BA-B4F2-4F58-803B-E212013502A3}|08. List of Predicates\\08. List of Predicates.csproj|solutionrelative:08. list of predicates\\08. list of predicates.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2DAB9024-91C9-4C18-A135-44CA54757726}|07. Predicate for Names\\07. Predicate for Names.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\functional programming\\07. predicate for names\\07. predicate for names.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -66,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,21 +106,112 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "11. TriFunction",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\11. TriFunction\\11. TriFunction.csproj",
+              "RelativeDocumentMoniker": "11. TriFunction\\11. TriFunction.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\11. TriFunction\\11. TriFunction.csproj",
+              "RelativeToolTip": "11. TriFunction\\11. TriFunction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T11:46:36.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\11. TriFunction\\Program.cs",
+              "RelativeDocumentMoniker": "11. TriFunction\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\11. TriFunction\\Program.cs",
+              "RelativeToolTip": "11. TriFunction\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T11:46:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "10. Party Reservation Filter Module",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\10. Party Reservation Filter Module\\10. Party Reservation Filter Module.csproj",
+              "RelativeDocumentMoniker": "10. Party Reservation Filter Module\\10. Party Reservation Filter Module.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\10. Party Reservation Filter Module\\10. Party Reservation Filter Module.csproj",
+              "RelativeToolTip": "10. Party Reservation Filter Module\\10. Party Reservation Filter Module.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-28T02:23:16.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\10. Party Reservation Filter Module\\Program.cs",
+              "RelativeDocumentMoniker": "10. Party Reservation Filter Module\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\10. Party Reservation Filter Module\\Program.cs",
+              "RelativeToolTip": "10. Party Reservation Filter Module\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T02:23:10.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "09. Predicate Party",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\09. Predicate Party\\09. Predicate Party.csproj",
+              "RelativeDocumentMoniker": "09. Predicate Party\\09. Predicate Party.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\09. Predicate Party\\09. Predicate Party.csproj",
+              "RelativeToolTip": "09. Predicate Party\\09. Predicate Party.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T20:41:48.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\09. Predicate Party\\Program.cs",
+              "RelativeDocumentMoniker": "09. Predicate Party\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\09. Predicate Party\\Program.cs",
+              "RelativeToolTip": "09. Predicate Party\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T20:41:37.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "08. List of Predicates",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\08. List of Predicates\\08. List of Predicates.csproj",
+              "RelativeDocumentMoniker": "08. List of Predicates\\08. List of Predicates.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\08. List of Predicates\\08. List of Predicates.csproj",
+              "RelativeToolTip": "08. List of Predicates\\08. List of Predicates.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-27T19:44:17.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\08. List of Predicates\\Program.cs",
               "RelativeDocumentMoniker": "08. List of Predicates\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\08. List of Predicates\\Program.cs",
               "RelativeToolTip": "08. List of Predicates\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T18:38:48.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "07. Predicate for Names",
+              "DocumentIndex": 10,
+              "Title": "07. Predicate for Names.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\07. Predicate for Names\\07. Predicate for Names.csproj",
               "RelativeDocumentMoniker": "07. Predicate for Names\\07. Predicate for Names.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\07. Predicate for Names\\07. Predicate for Names.csproj",
@@ -104,21 +223,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\07. Predicate for Names\\Program.cs",
               "RelativeDocumentMoniker": "07. Predicate for Names\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\07. Predicate for Names\\Program.cs",
               "RelativeToolTip": "07. Predicate for Names\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T18:23:06.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "06. Reverse and Exclude",
+              "DocumentIndex": 11,
+              "Title": "06. Reverse and Exclude.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
               "RelativeDocumentMoniker": "06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\06. Reverse and Exclude\\06. Reverse and Exclude.csproj",
@@ -130,21 +249,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\06. Reverse and Exclude\\Program.cs",
               "RelativeDocumentMoniker": "06. Reverse and Exclude\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\06. Reverse and Exclude\\Program.cs",
               "RelativeToolTip": "06. Reverse and Exclude\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-27T17:55:51.244Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "05. Applied Arithmetics",
+              "DocumentIndex": 13,
+              "Title": "05. Applied Arithmetics.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
               "RelativeDocumentMoniker": "05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\05. Applied Arithmetics\\05. Applied Arithmetics.csproj",
@@ -156,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\05. Applied Arithmetics\\Program.cs",
               "RelativeDocumentMoniker": "05. Applied Arithmetics\\Program.cs",
@@ -164,12 +283,11 @@
               "RelativeToolTip": "05. Applied Arithmetics\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAqwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T15:52:27.633Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T15:52:27.633Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "04. Find Evens or Odds.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
               "RelativeDocumentMoniker": "04. Find Evens or Odds\\04. Find Evens or Odds.csproj",
@@ -182,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\04. Find Evens or Odds\\Program.cs",
               "RelativeDocumentMoniker": "04. Find Evens or Odds\\Program.cs",
@@ -190,12 +308,11 @@
               "RelativeToolTip": "04. Find Evens or Odds\\Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAA6wBUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-27T14:10:10.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-27T14:10:10.921Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "03. Custom Min Function.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\03. Custom Min Function.csproj",
               "RelativeDocumentMoniker": "03. Custom Min Function\\03. Custom Min Function.csproj",
@@ -208,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\03. Custom Min Function\\Program.cs",
               "RelativeDocumentMoniker": "03. Custom Min Function\\Program.cs",
@@ -220,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\02. Knights of Honor\\Program.cs",
               "RelativeDocumentMoniker": "02. Knights of Honor\\Program.cs",
@@ -232,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "01. Action Print.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\01. Action Print.csproj",
               "RelativeDocumentMoniker": "01. Action Print\\01. Action Print.csproj",
@@ -245,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Functional Programming\\01. Action Print\\Program.cs",
               "RelativeDocumentMoniker": "01. Action Print\\Program.cs",

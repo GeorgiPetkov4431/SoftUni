@@ -9,14 +9,10 @@ internal class Program
     static void Main(string[] args)
     {
         int limit = int.Parse(Console.ReadLine());
-        List<string> names = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries).ToList();
+        string[] names = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
 
         Predicate<int> predicate = len => len <= limit;
-        List<string> result = new List<string>();
-        for (int i = 0; i < names.Count; i++)
-        {
-            if (predicate(names[i].Length)) result.Add(names[i]);
-        }
+        string[] result = names.Where(n => predicate(n.Length)).ToArray();
 
         Console.WriteLine(string.Join("\n", result));
     }

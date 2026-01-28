@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\bin\Debug\net8.0\09. Predicate Party.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\bin\Debug\net8.0\09. Predicate Party.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\bin\Debug\net8.0\09. Predicate Party.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\bin\Debug\net8.0\09. Predicate Party.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\bin\Debug\net8.0\09. Predicate Party.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\09. Predicate Party.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\09. Predicate Party.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\09. Predicate Party.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\09. Predicate Party.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\09. Predicate Party.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\09. Predicate Party.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\refint\09. Predicate Party.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\09. Predicate Party.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\09. Predicate Party.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Functional Programming\09. Predicate Party\obj\Debug\net8.0\ref\09. Predicate Party.dll
