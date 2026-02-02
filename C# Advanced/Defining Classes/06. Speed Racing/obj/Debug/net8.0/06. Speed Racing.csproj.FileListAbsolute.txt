@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\bin\Debug\net8.0\06. Speed Racing.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\bin\Debug\net8.0\06. Speed Racing.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\bin\Debug\net8.0\06. Speed Racing.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\bin\Debug\net8.0\06. Speed Racing.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\bin\Debug\net8.0\06. Speed Racing.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\06. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\06. Speed Racing.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\06. Speed Racing.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\06. Speed Racing.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\06. Speed Racing.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\06. Speed Racing.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\refint\06. Speed Racing.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\06. Speed Racing.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\06. Speed Racing.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\06. Speed Racing\obj\Debug\net8.0\ref\06. Speed Racing.dll

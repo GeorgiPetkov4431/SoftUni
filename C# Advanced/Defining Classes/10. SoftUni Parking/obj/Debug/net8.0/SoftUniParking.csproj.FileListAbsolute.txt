@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\bin\Debug\net8.0\SoftUniParking.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\bin\Debug\net8.0\SoftUniParking.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\bin\Debug\net8.0\SoftUniParking.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\bin\Debug\net8.0\SoftUniParking.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\bin\Debug\net8.0\SoftUniParking.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\SoftUniParking.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\SoftUniParking.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\refint\SoftUniParking.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\SoftUniParking.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\SoftUniParking.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\10. SoftUni Parking\obj\Debug\net8.0\ref\SoftUniParking.dll

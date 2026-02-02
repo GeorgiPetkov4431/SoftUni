@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\bin\Debug\net8.0\01. Define a Class Person.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\bin\Debug\net8.0\01. Define a Class Person.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\bin\Debug\net8.0\01. Define a Class Person.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\bin\Debug\net8.0\01. Define a Class Person.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\bin\Debug\net8.0\01. Define a Class Person.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\01. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\01. Define a Class Person.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\01. Define a Class Person.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\01. Define a Class Person.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\01. Define a Class Person.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\01. Define a Class Person.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\refint\01. Define a Class Person.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\01. Define a Class Person.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\01. Define a Class Person.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\01. Define a Class Person\obj\Debug\net8.0\ref\01. Define a Class Person.dll

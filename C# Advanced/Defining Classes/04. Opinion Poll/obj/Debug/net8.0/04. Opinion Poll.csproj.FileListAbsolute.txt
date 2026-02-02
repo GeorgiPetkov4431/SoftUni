@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\bin\Debug\net8.0\04. Opinion Poll.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\bin\Debug\net8.0\04. Opinion Poll.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\bin\Debug\net8.0\04. Opinion Poll.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\bin\Debug\net8.0\04. Opinion Poll.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\bin\Debug\net8.0\04. Opinion Poll.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\04. Opinion Poll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\04. Opinion Poll.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\04. Opinion Poll.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\04. Opinion Poll.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\04. Opinion Poll.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\04. Opinion Poll.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\refint\04. Opinion Poll.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\04. Opinion Poll.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\04. Opinion Poll.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\04. Opinion Poll\obj\Debug\net8.0\ref\04. Opinion Poll.dll

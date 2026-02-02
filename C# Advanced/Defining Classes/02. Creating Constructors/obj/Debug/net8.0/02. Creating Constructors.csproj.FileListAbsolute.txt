@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\bin\Debug\net8.0\02. Creating Constructors.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\bin\Debug\net8.0\02. Creating Constructors.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\bin\Debug\net8.0\02. Creating Constructors.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\bin\Debug\net8.0\02. Creating Constructors.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\bin\Debug\net8.0\02. Creating Constructors.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\02. Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\02. Creating Constructors.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\02. Creating Constructors.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\02. Creating Constructors.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\02. Creating Constructors.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\02. Creating Constructors.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\refint\02. Creating Constructors.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\02. Creating Constructors.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\02. Creating Constructors.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\02. Creating Constructors\obj\Debug\net8.0\ref\02. Creating Constructors.dll

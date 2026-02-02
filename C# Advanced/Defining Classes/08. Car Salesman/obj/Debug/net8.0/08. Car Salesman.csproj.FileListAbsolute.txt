@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\bin\Debug\net8.0\08. Car Salesman.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\bin\Debug\net8.0\08. Car Salesman.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\bin\Debug\net8.0\08. Car Salesman.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\bin\Debug\net8.0\08. Car Salesman.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\bin\Debug\net8.0\08. Car Salesman.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\08. Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\08. Car Salesman.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\08. Car Salesman.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\08. Car Salesman.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\08. Car Salesman.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\08. Car Salesman.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\refint\08. Car Salesman.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\08. Car Salesman.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\08. Car Salesman.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\08. Car Salesman\obj\Debug\net8.0\ref\08. Car Salesman.dll

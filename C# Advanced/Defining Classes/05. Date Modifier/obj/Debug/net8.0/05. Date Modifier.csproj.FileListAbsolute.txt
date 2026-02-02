@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\bin\Debug\net8.0\05. Date Modifier.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\bin\Debug\net8.0\05. Date Modifier.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\bin\Debug\net8.0\05. Date Modifier.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\bin\Debug\net8.0\05. Date Modifier.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\bin\Debug\net8.0\05. Date Modifier.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\05. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\05. Date Modifier.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\05. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\05. Date Modifier.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\05. Date Modifier.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\refint\05. Date Modifier.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\05. Date Modifier.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\05. Date Modifier.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\05. Date Modifier\obj\Debug\net8.0\ref\05. Date Modifier.dll

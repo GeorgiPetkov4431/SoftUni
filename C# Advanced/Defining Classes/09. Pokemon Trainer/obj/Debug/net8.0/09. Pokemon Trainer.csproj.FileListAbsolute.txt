@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\bin\Debug\net8.0\09. Pokemon Trainer.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\bin\Debug\net8.0\09. Pokemon Trainer.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\bin\Debug\net8.0\09. Pokemon Trainer.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\bin\Debug\net8.0\09. Pokemon Trainer.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\bin\Debug\net8.0\09. Pokemon Trainer.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\09. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\09. Pokemon Trainer.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\09. Pokemon Trainer.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\09. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\09. Pokemon Trainer.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\09. Pokemon Trainer.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\refint\09. Pokemon Trainer.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\09. Pokemon Trainer.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\09. Pokemon Trainer.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Defining Classes\09. Pokemon Trainer\obj\Debug\net8.0\ref\09. Pokemon Trainer.dll
