@@ -4,9 +4,11 @@ namespace CustomDoublyLinkedList
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            
+            DoublyLinkedList list = new DoublyLinkedList();
+
+            Console.WriteLine(list.Count);
         }
     }
 }
