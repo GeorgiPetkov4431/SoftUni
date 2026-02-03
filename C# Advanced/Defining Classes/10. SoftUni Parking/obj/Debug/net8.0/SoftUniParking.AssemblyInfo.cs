@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoftUniParking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04bd3061ff36a7deef0be1a65f8814c5df84ea5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8dd315442478be824be44db625d6ca675c38c015")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoftUniParking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoftUniParking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

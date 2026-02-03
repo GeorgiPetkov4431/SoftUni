@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\10. softuni parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|solutionrelative:10. softuni parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\10. softuni parking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|solutionrelative:10. softuni parking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\10. softuni parking\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|solutionrelative:10. softuni parking\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\10. softuni parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|solutionrelative:10. softuni parking\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\10. softuni parking\\softuniparking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|solutionrelative:10. softuni parking\\softuniparking.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC81040F-6551-6A94-8E03-8D067407CA13}|SoftUniParkingSolved\\SoftUniParkingSolved.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\softuniparkingsolved\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC81040F-6551-6A94-8E03-8D067407CA13}|SoftUniParkingSolved\\SoftUniParkingSolved.csproj|solutionrelative:softuniparkingsolved\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC81040F-6551-6A94-8E03-8D067407CA13}|SoftUniParkingSolved\\SoftUniParkingSolved.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\softuniparkingsolved\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC81040F-6551-6A94-8E03-8D067407CA13}|SoftUniParkingSolved\\SoftUniParkingSolved.csproj|solutionrelative:softuniparkingsolved\\parking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC81040F-6551-6A94-8E03-8D067407CA13}|SoftUniParkingSolved\\SoftUniParkingSolved.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\softuniparkingsolved\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC81040F-6551-6A94-8E03-8D067407CA13}|SoftUniParkingSolved\\SoftUniParkingSolved.csproj|solutionrelative:softuniparkingsolved\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\defining classes\\10. softuni parking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD6F564-1824-CE1B-4019-FA42949D3CD0}|10. SoftUni Parking\\SoftUniParking.csproj|solutionrelative:10. softuni parking\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,46 +38,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SoftUniParking",
+              "DocumentIndex": 2,
+              "Title": "SoftUniParking.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\10. SoftUni Parking\\SoftUniParking.csproj",
               "RelativeDocumentMoniker": "10. SoftUni Parking\\SoftUniParking.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\10. SoftUni Parking\\SoftUniParking.csproj",
               "RelativeToolTip": "10. SoftUni Parking\\SoftUniParking.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-02T17:18:41.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T17:18:41.689Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Parking.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\10. SoftUni Parking\\Parking.cs",
               "RelativeDocumentMoniker": "10. SoftUni Parking\\Parking.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\10. SoftUni Parking\\Parking.cs",
               "RelativeToolTip": "10. SoftUni Parking\\Parking.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAkwEwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T16:27:42.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Parking.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\SoftUniParkingSolved\\Parking.cs",
-              "RelativeDocumentMoniker": "SoftUniParkingSolved\\Parking.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\SoftUniParkingSolved\\Parking.cs",
-              "RelativeToolTip": "SoftUniParkingSolved\\Parking.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:27:40.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\10. SoftUni Parking\\StartUp.cs",
               "RelativeDocumentMoniker": "10. SoftUni Parking\\StartUp.cs",
@@ -97,46 +71,19 @@
               "RelativeToolTip": "10. SoftUni Parking\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:27:43.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-02T16:27:43.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\10. SoftUni Parking\\Car.cs",
               "RelativeDocumentMoniker": "10. SoftUni Parking\\Car.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\10. SoftUni Parking\\Car.cs",
               "RelativeToolTip": "10. SoftUni Parking\\Car.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwA0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-02T16:27:41.696Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\SoftUniParkingSolved\\StartUp.cs",
-              "RelativeDocumentMoniker": "SoftUniParkingSolved\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\SoftUniParkingSolved\\StartUp.cs",
-              "RelativeToolTip": "SoftUniParkingSolved\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:27:40.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\SoftUniParkingSolved\\Car.cs",
-              "RelativeDocumentMoniker": "SoftUniParkingSolved\\Car.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Defining Classes\\SoftUniParkingSolved\\Car.cs",
-              "RelativeToolTip": "SoftUniParkingSolved\\Car.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAiwDQAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-02T16:27:38.108Z",
               "EditorCaption": ""
             }
           ]
