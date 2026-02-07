@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC19D73-CE8E-41E2-A68B-D512E99B6341}|CustomList\\CustomList.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\implementing stack and queue\\customlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC19D73-CE8E-41E2-A68B-D512E99B6341}|CustomList\\CustomList.csproj|solutionrelative:customlist\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC19D73-CE8E-41E2-A68B-D512E99B6341}|CustomList\\CustomList.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\implementing stack and queue\\customlist\\softunilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC19D73-CE8E-41E2-A68B-D512E99B6341}|CustomList\\CustomList.csproj|solutionrelative:customlist\\softunilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC19D73-CE8E-41E2-A68B-D512E99B6341}|CustomList\\CustomList.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\implementing stack and queue\\customlist\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC19D73-CE8E-41E2-A68B-D512E99B6341}|CustomList\\CustomList.csproj|solutionrelative:customlist\\customqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC19D73-CE8E-41E2-A68B-D512E99B6341}|CustomList\\CustomList.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\implementing stack and queue\\customlist\\customlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0AC19D73-CE8E-41E2-A68B-D512E99B6341}|CustomList\\CustomList.csproj|solutionrelative:customlist\\customlist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomQueue.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\CustomList\\CustomQueue.cs",
+              "RelativeDocumentMoniker": "CustomList\\CustomQueue.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\CustomList\\CustomQueue.cs",
+              "RelativeToolTip": "CustomList\\CustomQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T02:24:14.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoftUniList.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\CustomList\\SoftUniList.cs",
+              "RelativeDocumentMoniker": "CustomList\\SoftUniList.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\CustomList\\SoftUniList.cs",
+              "RelativeToolTip": "CustomList\\SoftUniList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:40:26.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomList",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\CustomList\\CustomList.csproj",
+              "RelativeDocumentMoniker": "CustomList\\CustomList.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\CustomList\\CustomList.csproj",
+              "RelativeToolTip": "CustomList\\CustomList.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-05T13:58:13.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\CustomList\\StartUp.cs",
+              "RelativeDocumentMoniker": "CustomList\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Implementing Stack and Queue\\CustomList\\StartUp.cs",
+              "RelativeToolTip": "CustomList\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:58:02.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\bin\Debug\net8.0\CustomList.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\bin\Debug\net8.0\CustomList.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\bin\Debug\net8.0\CustomList.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\bin\Debug\net8.0\CustomList.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\bin\Debug\net8.0\CustomList.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\CustomList.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\CustomList.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\CustomList.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\CustomList.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\CustomList.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\refint\CustomList.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\CustomList.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\CustomList.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Implementing Stack and Queue\CustomList\obj\Debug\net8.0\ref\CustomList.dll
