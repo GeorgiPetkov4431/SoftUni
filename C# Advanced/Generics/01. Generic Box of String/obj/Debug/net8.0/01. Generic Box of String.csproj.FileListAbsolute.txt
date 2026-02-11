@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\bin\Debug\net8.0\01. Generic Box of String.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\bin\Debug\net8.0\01. Generic Box of String.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\bin\Debug\net8.0\01. Generic Box of String.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\bin\Debug\net8.0\01. Generic Box of String.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\bin\Debug\net8.0\01. Generic Box of String.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\01. Generic Box of String.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\01. Generic Box of String.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\01. Generic Box of String.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\01. Generic Box of String.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\01. Generic Box of String.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\refint\01. Generic Box of String.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\01. Generic Box of String.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\01. Generic Box of String.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\01. Generic Box of String\obj\Debug\net8.0\ref\01. Generic Box of String.dll

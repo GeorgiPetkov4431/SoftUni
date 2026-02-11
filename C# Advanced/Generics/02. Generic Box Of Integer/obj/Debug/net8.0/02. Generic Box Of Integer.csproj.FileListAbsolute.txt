@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\bin\Debug\net8.0\02. Generic Box Of Integer.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\bin\Debug\net8.0\02. Generic Box Of Integer.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\bin\Debug\net8.0\02. Generic Box Of Integer.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\bin\Debug\net8.0\02. Generic Box Of Integer.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\bin\Debug\net8.0\02. Generic Box Of Integer.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\02. Generic Box Of Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\02. Generic Box Of Integer.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\02. Generic Box Of Integer.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\02. Generic Box Of Integer.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\02. Generic Box Of Integer.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\02. Generic Box Of Integer.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\refint\02. Generic Box Of Integer.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\02. Generic Box Of Integer.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\02. Generic Box Of Integer.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\02. Generic Box Of Integer\obj\Debug\net8.0\ref\02. Generic Box Of Integer.dll
