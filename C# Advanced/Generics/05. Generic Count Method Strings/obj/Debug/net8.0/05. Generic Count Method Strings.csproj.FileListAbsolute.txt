@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\bin\Debug\net8.0\05. Generic Count Method Strings.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\bin\Debug\net8.0\05. Generic Count Method Strings.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\bin\Debug\net8.0\05. Generic Count Method Strings.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\bin\Debug\net8.0\05. Generic Count Method Strings.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\bin\Debug\net8.0\05. Generic Count Method Strings.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\05. Generic Count Method Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\05. Generic Count Method Strings.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\05. Generic Count Method Strings.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\05. Generic Count Method Strings.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\05. Generic Count Method Strings.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\05. Generic Count Method Strings.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\refint\05. Generic Count Method Strings.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\05. Generic Count Method Strings.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\05. Generic Count Method Strings.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\05. Generic Count Method Strings\obj\Debug\net8.0\ref\05. Generic Count Method Strings.dll

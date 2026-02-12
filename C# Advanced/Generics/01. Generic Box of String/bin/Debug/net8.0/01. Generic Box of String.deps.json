@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "01. Generic Box of String/1.0.0": {
+      "01. Generic Box Of String/1.0.0": {
         "runtime": {
-          "01. Generic Box of String.dll": {}
+          "01. Generic Box Of String.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "01. Generic Box of String/1.0.0": {
+    "01. Generic Box Of String/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{911EA5E3-E080-47DC-8682-E6F81DDABEAE}|06. Generic Count Method Doubles\\GenericCountMethodDoubles.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\06. generic count method doubles\\genericcountmethoddoubles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{911EA5E3-E080-47DC-8682-E6F81DDABEAE}|06. Generic Count Method Doubles\\GenericCountMethodDoubles.csproj|solutionrelative:06. generic count method doubles\\genericcountmethoddoubles.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911EA5E3-E080-47DC-8682-E6F81DDABEAE}|06. Generic Count Method Doubles\\06. Generic Count Method Doubles.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\06. generic count method doubles\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911EA5E3-E080-47DC-8682-E6F81DDABEAE}|06. Generic Count Method Doubles\\06. Generic Count Method Doubles.csproj|solutionrelative:06. generic count method doubles\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E80015-771C-409B-BB0A-635592E49180}|05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\05. generic count method strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E80015-771C-409B-BB0A-635592E49180}|05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj|solutionrelative:05. generic count method strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911EA5E3-E080-47DC-8682-E6F81DDABEAE}|06. Generic Count Method Doubles\\06. Generic Count Method Doubles.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\06. generic count method doubles\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911EA5E3-E080-47DC-8682-E6F81DDABEAE}|06. Generic Count Method Doubles\\06. Generic Count Method Doubles.csproj|solutionrelative:06. generic count method doubles\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{911EA5E3-E080-47DC-8682-E6F81DDABEAE}|06. Generic Count Method Doubles\\06. Generic Count Method Doubles.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\06. generic count method doubles\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911EA5E3-E080-47DC-8682-E6F81DDABEAE}|06. Generic Count Method Doubles\\06. Generic Count Method Doubles.csproj|solutionrelative:06. generic count method doubles\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E80015-771C-409B-BB0A-635592E49180}|05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\05. generic count method strings\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E80015-771C-409B-BB0A-635592E49180}|05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj|solutionrelative:05. generic count method strings\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6E80015-771C-409B-BB0A-635592E49180}|05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\05. generic count method strings\\05. generic count method strings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6E80015-771C-409B-BB0A-635592E49180}|05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj|solutionrelative:05. generic count method strings\\05. generic count method strings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|solutionrelative:04. generic swap method integer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\03. generic swap method strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|solutionrelative:03. generic swap method strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D6E80015-771C-409B-BB0A-635592E49180}|05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\05. generic count method strings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6E80015-771C-409B-BB0A-635592E49180}|05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj|solutionrelative:05. generic count method strings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj|solutionrelative:04. generic swap method integer\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|solutionrelative:04. generic swap method integer\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj|solutionrelative:04. generic swap method integer\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|solutionrelative:04. generic swap method integer\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\04. generic swap method integers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|solutionrelative:04. generic swap method integer\\04. generic swap method integers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\03. generic swap method strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|solutionrelative:03. generic swap method strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\03. generic swap method strings\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,45 +98,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\Box.cs",
+              "RelativeDocumentMoniker": "06. Generic Count Method Doubles\\Box.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\Box.cs",
+              "RelativeToolTip": "06. Generic Count Method Doubles\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:43:54.636Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "BoxList.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\BoxList.cs",
-              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\BoxList.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\BoxList.cs",
-              "RelativeToolTip": "04. Generic Swap Method Integer\\BoxList.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\BoxList.cs",
+              "RelativeDocumentMoniker": "06. Generic Count Method Doubles\\BoxList.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\BoxList.cs",
+              "RelativeToolTip": "06. Generic Count Method Doubles\\BoxList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T23:18:59.409Z",
+              "WhenOpened": "2026-02-12T01:43:46.606Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Box.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\Box.cs",
-              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\Box.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\Box.cs",
-              "RelativeToolTip": "04. Generic Swap Method Integer\\Box.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T23:18:48.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "04. Generic Swap Method Integers.csproj",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
-              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
-              "RelativeToolTip": "04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "DocumentIndex": 0,
+              "Title": "GenericCountMethodDoubles.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\GenericCountMethodDoubles.csproj",
+              "RelativeDocumentMoniker": "06. Generic Count Method Doubles\\GenericCountMethodDoubles.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\GenericCountMethodDoubles.csproj",
+              "RelativeToolTip": "06. Generic Count Method Doubles\\GenericCountMethodDoubles.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-11T23:18:11.026Z",
+              "WhenOpened": "2026-02-12T01:43:27.198Z",
               "EditorCaption": ""
             },
             {
@@ -117,33 +149,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\StartUp.cs",
-              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\StartUp.cs",
-              "RelativeToolTip": "04. Generic Swap Method Integer\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\StartUp.cs",
+              "RelativeDocumentMoniker": "06. Generic Count Method Doubles\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\StartUp.cs",
+              "RelativeToolTip": "06. Generic Count Method Doubles\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T23:17:49.5Z",
+              "WhenOpened": "2026-02-12T01:43:01.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "BoxList.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\05. Generic Count Method Strings\\BoxList.cs",
+              "RelativeDocumentMoniker": "05. Generic Count Method Strings\\BoxList.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\05. Generic Count Method Strings\\BoxList.cs",
+              "RelativeToolTip": "05. Generic Count Method Strings\\BoxList.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T01:15:54.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\05. Generic Count Method Strings\\Box.cs",
+              "RelativeDocumentMoniker": "05. Generic Count Method Strings\\Box.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\05. Generic Count Method Strings\\Box.cs",
+              "RelativeToolTip": "05. Generic Count Method Strings\\Box.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:23:38.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "05. Generic Count Method Strings.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj",
+              "RelativeDocumentMoniker": "05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj",
+              "RelativeToolTip": "05. Generic Count Method Strings\\05. Generic Count Method Strings.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-12T00:23:08.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\05. Generic Count Method Strings\\StartUp.cs",
+              "RelativeDocumentMoniker": "05. Generic Count Method Strings\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\05. Generic Count Method Strings\\StartUp.cs",
+              "RelativeToolTip": "05. Generic Count Method Strings\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T00:09:03.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BoxList.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\BoxList.cs",
+              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\BoxList.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\BoxList.cs",
+              "RelativeToolTip": "04. Generic Swap Method Integer\\BoxList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:18:59.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\Box.cs",
+              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\Box.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\Box.cs",
+              "RelativeToolTip": "04. Generic Swap Method Integer\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:18:48.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "04. Generic Swap Method Integers.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "RelativeToolTip": "04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T23:18:11.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\StartUp.cs",
+              "RelativeToolTip": "04. Generic Swap Method Integer\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:17:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BoxList.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\BoxList.cs",
               "RelativeDocumentMoniker": "03. Generic Swap Method Strings\\BoxList.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\BoxList.cs",
               "RelativeToolTip": "03. Generic Swap Method Strings\\BoxList.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T23:05:21.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Box.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\Box.cs",
               "RelativeDocumentMoniker": "03. Generic Swap Method Strings\\Box.cs",
@@ -156,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "03. Generic Swap Method Strings.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj",
               "RelativeDocumentMoniker": "03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj",
@@ -169,20 +305,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\StartUp.cs",
               "RelativeDocumentMoniker": "03. Generic Swap Method Strings\\StartUp.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\StartUp.cs",
               "RelativeToolTip": "03. Generic Swap Method Strings\\StartUp.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T23:03:29.337Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Box.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\Box.cs",
               "RelativeDocumentMoniker": "02. Generic Box Of Integer\\Box.cs",
@@ -195,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "02. Generic Box Of Integer.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
               "RelativeDocumentMoniker": "02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
@@ -208,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\StartUp.cs",
               "RelativeDocumentMoniker": "02. Generic Box Of Integer\\StartUp.cs",
@@ -221,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "01. Generic Box Of String.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\01. Generic Box of String\\01. Generic Box Of String.csproj",
               "RelativeDocumentMoniker": "01. Generic Box of String\\01. Generic Box Of String.csproj",
@@ -234,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Box.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\01. Generic Box of String\\Box.cs",
               "RelativeDocumentMoniker": "01. Generic Box of String\\Box.cs",
@@ -247,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\01. Generic Box of String\\StartUp.cs",
               "RelativeDocumentMoniker": "01. Generic Box of String\\StartUp.cs",
