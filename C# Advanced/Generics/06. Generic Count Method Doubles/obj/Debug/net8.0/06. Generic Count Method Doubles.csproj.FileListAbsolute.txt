@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\bin\Debug\net8.0\06. Generic Count Method Doubles.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\bin\Debug\net8.0\06. Generic Count Method Doubles.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\bin\Debug\net8.0\06. Generic Count Method Doubles.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\bin\Debug\net8.0\06. Generic Count Method Doubles.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\bin\Debug\net8.0\06. Generic Count Method Doubles.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\06. Generic Count Method Doubles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\06. Generic Count Method Doubles.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\06. Generic Count Method Doubles.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\06. Generic Count Method Doubles.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\06. Generic Count Method Doubles.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\06. Generic Count Method Doubles.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\refint\06. Generic Count Method Doubles.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\06. Generic Count Method Doubles.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\06. Generic Count Method Doubles.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\06. Generic Count Method Doubles\obj\Debug\net8.0\ref\06. Generic Count Method Doubles.dll

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\GenericCountMethodDoubles.csproj",
-      "projectName": "GenericCountMethodDoubles",
-      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\GenericCountMethodDoubles.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\06. Generic Count Method Doubles.csproj",
+      "projectName": "06. Generic Count Method Doubles",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\06. Generic Count Method Doubles.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\06. Generic Count Method Doubles\\obj\\",
       "projectStyle": "PackageReference",

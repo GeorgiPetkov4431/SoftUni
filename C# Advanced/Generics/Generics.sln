@@ -13,7 +13,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Generic Swap Method Int
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Generic Count Method Strings", "05. Generic Count Method Strings\05. Generic Count Method Strings.csproj", "{D6E80015-771C-409B-BB0A-635592E49180}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericCountMethodDoubles", "06. Generic Count Method Doubles\GenericCountMethodDoubles.csproj", "{911EA5E3-E080-47DC-8682-E6F81DDABEAE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Generic Count Method Doubles", "06. Generic Count Method Doubles\06. Generic Count Method Doubles.csproj", "{911EA5E3-E080-47DC-8682-E6F81DDABEAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Tuple", "07. Tuple\07. Tuple.csproj", "{EB205BBA-2273-457B-A8CC-6F94AA14A920}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Threeuple", "08. Threeuple\08. Threeuple.csproj", "{765E28BA-ADD2-491B-9C0D-34573A77DFA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Custom Doubly Linked List", "09. Custom Doubly Linked List\09. Custom Doubly Linked List.csproj", "{F41B82F8-C0F6-85AB-7A3E-477DCA71E8CC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{911EA5E3-E080-47DC-8682-E6F81DDABEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{911EA5E3-E080-47DC-8682-E6F81DDABEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{911EA5E3-E080-47DC-8682-E6F81DDABEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB205BBA-2273-457B-A8CC-6F94AA14A920}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB205BBA-2273-457B-A8CC-6F94AA14A920}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB205BBA-2273-457B-A8CC-6F94AA14A920}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB205BBA-2273-457B-A8CC-6F94AA14A920}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765E28BA-ADD2-491B-9C0D-34573A77DFA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765E28BA-ADD2-491B-9C0D-34573A77DFA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765E28BA-ADD2-491B-9C0D-34573A77DFA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765E28BA-ADD2-491B-9C0D-34573A77DFA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41B82F8-C0F6-85AB-7A3E-477DCA71E8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41B82F8-C0F6-85AB-7A3E-477DCA71E8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41B82F8-C0F6-85AB-7A3E-477DCA71E8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41B82F8-C0F6-85AB-7A3E-477DCA71E8CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
