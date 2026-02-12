@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\bin\Debug\net8.0\04. Generic Swap Method Integers.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\bin\Debug\net8.0\04. Generic Swap Method Integers.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\bin\Debug\net8.0\04. Generic Swap Method Integers.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\bin\Debug\net8.0\04. Generic Swap Method Integers.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\bin\Debug\net8.0\04. Generic Swap Method Integers.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\04. Generic Swap Method Integers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\04. Generic Swap Method Integers.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\04. Generic Swap Method Integers.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\04. Generic Swap Method Integers.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\04. Generic Swap Method Integers.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\04. Generic Swap Method Integers.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\refint\04. Generic Swap Method Integers.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\04. Generic Swap Method Integers.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\04. Generic Swap Method Integers.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\04. Generic Swap Method Integer\obj\Debug\net8.0\ref\04. Generic Swap Method Integers.dll

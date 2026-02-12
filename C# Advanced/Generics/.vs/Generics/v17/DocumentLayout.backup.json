@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8BEB8674-EFC6-4CD3-8016-EACB10DB163D}|02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\02. generic box of integer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BEB8674-EFC6-4CD3-8016-EACB10DB163D}|02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj|solutionrelative:02. generic box of integer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|solutionrelative:04. generic swap method integer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\03. generic swap method strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|solutionrelative:03. generic swap method strings\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj|solutionrelative:04. generic swap method integer\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integer.csproj|solutionrelative:04. generic swap method integer\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\04. generic swap method integer\\04. generic swap method integers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{690F3328-D62F-4E6F-85BF-D23DFE4C9EC7}|04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj|solutionrelative:04. generic swap method integer\\04. generic swap method integers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\03. generic swap method strings\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|solutionrelative:03. generic swap method strings\\boxlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\03. generic swap method strings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|solutionrelative:03. generic swap method strings\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\03. generic swap method strings\\03. generic swap method strings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87D965B6-DBD6-45C9-817A-7B16EFB9C100}|03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj|solutionrelative:03. generic swap method strings\\03. generic swap method strings.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BEB8674-EFC6-4CD3-8016-EACB10DB163D}|02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\02. generic box of integer\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BEB8674-EFC6-4CD3-8016-EACB10DB163D}|02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj|solutionrelative:02. generic box of integer\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box of String.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\01. generic box of string\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box of String.csproj|solutionrelative:01. generic box of string\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BEB8674-EFC6-4CD3-8016-EACB10DB163D}|02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\02. generic box of integer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BEB8674-EFC6-4CD3-8016-EACB10DB163D}|02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj|solutionrelative:02. generic box of integer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BEB8674-EFC6-4CD3-8016-EACB10DB163D}|02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\02. generic box of integer\\02. generic box of integer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{8BEB8674-EFC6-4CD3-8016-EACB10DB163D}|02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj|solutionrelative:02. generic box of integer\\02. generic box of integer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box of String.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\01. generic box of string\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box of String.csproj|solutionrelative:01. generic box of string\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box Of String.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\01. generic box of string\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box Of String.csproj|solutionrelative:01. generic box of string\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box Of String.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\01. generic box of string\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box Of String.csproj|solutionrelative:01. generic box of string\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26853454-186F-4947-A09A-C475E0B4DE09}|01. Generic Box of String\\01. Generic Box Of String.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\generics\\01. generic box of string\\01. generic box of string.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,32 +66,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Box.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\Box.cs",
-              "RelativeDocumentMoniker": "02. Generic Box Of Integer\\Box.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\Box.cs",
-              "RelativeToolTip": "02. Generic Box Of Integer\\Box.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "BoxList.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\BoxList.cs",
+              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\BoxList.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\BoxList.cs",
+              "RelativeToolTip": "04. Generic Swap Method Integer\\BoxList.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T21:33:48.656Z",
+              "WhenOpened": "2026-02-11T23:18:59.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "02. Generic Box Of Integer",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
-              "RelativeDocumentMoniker": "02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
-              "RelativeToolTip": "02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\Box.cs",
+              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\Box.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\Box.cs",
+              "RelativeToolTip": "04. Generic Swap Method Integer\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:18:48.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04. Generic Swap Method Integers.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "RelativeToolTip": "04. Generic Swap Method Integer\\04. Generic Swap Method Integers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-11T21:32:52.172Z",
+              "WhenOpened": "2026-02-11T23:18:11.026Z",
               "EditorCaption": ""
             },
             {
@@ -74,6 +119,97 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Generic Swap Method Integer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\04. Generic Swap Method Integer\\StartUp.cs",
+              "RelativeToolTip": "04. Generic Swap Method Integer\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:17:49.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoxList.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\BoxList.cs",
+              "RelativeDocumentMoniker": "03. Generic Swap Method Strings\\BoxList.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\BoxList.cs",
+              "RelativeToolTip": "03. Generic Swap Method Strings\\BoxList.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:05:21.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\Box.cs",
+              "RelativeDocumentMoniker": "03. Generic Swap Method Strings\\Box.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\Box.cs",
+              "RelativeToolTip": "03. Generic Swap Method Strings\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:04:04.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "03. Generic Swap Method Strings.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj",
+              "RelativeDocumentMoniker": "03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj",
+              "RelativeToolTip": "03. Generic Swap Method Strings\\03. Generic Swap Method Strings.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T23:03:39.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Generic Swap Method Strings\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\03. Generic Swap Method Strings\\StartUp.cs",
+              "RelativeToolTip": "03. Generic Swap Method Strings\\StartUp.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:03:29.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\Box.cs",
+              "RelativeDocumentMoniker": "02. Generic Box Of Integer\\Box.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\Box.cs",
+              "RelativeToolTip": "02. Generic Box Of Integer\\Box.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T21:33:48.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "02. Generic Box Of Integer.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
+              "RelativeDocumentMoniker": "02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
+              "RelativeToolTip": "02. Generic Box Of Integer\\02. Generic Box Of Integer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T21:32:52.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\StartUp.cs",
               "RelativeDocumentMoniker": "02. Generic Box Of Integer\\StartUp.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\02. Generic Box Of Integer\\StartUp.cs",
@@ -85,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "01. Generic Box Of String.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\01. Generic Box of String\\01. Generic Box Of String.csproj",
               "RelativeDocumentMoniker": "01. Generic Box of String\\01. Generic Box Of String.csproj",
@@ -98,20 +234,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Box.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\01. Generic Box of String\\Box.cs",
               "RelativeDocumentMoniker": "01. Generic Box of String\\Box.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\01. Generic Box of String\\Box.cs",
               "RelativeToolTip": "01. Generic Box of String\\Box.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T15:45:55.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Generics\\01. Generic Box of String\\StartUp.cs",
               "RelativeDocumentMoniker": "01. Generic Box of String\\StartUp.cs",
