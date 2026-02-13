@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\bin\Debug\net8.0\05. Comparing Objects.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\bin\Debug\net8.0\05. Comparing Objects.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\bin\Debug\net8.0\05. Comparing Objects.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\bin\Debug\net8.0\05. Comparing Objects.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\bin\Debug\net8.0\05. Comparing Objects.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\05. Comparing Objects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\05. Comparing Objects.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\05. Comparing Objects.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\05. Comparing Objects.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\05. Comparing Objects.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\05. Comparing Objects.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\refint\05. Comparing Objects.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\05. Comparing Objects.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\05. Comparing Objects.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\05. Comparing Objects\obj\Debug\net8.0\ref\05. Comparing Objects.dll

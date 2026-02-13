@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\bin\Debug\net8.0\09. Custom Doubly Linked List.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\bin\Debug\net8.0\09. Custom Doubly Linked List.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\bin\Debug\net8.0\09. Custom Doubly Linked List.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\bin\Debug\net8.0\09. Custom Doubly Linked List.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\bin\Debug\net8.0\09. Custom Doubly Linked List.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\09. Custom Doubly Linked List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\09. Custom Doubly Linked List.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\09. Custom Doubly Linked List.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\09. Custom Doubly Linked List.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\09. Custom Doubly Linked List.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\09. Custom Doubly Linked List.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\refint\09. Custom Doubly Linked List.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\09. Custom Doubly Linked List.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\09. Custom Doubly Linked List.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Generics\09. Custom Doubly Linked List\obj\Debug\net8.0\ref\09. Custom Doubly Linked List.dll

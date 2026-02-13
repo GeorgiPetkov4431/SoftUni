@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\bin\Debug\net8.0\06. Equality Logic.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\bin\Debug\net8.0\06. Equality Logic.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\bin\Debug\net8.0\06. Equality Logic.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\bin\Debug\net8.0\06. Equality Logic.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\bin\Debug\net8.0\06. Equality Logic.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\06. Equality Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\06. Equality Logic.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\06. Equality Logic.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\06. Equality Logic.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\06. Equality Logic.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\06. Equality Logic.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\refint\06. Equality Logic.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\06. Equality Logic.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\06. Equality Logic.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\06. Equality Logic\obj\Debug\net8.0\ref\06. Equality Logic.dll
