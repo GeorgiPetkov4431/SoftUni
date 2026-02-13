@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplitMergeBinaryFile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f18dad23ee0eb1cde87803445be7d1fc3a979124")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f94a0fbea30545661a5ed58714afd00bbff920e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplitMergeBinaryFile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplitMergeBinaryFile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

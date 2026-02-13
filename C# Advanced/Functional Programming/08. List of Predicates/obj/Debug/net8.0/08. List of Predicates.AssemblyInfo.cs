@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("08. List of Predicates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f533669be8e1814e6177fcff69fb027a85d309d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f94a0fbea30545661a5ed58714afd00bbff920e")]
 [assembly: System.Reflection.AssemblyProductAttribute("08. List of Predicates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("08. List of Predicates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

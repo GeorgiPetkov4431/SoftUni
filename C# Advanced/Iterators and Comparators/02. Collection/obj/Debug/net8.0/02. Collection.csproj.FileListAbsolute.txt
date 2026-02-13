@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\bin\Debug\net8.0\02. Collection.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\bin\Debug\net8.0\02. Collection.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\bin\Debug\net8.0\02. Collection.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\bin\Debug\net8.0\02. Collection.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\bin\Debug\net8.0\02. Collection.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\02. Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\02. Collection.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\02. Collection.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\02. Collection.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\02. Collection.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\02. Collection.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\refint\02. Collection.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\02. Collection.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\02. Collection.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\02. Collection\obj\Debug\net8.0\ref\02. Collection.dll

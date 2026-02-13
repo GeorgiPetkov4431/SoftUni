@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\bin\Debug\net8.0\04. Froggy.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\bin\Debug\net8.0\04. Froggy.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\bin\Debug\net8.0\04. Froggy.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\bin\Debug\net8.0\04. Froggy.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\bin\Debug\net8.0\04. Froggy.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\04. Froggy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\04. Froggy.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\04. Froggy.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\04. Froggy.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\04. Froggy.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\04. Froggy.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\refint\04. Froggy.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\04. Froggy.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\04. Froggy.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\04. Froggy\obj\Debug\net8.0\ref\04. Froggy.dll

@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\bin\Debug\net8.0\01. ListyIterator.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\bin\Debug\net8.0\01. ListyIterator.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\bin\Debug\net8.0\01. ListyIterator.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\bin\Debug\net8.0\01. ListyIterator.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\bin\Debug\net8.0\01. ListyIterator.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\01. ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\01. ListyIterator.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\01. ListyIterator.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\01. ListyIterator.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\01. ListyIterator.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\01. ListyIterator.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\refint\01. ListyIterator.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\01. ListyIterator.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\01. ListyIterator.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Iterators and Comparators\01. ListyIterator\obj\Debug\net8.0\ref\01. ListyIterator.dll

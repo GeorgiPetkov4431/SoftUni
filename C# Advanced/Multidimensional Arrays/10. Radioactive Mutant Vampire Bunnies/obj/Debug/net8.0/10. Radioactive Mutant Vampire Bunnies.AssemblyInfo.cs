@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10. Radioactive Mutant Vampire Bunnies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b70abaa1fd3354bb5060c402106815763f388ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f94a0fbea30545661a5ed58714afd00bbff920e")]
 [assembly: System.Reflection.AssemblyProductAttribute("10. Radioactive Mutant Vampire Bunnies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10. Radioactive Mutant Vampire Bunnies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
