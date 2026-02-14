@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE19138F-8329-24CD-9B27-7E53FC5F3EFA}|03. Data Center\\DataCenter.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\exam preparation\\03. data center\\datacenter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE19138F-8329-24CD-9B27-7E53FC5F3EFA}|03. Data Center\\DataCenter.csproj|solutionrelative:03. data center\\datacenter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE19138F-8329-24CD-9B27-7E53FC5F3EFA}|03. Data Center\\DataCenter.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\exam preparation\\03. data center\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE19138F-8329-24CD-9B27-7E53FC5F3EFA}|03. Data Center\\DataCenter.csproj|solutionrelative:03. data center\\rack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE19138F-8329-24CD-9B27-7E53FC5F3EFA}|03. Data Center\\DataCenter.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\exam preparation\\03. data center\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE19138F-8329-24CD-9B27-7E53FC5F3EFA}|03. Data Center\\DataCenter.csproj|solutionrelative:03. data center\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFF7E57-8631-45E5-9C1E-C499158B3706}|02. Bomb Has Been Planted\\02. Bomb Has Been Planted.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\exam preparation\\02. bomb has been planted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FFF7E57-8631-45E5-9C1E-C499158B3706}|02. Bomb Has Been Planted\\02. Bomb Has Been Planted.csproj|solutionrelative:02. bomb has been planted\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FFF7E57-8631-45E5-9C1E-C499158B3706}|02. Bomb Has Been Planted\\02. Bomb Has Been Planted.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\exam preparation\\02. bomb has been planted\\02. bomb has been planted.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FFF7E57-8631-45E5-9C1E-C499158B3706}|02. Bomb Has Been Planted\\02. Bomb Has Been Planted.csproj|solutionrelative:02. bomb has been planted\\02. bomb has been planted.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C447AB-DDEA-40A1-870B-F8AD1C0B536D}|01. Climb the Peaks\\01. Climb the Peaks.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\exam preparation\\01. climb the peaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13C447AB-DDEA-40A1-870B-F8AD1C0B536D}|01. Climb the Peaks\\01. Climb the Peaks.csproj|solutionrelative:01. climb the peaks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13C447AB-DDEA-40A1-870B-F8AD1C0B536D}|01. Climb the Peaks\\01. Climb the Peaks.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\exam preparation\\01. climb the peaks\\01. climb the peaks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13C447AB-DDEA-40A1-870B-F8AD1C0B536D}|01. Climb the Peaks\\01. Climb the Peaks.csproj|solutionrelative:01. climb the peaks\\01. climb the peaks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataCenter.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\03. Data Center\\DataCenter.csproj",
+              "RelativeDocumentMoniker": "03. Data Center\\DataCenter.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\03. Data Center\\DataCenter.csproj",
+              "RelativeToolTip": "03. Data Center\\DataCenter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-14T06:46:04.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rack.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\03. Data Center\\Rack.cs",
+              "RelativeDocumentMoniker": "03. Data Center\\Rack.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\03. Data Center\\Rack.cs",
+              "RelativeToolTip": "03. Data Center\\Rack.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA8wDEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T23:48:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\03. Data Center\\Server.cs",
+              "RelativeDocumentMoniker": "03. Data Center\\Server.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\03. Data Center\\Server.cs",
+              "RelativeToolTip": "03. Data Center\\Server.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvw8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T23:46:14.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02. Bomb Has Been Planted.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\02. Bomb Has Been Planted\\02. Bomb Has Been Planted.csproj",
+              "RelativeDocumentMoniker": "02. Bomb Has Been Planted\\02. Bomb Has Been Planted.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\02. Bomb Has Been Planted\\02. Bomb Has Been Planted.csproj",
+              "RelativeToolTip": "02. Bomb Has Been Planted\\02. Bomb Has Been Planted.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T22:31:33.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\02. Bomb Has Been Planted\\Program.cs",
+              "RelativeDocumentMoniker": "02. Bomb Has Been Planted\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\02. Bomb Has Been Planted\\Program.cs",
+              "RelativeToolTip": "02. Bomb Has Been Planted\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T22:31:30.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "01. Climb the Peaks.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\01. Climb the Peaks\\01. Climb the Peaks.csproj",
+              "RelativeDocumentMoniker": "01. Climb the Peaks\\01. Climb the Peaks.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\01. Climb the Peaks\\01. Climb the Peaks.csproj",
+              "RelativeToolTip": "01. Climb the Peaks\\01. Climb the Peaks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-13T22:04:35.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\01. Climb the Peaks\\Program.cs",
+              "RelativeDocumentMoniker": "01. Climb the Peaks\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Exam Preparation\\01. Climb the Peaks\\Program.cs",
+              "RelativeToolTip": "01. Climb the Peaks\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAuwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T22:04:17.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

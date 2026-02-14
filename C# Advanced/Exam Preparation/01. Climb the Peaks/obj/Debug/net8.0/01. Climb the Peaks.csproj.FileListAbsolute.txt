@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\bin\Debug\net8.0\01. Climb the Peaks.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\bin\Debug\net8.0\01. Climb the Peaks.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\bin\Debug\net8.0\01. Climb the Peaks.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\bin\Debug\net8.0\01. Climb the Peaks.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\bin\Debug\net8.0\01. Climb the Peaks.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\01. Climb the Peaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\01. Climb the Peaks.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\01. Climb the Peaks.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\01. Climb the Peaks.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\01. Climb the Peaks.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\01. Climb the Peaks.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\refint\01. Climb the Peaks.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\01. Climb the Peaks.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\01. Climb the Peaks.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Exam Preparation\01. Climb the Peaks\obj\Debug\net8.0\ref\01. Climb the Peaks.dll

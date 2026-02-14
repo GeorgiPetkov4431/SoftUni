@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\bin\Debug\net8.0\01. Energy Drinks.exe
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\bin\Debug\net8.0\01. Energy Drinks.deps.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\bin\Debug\net8.0\01. Energy Drinks.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\bin\Debug\net8.0\01. Energy Drinks.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\bin\Debug\net8.0\01. Energy Drinks.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\01. Energy Drinks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\01. Energy Drinks.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\01. Energy Drinks.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\01. Energy Drinks.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\01. Energy Drinks.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\01. Energy Drinks.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\refint\01. Energy Drinks.dll
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\01. Energy Drinks.pdb
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\01. Energy Drinks.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# Advanced\Regular Exam\01. Energy Drinks\obj\Debug\net8.0\ref\01. Energy Drinks.dll
