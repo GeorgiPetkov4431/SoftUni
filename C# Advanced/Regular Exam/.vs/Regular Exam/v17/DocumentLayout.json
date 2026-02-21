@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{250B9887-1A02-6B41-DAD4-53610E4EE38B}|03. Computer Architecture\\ComputerArchitecture.csproj|solutionrelative:03. computer architecture\\computer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{250B9887-1A02-6B41-DAD4-53610E4EE38B}|03. Computer Architecture\\ComputerArchitecture.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\regular exam\\03. computer architecture\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{250B9887-1A02-6B41-DAD4-53610E4EE38B}|03. Computer Architecture\\ComputerArchitecture.csproj|solutionrelative:03. computer architecture\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{250B9887-1A02-6B41-DAD4-53610E4EE38B}|03. Computer Architecture\\ComputerArchitecture.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\regular exam\\03. computer architecture\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{250B9887-1A02-6B41-DAD4-53610E4EE38B}|03. Computer Architecture\\ComputerArchitecture.csproj|solutionrelative:03. computer architecture\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250B9887-1A02-6B41-DAD4-53610E4EE38B}|03. Computer Architecture\\ComputerArchitecture.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\regular exam\\03. computer architecture\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250B9887-1A02-6B41-DAD4-53610E4EE38B}|03. Computer Architecture\\ComputerArchitecture.csproj|solutionrelative:03. computer architecture\\cpu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A58260E4-5C1F-4575-9A43-B333CF0BCBA0}|02. Rally Racing\\02. Rally Racing.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\regular exam\\02. rally racing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Regular Exam\\03. Computer Architecture\\StartUp.cs",
               "RelativeDocumentMoniker": "03. Computer Architecture\\StartUp.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Regular Exam\\03. Computer Architecture\\StartUp.cs",
               "RelativeToolTip": "03. Computer Architecture\\StartUp.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T08:05:02.157Z",
               "EditorCaption": ""
@@ -69,14 +69,14 @@
               "RelativeDocumentMoniker": "03. Computer Architecture\\Computer.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Regular Exam\\03. Computer Architecture\\Computer.cs",
               "RelativeToolTip": "03. Computer Architecture\\Computer.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAmwEYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwEEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-14T07:55:26.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CPU.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Regular Exam\\03. Computer Architecture\\CPU.cs",
               "RelativeDocumentMoniker": "03. Computer Architecture\\CPU.cs",
@@ -90,15 +90,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "02. Rally Racing",
+              "Title": "02. Rally Racing.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Regular Exam\\02. Rally Racing\\02. Rally Racing.csproj",
               "RelativeDocumentMoniker": "02. Rally Racing\\02. Rally Racing.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Regular Exam\\02. Rally Racing\\02. Rally Racing.csproj",
               "RelativeToolTip": "02. Rally Racing\\02. Rally Racing.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-14T07:18:03.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T07:18:03.337Z"
             },
             {
               "$type": "Document",
@@ -110,21 +109,19 @@
               "RelativeToolTip": "02. Rally Racing\\Program.cs",
               "ViewState": "AgIAAGUAAAAAAAAAAAAmwG4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T07:17:56.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T07:17:56.581Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "01. Energy Drinks",
+              "Title": "01. Energy Drinks.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Regular Exam\\01. Energy Drinks\\01. Energy Drinks.csproj",
               "RelativeDocumentMoniker": "01. Energy Drinks\\01. Energy Drinks.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Regular Exam\\01. Energy Drinks\\01. Energy Drinks.csproj",
               "RelativeToolTip": "01. Energy Drinks\\01. Energy Drinks.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-14T07:01:24.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T07:01:24.23Z"
             },
             {
               "$type": "Document",
@@ -136,8 +133,7 @@
               "RelativeToolTip": "01. Energy Drinks\\Program.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAuwCEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T07:00:56.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-14T07:00:56.015Z"
             }
           ]
         }
