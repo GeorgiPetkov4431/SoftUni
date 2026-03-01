@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\bin\Debug\net6.0\ClassBoxData.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\refint\ClassBoxData.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ClassBoxData.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\01. Class Box Data\obj\Debug\net6.0\ref\ClassBoxData.dll

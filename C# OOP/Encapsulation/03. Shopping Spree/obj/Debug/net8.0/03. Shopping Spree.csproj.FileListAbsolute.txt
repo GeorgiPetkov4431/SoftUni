@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\bin\Debug\net8.0\03. Shopping Spree.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\bin\Debug\net8.0\03. Shopping Spree.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\bin\Debug\net8.0\03. Shopping Spree.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\bin\Debug\net8.0\03. Shopping Spree.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\bin\Debug\net8.0\03. Shopping Spree.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\03. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\03. Shopping Spree.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\03. Shopping Spree.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\03. Shopping Spree.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\03. Shopping Spree.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\03. Shopping Spree.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\refint\03. Shopping Spree.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\03. Shopping Spree.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\03. Shopping Spree.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\03. Shopping Spree\obj\Debug\net8.0\ref\03. Shopping Spree.dll
