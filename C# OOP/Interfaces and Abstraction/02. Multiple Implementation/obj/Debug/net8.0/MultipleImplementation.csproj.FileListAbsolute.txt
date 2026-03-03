@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\net8.0\MultipleImplementation.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\net8.0\MultipleImplementation.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\net8.0\MultipleImplementation.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\net8.0\MultipleImplementation.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\bin\Debug\net8.0\MultipleImplementation.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\MultipleImplementation.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\MultipleImplementation.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\MultipleImplementation.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\MultipleImplementation.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\refint\MultipleImplementation.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\MultipleImplementation.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\MultipleImplementation.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\02. Multiple Implementation\obj\Debug\net8.0\ref\MultipleImplementation.dll

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Encapsulation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B09B297-0501-43BF-9903-DEA6E67CA224}|05. Football Team Generator\\FootballTeamGenerator.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\encapsulation\\05. football team generator\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B09B297-0501-43BF-9903-DEA6E67CA224}|05. Football Team Generator\\FootballTeamGenerator.csproj|solutionrelative:05. football team generator\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0B09B297-0501-43BF-9903-DEA6E67CA224}|05. Football Team Generator\\FootballTeamGenerator.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\encapsulation\\05. football team generator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B09B297-0501-43BF-9903-DEA6E67CA224}|05. Football Team Generator\\FootballTeamGenerator.csproj|solutionrelative:05. football team generator\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B09B297-0501-43BF-9903-DEA6E67CA224}|05. Football Team Generator\\FootballTeamGenerator.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\encapsulation\\05. football team generator\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B09B297-0501-43BF-9903-DEA6E67CA224}|05. Football Team Generator\\FootballTeamGenerator.csproj|solutionrelative:05. football team generator\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0B09B297-0501-43BF-9903-DEA6E67CA224}|05. Football Team Generator\\FootballTeamGenerator.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\encapsulation\\05. football team generator\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -90,7 +90,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Encapsulation\\05. Football Team Generator\\Models\\Player.cs",
               "RelativeDocumentMoniker": "05. Football Team Generator\\Models\\Player.cs",
@@ -141,13 +141,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Encapsulation\\05. Football Team Generator\\StartUp.cs",
               "RelativeDocumentMoniker": "05. Football Team Generator\\StartUp.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Encapsulation\\05. Football Team Generator\\StartUp.cs",
               "RelativeToolTip": "05. Football Team Generator\\StartUp.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAiwCMAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-01T12:30:48.783Z",
               "EditorCaption": ""

@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\models\\interfaces\\icallable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\models\\interfaces\\icallable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\models\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\models\\stationaryphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\models\\interfaces\\ibrowsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\models\\interfaces\\ibrowsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\telephony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\telephony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\02. multiple implementation\\multipleimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|solutionrelative:02. multiple implementation\\multipleimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\02. multiple implementation\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|solutionrelative:02. multiple implementation\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84932F81-6296-4A0F-8158-F9918A8B216D}|01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\01. define an interface iperson\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84932F81-6296-4A0F-8158-F9918A8B216D}|01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj|solutionrelative:01. define an interface iperson\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\02. multiple implementation\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|solutionrelative:02. multiple implementation\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\02. multiple implementation\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|solutionrelative:02. multiple implementation\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84932F81-6296-4A0F-8158-F9918A8B216D}|01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\01. define an interface iperson\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84932F81-6296-4A0F-8158-F9918A8B216D}|01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj|solutionrelative:01. define an interface iperson\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84932F81-6296-4A0F-8158-F9918A8B216D}|01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\01. define an interface iperson\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84932F81-6296-4A0F-8158-F9918A8B216D}|01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj|solutionrelative:01. define an interface iperson\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84932F81-6296-4A0F-8158-F9918A8B216D}|01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\01. define an interface iperson\\defineaninterfaceiperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84932F81-6296-4A0F-8158-F9918A8B216D}|01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj|solutionrelative:01. define an interface iperson\\defineaninterfaceiperson.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\02. multiple implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|solutionrelative:02. multiple implementation\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StationaryPhone.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\StationaryPhone.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Models\\StationaryPhone.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\StationaryPhone.cs",
+              "RelativeToolTip": "03. Telephony\\Models\\StationaryPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:08:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Smartphone.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Models\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Smartphone.cs",
+              "RelativeToolTip": "03. Telephony\\Models\\Smartphone.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:07:53.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICallable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\ICallable.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Models\\Interfaces\\ICallable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\ICallable.cs",
+              "RelativeToolTip": "03. Telephony\\Models\\Interfaces\\ICallable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:05:46.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBrowsable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
+              "RelativeToolTip": "03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:05:16.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Telephony.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Telephony.csproj",
+              "RelativeDocumentMoniker": "03. Telephony\\Telephony.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Telephony.csproj",
+              "RelativeToolTip": "03. Telephony\\Telephony.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T22:04:04.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\StartUp.cs",
+              "RelativeToolTip": "03. Telephony\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:04:03.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\Citizen.cs",
+              "RelativeDocumentMoniker": "02. Multiple Implementation\\Citizen.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\Citizen.cs",
+              "RelativeToolTip": "02. Multiple Implementation\\Citizen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:09:07.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\IBirthable.cs",
+              "RelativeDocumentMoniker": "02. Multiple Implementation\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\IBirthable.cs",
+              "RelativeToolTip": "02. Multiple Implementation\\IBirthable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:08:35.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "02. Multiple Implementation\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\IIdentifiable.cs",
+              "RelativeToolTip": "02. Multiple Implementation\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:08:06.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MultipleImplementation.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\MultipleImplementation.csproj",
+              "RelativeDocumentMoniker": "02. Multiple Implementation\\MultipleImplementation.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\MultipleImplementation.csproj",
+              "RelativeToolTip": "02. Multiple Implementation\\MultipleImplementation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T21:06:46.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\StartUp.cs",
+              "RelativeDocumentMoniker": "02. Multiple Implementation\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\StartUp.cs",
+              "RelativeToolTip": "02. Multiple Implementation\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T21:06:44.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\Citizen.cs",
+              "RelativeDocumentMoniker": "01. Define an Interface IPerson\\Citizen.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\Citizen.cs",
+              "RelativeToolTip": "01. Define an Interface IPerson\\Citizen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T20:31:44.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPerson.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\IPerson.cs",
+              "RelativeDocumentMoniker": "01. Define an Interface IPerson\\IPerson.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\IPerson.cs",
+              "RelativeToolTip": "01. Define an Interface IPerson\\IPerson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T20:30:49.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DefineAnInterfaceIPerson.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj",
+              "RelativeDocumentMoniker": "01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj",
+              "RelativeToolTip": "01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-02T19:10:48.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\StartUp.cs",
+              "RelativeDocumentMoniker": "01. Define an Interface IPerson\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\StartUp.cs",
+              "RelativeToolTip": "01. Define an Interface IPerson\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T16:12:39.333Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

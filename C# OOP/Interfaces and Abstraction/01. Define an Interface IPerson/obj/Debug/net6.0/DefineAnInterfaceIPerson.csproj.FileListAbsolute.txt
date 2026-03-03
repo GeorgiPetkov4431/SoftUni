@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\bin\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\refint\DefineAnInterfaceIPerson.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\DefineAnInterfaceIPerson.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\01. Define an Interface IPerson\obj\Debug\net6.0\ref\DefineAnInterfaceIPerson.dll
