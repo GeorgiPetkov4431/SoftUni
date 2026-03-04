@@ -3,8 +3,156 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\models\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\models\\rebel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\FoodShortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\models\\interfaces\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\models\\interfaces\\ibuyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\05. birthday celebrations\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|solutionrelative:05. birthday celebrations\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\04. Border Control.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\04. Border Control.csproj|solutionrelative:04. border control\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\telephony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\telephony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\io\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\io\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\io\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\io\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\io\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\io\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\io\\interfaces\\ireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\io\\interfaces\\ireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\FoodShortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\foodshortage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\FoodShortage.csproj|solutionrelative:06. food shortage\\foodshortage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\models\\interfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\models\\interfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\models\\interfaces\\inameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\models\\interfaces\\inameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\06. food shortage\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5CF99BA-64FB-4A03-86A0-635DF16ED624}|06. Food Shortage\\06. Food Shortage.csproj|solutionrelative:06. food shortage\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\05. birthday celebrations\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|solutionrelative:05. birthday celebrations\\models\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\05. birthday celebrations\\birthdaycelebrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\BirthdayCelebrations.csproj|solutionrelative:05. birthday celebrations\\birthdaycelebrations.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\05. birthday celebrations\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|solutionrelative:05. birthday celebrations\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\05. birthday celebrations\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|solutionrelative:05. birthday celebrations\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\05. birthday celebrations\\models\\interfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|solutionrelative:05. birthday celebrations\\models\\interfaces\\ibirthable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\05. birthday celebrations\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|solutionrelative:05. birthday celebrations\\models\\interfaces\\iidentifiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\05. birthday celebrations\\models\\interfaces\\inameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A8511D4-DBCD-4C80-8FBA-B15E77A56C11}|05. Birthday Celebrations\\05. Birthday Celebrations.csproj|solutionrelative:05. birthday celebrations\\models\\interfaces\\inameable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\io\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\io\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\io\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\io\\consolereader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\io\\interfaces\\ireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\io\\interfaces\\ireader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\io\\interfaces\\iwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\core\\interfaces\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\bordercontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\bordercontrol.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\models\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +169,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\models\\interfaces\\ibrowsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\models\\interfaces\\ibrowsable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\telephony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\telephony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E4ACDD35-7116-4248-ABE4-31F0B60DAF02}|02. Multiple Implementation\\MultipleImplementation.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\02. multiple implementation\\multipleimplementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -70,7 +214,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,58 +227,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "StationaryPhone.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\StationaryPhone.cs",
-              "RelativeDocumentMoniker": "03. Telephony\\Models\\StationaryPhone.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\StationaryPhone.cs",
-              "RelativeToolTip": "03. Telephony\\Models\\StationaryPhone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Title": "IBuyer.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:08:44.821Z",
+              "WhenOpened": "2026-03-04T09:03:09.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Smartphone.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Smartphone.cs",
-              "RelativeDocumentMoniker": "03. Telephony\\Models\\Smartphone.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Smartphone.cs",
-              "RelativeToolTip": "03. Telephony\\Models\\Smartphone.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Core\\Engine.cs",
+              "RelativeToolTip": "04. Border Control\\Core\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:07:53.328Z",
+              "WhenOpened": "2026-03-03T22:59:42.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICallable.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\ICallable.cs",
-              "RelativeDocumentMoniker": "03. Telephony\\Models\\Interfaces\\ICallable.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\ICallable.cs",
-              "RelativeToolTip": "03. Telephony\\Models\\Interfaces\\ICallable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\StartUp.cs",
+              "RelativeToolTip": "04. Border Control\\StartUp.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:05:46.594Z",
+              "WhenOpened": "2026-03-03T20:02:43.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBrowsable.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
-              "RelativeDocumentMoniker": "03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
-              "RelativeToolTip": "03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\StartUp.cs",
+              "RelativeToolTip": "03. Telephony\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:05:16.609Z",
+              "WhenOpened": "2026-03-02T22:04:03.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Telephony.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Telephony.csproj",
               "RelativeDocumentMoniker": "03. Telephony\\Telephony.csproj",
@@ -147,32 +291,501 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\StartUp.cs",
-              "RelativeDocumentMoniker": "03. Telephony\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\StartUp.cs",
-              "RelativeToolTip": "03. Telephony\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\StartUp.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\StartUp.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:04:03.438Z",
+              "WhenOpened": "2026-03-03T22:02:45.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Robot.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Robot.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:34:21.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Citizen.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Citizen.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:34:03.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rebel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Rebel.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Rebel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Rebel.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Rebel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:35:31.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\StartUp.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\StartUp.cs",
+              "RelativeToolTip": "06. Food Shortage\\StartUp.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:32:51.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConsoleReader.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\IO\\ConsoleReader.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\IO\\ConsoleReader.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\IO\\ConsoleReader.cs",
+              "RelativeToolTip": "04. Border Control\\IO\\ConsoleReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:41:21.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsoleWriter.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\IO\\ConsoleWriter.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\IO\\ConsoleWriter.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\IO\\ConsoleWriter.cs",
+              "RelativeToolTip": "04. Border Control\\IO\\ConsoleWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:39:54.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\IO\\Interfaces\\IWriter.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\IO\\Interfaces\\IWriter.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\IO\\Interfaces\\IWriter.cs",
+              "RelativeToolTip": "04. Border Control\\IO\\Interfaces\\IWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:39:31.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IReader.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\IO\\Interfaces\\IReader.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\IO\\Interfaces\\IReader.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\IO\\Interfaces\\IReader.cs",
+              "RelativeToolTip": "04. Border Control\\IO\\Interfaces\\IReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T08:39:12.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Core\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Core\\Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Core\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "04. Border Control\\Core\\Interfaces\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:59:16.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FoodShortage.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\FoodShortage.csproj",
+              "RelativeDocumentMoniker": "06. Food Shortage\\FoodShortage.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\FoodShortage.csproj",
+              "RelativeToolTip": "06. Food Shortage\\FoodShortage.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T22:33:12.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConsoleWriter.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\ConsoleWriter.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\IO\\ConsoleWriter.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\ConsoleWriter.cs",
+              "RelativeToolTip": "03. Telephony\\IO\\ConsoleWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:17:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:34:31.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Models\\Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "04. Border Control\\Models\\Interfaces\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:05:32.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Models\\Citizen.cs",
+              "RelativeToolTip": "04. Border Control\\Models\\Citizen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:06:10.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Models\\Robot.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Models\\Robot.cs",
+              "RelativeToolTip": "04. Border Control\\Models\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T21:14:08.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IBirthable.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Interfaces\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IBirthable.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\IBirthable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:34:28.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "INameable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\INameable.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Interfaces\\INameable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\INameable.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\INameable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:34:35.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Pet.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:34:13.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Pet.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Pet.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Pet.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:18:27.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "INameable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Interfaces\\INameable.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Interfaces\\INameable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Interfaces\\INameable.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Interfaces\\INameable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:17:20.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBirthable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Interfaces\\IBirthable.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Interfaces\\IBirthable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Interfaces\\IBirthable.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Interfaces\\IBirthable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:16:49.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IIdentifiable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Interfaces\\IIdentifiable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Interfaces\\IIdentifiable.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Interfaces\\IIdentifiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:03:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Robot.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Robot.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Robot.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:03:47.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\Models\\Citizen.cs",
+              "RelativeToolTip": "05. Birthday Celebrations\\Models\\Citizen.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:03:38.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BirthdayCelebrations.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\BirthdayCelebrations.csproj",
+              "RelativeDocumentMoniker": "05. Birthday Celebrations\\BirthdayCelebrations.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\05. Birthday Celebrations\\BirthdayCelebrations.csproj",
+              "RelativeToolTip": "05. Birthday Celebrations\\BirthdayCelebrations.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T22:03:15.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "FileWriter.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\FileWriter.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\IO\\FileWriter.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\FileWriter.cs",
+              "RelativeToolTip": "03. Telephony\\IO\\FileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:59:45.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ConsoleReader.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\ConsoleReader.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\IO\\ConsoleReader.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\ConsoleReader.cs",
+              "RelativeToolTip": "03. Telephony\\IO\\ConsoleReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:16:14.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IReader.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\Interfaces\\IReader.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\IO\\Interfaces\\IReader.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\Interfaces\\IReader.cs",
+              "RelativeToolTip": "03. Telephony\\IO\\Interfaces\\IReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:15:00.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Core\\Engine.cs",
+              "RelativeToolTip": "03. Telephony\\Core\\Engine.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:08:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IWriter.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\Interfaces\\IWriter.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\IO\\Interfaces\\IWriter.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\IO\\Interfaces\\IWriter.cs",
+              "RelativeToolTip": "03. Telephony\\IO\\Interfaces\\IWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:15:21.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BorderControl.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\BorderControl.csproj",
+              "RelativeDocumentMoniker": "04. Border Control\\BorderControl.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\BorderControl.csproj",
+              "RelativeToolTip": "04. Border Control\\BorderControl.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T20:02:46.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Core\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Core\\Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Core\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "03. Telephony\\Core\\Interfaces\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:09:06.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Smartphone.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Models\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Smartphone.cs",
+              "RelativeToolTip": "03. Telephony\\Models\\Smartphone.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:07:53.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ICallable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\ICallable.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Models\\Interfaces\\ICallable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\ICallable.cs",
+              "RelativeToolTip": "03. Telephony\\Models\\Interfaces\\ICallable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:05:46.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "StationaryPhone.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\StationaryPhone.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Models\\StationaryPhone.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\StationaryPhone.cs",
+              "RelativeToolTip": "03. Telephony\\Models\\StationaryPhone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:08:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IBrowsable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
+              "RelativeDocumentMoniker": "03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
+              "RelativeToolTip": "03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T22:05:16.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "Citizen.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\Citizen.cs",
               "RelativeDocumentMoniker": "02. Multiple Implementation\\Citizen.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\Citizen.cs",
               "RelativeToolTip": "02. Multiple Implementation\\Citizen.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:09:07.116Z"
+              "WhenOpened": "2026-03-02T21:09:07.116Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 45,
               "Title": "IBirthable.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\IBirthable.cs",
               "RelativeDocumentMoniker": "02. Multiple Implementation\\IBirthable.cs",
@@ -180,11 +793,12 @@
               "RelativeToolTip": "02. Multiple Implementation\\IBirthable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:08:35.669Z"
+              "WhenOpened": "2026-03-02T21:08:35.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 46,
               "Title": "IIdentifiable.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\IIdentifiable.cs",
               "RelativeDocumentMoniker": "02. Multiple Implementation\\IIdentifiable.cs",
@@ -192,11 +806,12 @@
               "RelativeToolTip": "02. Multiple Implementation\\IIdentifiable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:08:06.613Z"
+              "WhenOpened": "2026-03-02T21:08:06.613Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 42,
               "Title": "MultipleImplementation.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\MultipleImplementation.csproj",
               "RelativeDocumentMoniker": "02. Multiple Implementation\\MultipleImplementation.csproj",
@@ -204,11 +819,12 @@
               "RelativeToolTip": "02. Multiple Implementation\\MultipleImplementation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-02T21:06:46.839Z"
+              "WhenOpened": "2026-03-02T21:06:46.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 50,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\02. Multiple Implementation\\StartUp.cs",
               "RelativeDocumentMoniker": "02. Multiple Implementation\\StartUp.cs",
@@ -216,11 +832,12 @@
               "RelativeToolTip": "02. Multiple Implementation\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:06:44.909Z"
+              "WhenOpened": "2026-03-02T21:06:44.909Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 44,
               "Title": "Citizen.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\Citizen.cs",
               "RelativeDocumentMoniker": "01. Define an Interface IPerson\\Citizen.cs",
@@ -228,11 +845,12 @@
               "RelativeToolTip": "01. Define an Interface IPerson\\Citizen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:31:44.89Z"
+              "WhenOpened": "2026-03-02T20:31:44.89Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 48,
               "Title": "IPerson.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\IPerson.cs",
               "RelativeDocumentMoniker": "01. Define an Interface IPerson\\IPerson.cs",
@@ -240,11 +858,12 @@
               "RelativeToolTip": "01. Define an Interface IPerson\\IPerson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:30:49.709Z"
+              "WhenOpened": "2026-03-02T20:30:49.709Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 49,
               "Title": "DefineAnInterfaceIPerson.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj",
               "RelativeDocumentMoniker": "01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj",
@@ -252,11 +871,12 @@
               "RelativeToolTip": "01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-02T19:10:48.693Z"
+              "WhenOpened": "2026-03-02T19:10:48.693Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 47,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\01. Define an Interface IPerson\\StartUp.cs",
               "RelativeDocumentMoniker": "01. Define an Interface IPerson\\StartUp.cs",
@@ -264,7 +884,8 @@
               "RelativeToolTip": "01. Define an Interface IPerson\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T16:12:39.333Z"
+              "WhenOpened": "2026-03-02T16:12:39.333Z",
+              "EditorCaption": ""
             }
           ]
         }

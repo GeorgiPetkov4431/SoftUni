@@ -9,12 +9,12 @@ namespace PizzaCalories
         {
             try {
                 string input = Console.ReadLine();
-                string[] inputArgs = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                string[] inputArgs = input.Split(' ');
             
                 string pizzaName = inputArgs[1];
 
                 input = Console.ReadLine();
-                inputArgs = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                inputArgs = input.Split(' ');
 
                 string flourType = inputArgs[1];
                 string bakingTechnique = inputArgs[2];

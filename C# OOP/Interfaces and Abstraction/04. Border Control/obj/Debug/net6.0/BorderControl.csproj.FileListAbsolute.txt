@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\net6.0\BorderControl.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\net6.0\BorderControl.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\net6.0\BorderControl.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\net6.0\BorderControl.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\bin\Debug\net6.0\BorderControl.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\BorderControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\BorderControl.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\BorderControl.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\BorderControl.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\BorderControl.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\refint\BorderControl.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\BorderControl.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\BorderControl.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\04. Border Control\obj\Debug\net6.0\ref\BorderControl.dll

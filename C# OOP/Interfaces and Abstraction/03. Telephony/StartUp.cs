@@ -1,4 +1,8 @@
 ﻿using System;
+using Telephony.Core;
+using Telephony.Core.Interfaces;
+using Telephony.IO;
+using Telephony.IO.Interfaces;
 using Telephony.Models;
 using Telephony.Models.Interfaces;
 
@@ -8,45 +12,11 @@ namespace Telephony
     {
         static void Main(string[] args)
         {
-            string[] phoneNumberList = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
-            string[] urlList = Console.ReadLine().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+            IReader reader = new ConsoleReader();
+            IWriter writer = new ConsoleWriter();
 
-            ICallable callable;
-            IBrowsable browsable;
-            
-            foreach (string phoneNumber in phoneNumberList)
-            {
-                try
-                {
-                    if (phoneNumber.Length == 7)
-                    {
-                        callable = new StationaryPhone();
-                    }
-                    else
-                    {
-                        callable = new Smartphone();
-                    }
-
-                    Console.WriteLine(callable.Call(phoneNumber));
-                }
-                catch (ArgumentException ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
-            }
-
-            foreach (string url in urlList)
-            {
-                try
-                {
-                    browsable = new Smartphone();
-                    Console.WriteLine(browsable.Browse(url));
-                }
-                catch (ArgumentException ex)
-                {
-                    Console.WriteLine(ex.Message);
-                }
-            }
+            IEngine engine = new Engine(reader, writer);
+            engine.Run();
         }
     }
 }

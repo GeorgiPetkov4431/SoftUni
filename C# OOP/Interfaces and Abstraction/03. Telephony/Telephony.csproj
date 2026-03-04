@@ -6,9 +6,4 @@
     <RootNamespace>Telephony</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Core\" />
-    <Folder Include="IO\" />
-  </ItemGroup>
-
 </Project>
