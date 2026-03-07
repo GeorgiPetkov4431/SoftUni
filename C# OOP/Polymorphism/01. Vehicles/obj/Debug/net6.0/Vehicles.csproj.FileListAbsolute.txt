@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\bin\Debug\net6.0\Vehicles.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\bin\Debug\net6.0\Vehicles.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\bin\Debug\net6.0\Vehicles.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\bin\Debug\net6.0\Vehicles.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\bin\Debug\net6.0\Vehicles.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\Vehicles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\Vehicles.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\Vehicles.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\Vehicles.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\refint\Vehicles.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\Vehicles.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\Vehicles.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\01. Vehicles\obj\Debug\net6.0\ref\Vehicles.dll
