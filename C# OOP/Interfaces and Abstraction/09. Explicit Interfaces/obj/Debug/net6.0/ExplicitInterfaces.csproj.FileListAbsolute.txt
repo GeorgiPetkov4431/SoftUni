@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\bin\Debug\net6.0\ExplicitInterfaces.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\bin\Debug\net6.0\ExplicitInterfaces.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\bin\Debug\net6.0\ExplicitInterfaces.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\bin\Debug\net6.0\ExplicitInterfaces.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\bin\Debug\net6.0\ExplicitInterfaces.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ExplicitInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ExplicitInterfaces.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ExplicitInterfaces.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ExplicitInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ExplicitInterfaces.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ExplicitInterfaces.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\refint\ExplicitInterfaces.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ExplicitInterfaces.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ExplicitInterfaces.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\09. Explicit Interfaces\obj\Debug\net6.0\ref\ExplicitInterfaces.dll

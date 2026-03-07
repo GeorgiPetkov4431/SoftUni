@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\bin\Debug\net6.0\MilitaryElite.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\bin\Debug\net6.0\MilitaryElite.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\bin\Debug\net6.0\MilitaryElite.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\bin\Debug\net6.0\MilitaryElite.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\bin\Debug\net6.0\MilitaryElite.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\MilitaryElite.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\MilitaryElite.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\MilitaryElite.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\refint\MilitaryElite.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\MilitaryElite.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\MilitaryElite.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Interfaces and Abstraction\07. Military Elite\obj\Debug\net6.0\ref\MilitaryElite.dll
