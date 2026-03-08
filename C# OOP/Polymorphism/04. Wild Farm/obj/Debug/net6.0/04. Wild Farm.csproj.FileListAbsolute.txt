@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\bin\Debug\net6.0\04. Wild Farm.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\refint\04. Wild Farm.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\04. Wild Farm.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Polymorphism\04. Wild Farm\obj\Debug\net6.0\ref\04. Wild Farm.dll
