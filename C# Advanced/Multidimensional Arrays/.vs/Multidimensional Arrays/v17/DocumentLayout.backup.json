@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A995553-A1FA-40CC-A416-C14B7D302DCA}|09. Miner\\09. Miner.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\09. miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A995553-A1FA-40CC-A416-C14B7D302DCA}|09. Miner\\09. Miner.csproj|solutionrelative:09. miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E6343234-CFB3-4616-BE8D-6967A1D91CE5}|10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\10. radioactive mutant vampire bunnies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6343234-CFB3-4616-BE8D-6967A1D91CE5}|10. Radioactive Mutant Vampire Bunnies\\10. Radioactive Mutant Vampire Bunnies.csproj|solutionrelative:10. radioactive mutant vampire bunnies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A995553-A1FA-40CC-A416-C14B7D302DCA}|09. Miner\\09. Miner.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\09. miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A995553-A1FA-40CC-A416-C14B7D302DCA}|09. Miner\\09. Miner.csproj|solutionrelative:09. miner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EF7A501-17A9-41CE-8A21-95E6AD0A0CA5}|07. Knight Game\\07. Knight Game.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\multidimensional arrays\\07. knight game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,7 +86,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,26 +98,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\10. Radioactive Mutant Vampire Bunnies\\Program.cs",
               "RelativeDocumentMoniker": "10. Radioactive Mutant Vampire Bunnies\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\10. Radioactive Mutant Vampire Bunnies\\Program.cs",
               "RelativeToolTip": "10. Radioactive Mutant Vampire Bunnies\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAqwIwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T14:23:06.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\09. Miner\\Program.cs",
               "RelativeDocumentMoniker": "09. Miner\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Multidimensional Arrays\\09. Miner\\Program.cs",
               "RelativeToolTip": "09. Miner\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-15T12:50:26.093Z",
               "EditorCaption": ""

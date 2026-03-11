@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\bin\Debug\net8.0\01. Square Root.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\bin\Debug\net8.0\01. Square Root.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\bin\Debug\net8.0\01. Square Root.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\bin\Debug\net8.0\01. Square Root.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\bin\Debug\net8.0\01. Square Root.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\01. Square Root.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\01. Square Root.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\01. Square Root.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\01. Square Root.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\01. Square Root.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\01. Square Root.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\refint\01. Square Root.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\01. Square Root.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\01. Square Root.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exception Handling\01. Square Root\obj\Debug\net8.0\ref\01. Square Root.dll
