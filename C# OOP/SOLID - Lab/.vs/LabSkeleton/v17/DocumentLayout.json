@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p04.recharge\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p04.recharge\\rechargeablestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\rechargeablestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p04.recharge\\istation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\istation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p04.recharge\\isleeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\isleeper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p04.recharge\\irechargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\irechargeable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p04.recharge\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p04.recharge\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p03.detail_printer\\detailsprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\detailsprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p03.detail_printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p03.detail_printer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p03.detail_printer\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D959426C-6A22-489F-AB83-B9369CA8772E}|P03.Detail_Printer\\P03.Detail_Printer.csproj|solutionrelative:p03.detail_printer\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p04.recharge\\p04.recharge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C4A0D52-9ADB-4A67-814C-A1E1839CD6E8}|P04.Recharge\\P04.Recharge.csproj|solutionrelative:p04.recharge\\p04.recharge.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p02.graphic_editor\\graphiceditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\graphiceditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p02.graphic_editor\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p02.graphic_editor\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p02.graphic_editor\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p02.graphic_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p02.graphic_editor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2924B6BF-C664-4DB6-AD89-226F29FFA05B}|P02.Graphic_Editor\\P02.Graphic_Editor.csproj|solutionrelative:p02.graphic_editor\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p01.stream_progress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p01.stream_progress\\streamprogressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\streamprogressinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p01.stream_progress\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - lab\\p01.stream_progress\\istreamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7479878C-FDEC-4380-9665-F22D3DB2F0BA}|P01.Stream_Progress\\P01.Stream_Progress.csproj|solutionrelative:p01.stream_progress\\istreamable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStation.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\IStation.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\IStation.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\IStation.cs",
+              "RelativeToolTip": "P04.Recharge\\IStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:55:01.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\Robot.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Robot.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\Robot.cs",
+              "RelativeToolTip": "P04.Recharge\\Robot.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:45:21.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RechargeableStation.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\RechargeableStation.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\RechargeableStation.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\RechargeableStation.cs",
+              "RelativeToolTip": "P04.Recharge\\RechargeableStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:41:33.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ISleeper.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\ISleeper.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\ISleeper.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\ISleeper.cs",
+              "RelativeToolTip": "P04.Recharge\\ISleeper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:40:50.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRechargeable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\IRechargeable.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\IRechargeable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\IRechargeable.cs",
+              "RelativeToolTip": "P04.Recharge\\IRechargeable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:40:49.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\Worker.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Worker.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\Worker.cs",
+              "RelativeToolTip": "P04.Recharge\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:40:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\Employee.cs",
+              "RelativeDocumentMoniker": "P04.Recharge\\Employee.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\Employee.cs",
+              "RelativeToolTip": "P04.Recharge\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:40:41.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "P04.Recharge",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\P04.Recharge.csproj",
+              "RelativeDocumentMoniker": "P04.Recharge\\P04.Recharge.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P04.Recharge\\P04.Recharge.csproj",
+              "RelativeToolTip": "P04.Recharge\\P04.Recharge.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-14T14:36:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P03.Detail_Printer\\Employee.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\Employee.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P03.Detail_Printer\\Employee.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:35:18.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P03.Detail_Printer\\Program.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P03.Detail_Printer\\Program.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:35:17.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P03.Detail_Printer\\Manager.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\Manager.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P03.Detail_Printer\\Manager.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:35:15.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetailsPrinter.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P03.Detail_Printer\\DetailsPrinter.cs",
+              "RelativeDocumentMoniker": "P03.Detail_Printer\\DetailsPrinter.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P03.Detail_Printer\\DetailsPrinter.cs",
+              "RelativeToolTip": "P03.Detail_Printer\\DetailsPrinter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:28:11.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\Program.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\Program.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:26:31.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\Square.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Square.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\Square.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:25:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\Rectangle.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\Rectangle.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:25:32.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\Circle.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\Circle.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\Circle.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:25:21.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\IShape.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\IShape.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\IShape.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:24:38.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GraphicEditor.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\GraphicEditor.cs",
+              "RelativeDocumentMoniker": "P02.Graphic_Editor\\GraphicEditor.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P02.Graphic_Editor\\GraphicEditor.cs",
+              "RelativeToolTip": "P02.Graphic_Editor\\GraphicEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:24:10.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P01.Stream_Progress\\File.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\File.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P01.Stream_Progress\\File.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:13:15.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStreamable.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P01.Stream_Progress\\IStreamable.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\IStreamable.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P01.Stream_Progress\\IStreamable.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\IStreamable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T14:12:52.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P01.Stream_Progress\\Program.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P01.Stream_Progress\\Program.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:22:29.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StreamProgressInfo.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P01.Stream_Progress\\StreamProgressInfo.cs",
+              "RelativeDocumentMoniker": "P01.Stream_Progress\\StreamProgressInfo.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Lab\\P01.Stream_Progress\\StreamProgressInfo.cs",
+              "RelativeToolTip": "P01.Stream_Progress\\StreamProgressInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T13:22:27.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
