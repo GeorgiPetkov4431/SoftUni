@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\LoggerSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\LoggerSystem.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\LoggerSystem.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\LoggerSystem.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\LoggerSystem.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\bin\Debug\net8.0\LoggerSystem.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\bin\Debug\net8.0\LoggerSystem.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\bin\Debug\net8.0\LoggerSystem.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\bin\Debug\net8.0\LoggerSystem.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\bin\Debug\net8.0\LoggerSystem.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\LoggerSystem.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\refint\LoggerSystem.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\LoggerSystem.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\LoggerSystem.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\SOLID - Exercises\01. Logger\obj\Debug\net8.0\ref\LoggerSystem.dll
