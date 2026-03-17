@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E073553C-542E-4821-940A-532ED844D5B7}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\logger.consoleapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E073553C-542E-4821-940A-532ED844D5B7}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|solutionrelative:logger.consoleapp\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,10 +27,6 @@
       "RelativeMoniker": "D:0:0:{E073553C-542E-4821-940A-532ED844D5B7}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|solutionrelative:logger.consoleapp\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\01. Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\01. Logger.csproj|solutionrelative:01. logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\services\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\services\\logfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,48 +35,40 @@
       "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\layouts\\xmllayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|solutionrelative:01. logger\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\01. Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\01. Logger.csproj|solutionrelative:01. logger\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\interfaces\\ilogfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|solutionrelative:01. logger\\interfaces\\ilogfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|solutionrelative:01. logger\\appenders\\consoleappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\01. Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\01. Logger.csproj|solutionrelative:01. logger\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|solutionrelative:01. logger\\interfaces\\iappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|solutionrelative:01. logger\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\Logger.csproj|solutionrelative:01. logger\\core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\appenders\\fileappender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E073553C-542E-4821-940A-532ED844D5B7}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\logger.consoleapp\\logger.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{E073553C-542E-4821-940A-532ED844D5B7}|Logger.ConsoleApp\\Logger.ConsoleApp.csproj|solutionrelative:logger.consoleapp\\logger.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\loggersystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\loggersystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\interfaces\\ilogfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\interfaces\\ilogfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\layouts\\simplelayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\interfaces\\ilayout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\enums\\reportlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\solid - exercises\\01. logger\\core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50BB985-C7A1-468B-AE71-919E702B0F77}|01. Logger\\LoggerSystem.csproj|solutionrelative:01. logger\\core\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -90,33 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HtmlLayout.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\Logger.ConsoleApp\\HtmlLayout.cs",
-              "RelativeDocumentMoniker": "Logger.ConsoleApp\\HtmlLayout.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\Logger.ConsoleApp\\HtmlLayout.cs",
-              "RelativeToolTip": "Logger.ConsoleApp\\HtmlLayout.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvwgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T14:21:17.96Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ILogFile.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILogFile.cs",
-              "RelativeDocumentMoniker": "01. Logger\\Interfaces\\ILogFile.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILogFile.cs",
-              "RelativeToolTip": "01. Logger\\Interfaces\\ILogFile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T11:17:30.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ILogger.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILogger.cs",
               "RelativeDocumentMoniker": "01. Logger\\Interfaces\\ILogger.cs",
@@ -124,12 +98,11 @@
               "RelativeToolTip": "01. Logger\\Interfaces\\ILogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:21:11.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T02:21:11.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "SimpleLayout.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Layouts\\SimpleLayout.cs",
               "RelativeDocumentMoniker": "01. Logger\\Layouts\\SimpleLayout.cs",
@@ -137,12 +110,11 @@
               "RelativeToolTip": "01. Logger\\Layouts\\SimpleLayout.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T11:59:47.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T11:59:47.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "XmlLayout.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Layouts\\XmlLayout.cs",
               "RelativeDocumentMoniker": "01. Logger\\Layouts\\XmlLayout.cs",
@@ -150,12 +122,11 @@
               "RelativeToolTip": "01. Logger\\Layouts\\XmlLayout.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T12:53:14.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T12:53:14.975Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\Logger.ConsoleApp\\StartUp.cs",
               "RelativeDocumentMoniker": "Logger.ConsoleApp\\StartUp.cs",
@@ -168,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CommandInterpreter.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\Logger.ConsoleApp\\CommandInterpreter.cs",
               "RelativeDocumentMoniker": "Logger.ConsoleApp\\CommandInterpreter.cs",
@@ -176,38 +147,24 @@
               "RelativeToolTip": "Logger.ConsoleApp\\CommandInterpreter.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwCgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T14:05:54.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T14:05:54.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ConsoleAppender.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Appenders\\ConsoleAppender.cs",
               "RelativeDocumentMoniker": "01. Logger\\Appenders\\ConsoleAppender.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Appenders\\ConsoleAppender.cs",
               "RelativeToolTip": "01. Logger\\Appenders\\ConsoleAppender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T12:08:51.264Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ILayout.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILayout.cs",
-              "RelativeDocumentMoniker": "01. Logger\\Interfaces\\ILayout.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILayout.cs",
-              "RelativeToolTip": "01. Logger\\Interfaces\\ILayout.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T02:24:16.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "IAppender.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\IAppender.cs",
               "RelativeDocumentMoniker": "01. Logger\\Interfaces\\IAppender.cs",
@@ -220,7 +177,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileAppender.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Appenders\\FileAppender.cs",
+              "RelativeDocumentMoniker": "01. Logger\\Appenders\\FileAppender.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Appenders\\FileAppender.cs",
+              "RelativeToolTip": "01. Logger\\Appenders\\FileAppender.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T13:24:27.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILogFile.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILogFile.cs",
+              "RelativeDocumentMoniker": "01. Logger\\Interfaces\\ILogFile.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILogFile.cs",
+              "RelativeToolTip": "01. Logger\\Interfaces\\ILogFile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T11:17:30.602Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "HtmlLayout.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\Logger.ConsoleApp\\HtmlLayout.cs",
+              "RelativeDocumentMoniker": "Logger.ConsoleApp\\HtmlLayout.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\Logger.ConsoleApp\\HtmlLayout.cs",
+              "RelativeToolTip": "Logger.ConsoleApp\\HtmlLayout.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvwgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T14:21:17.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ILayout.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILayout.cs",
+              "RelativeDocumentMoniker": "01. Logger\\Interfaces\\ILayout.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Interfaces\\ILayout.cs",
+              "RelativeToolTip": "01. Logger\\Interfaces\\ILayout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T02:24:16.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "LogFile.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Services\\LogFile.cs",
               "RelativeDocumentMoniker": "01. Logger\\Services\\LogFile.cs",
@@ -228,12 +234,11 @@
               "RelativeToolTip": "01. Logger\\Services\\LogFile.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T13:31:22.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T13:31:22.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\StartUp.cs",
               "RelativeDocumentMoniker": "01. Logger\\StartUp.cs",
@@ -241,12 +246,11 @@
               "RelativeToolTip": "01. Logger\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T14:57:31.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T14:57:31.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ReportLevel.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Enums\\ReportLevel.cs",
               "RelativeDocumentMoniker": "01. Logger\\Enums\\ReportLevel.cs",
@@ -254,12 +258,11 @@
               "RelativeToolTip": "01. Logger\\Enums\\ReportLevel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T11:10:11.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T11:10:11.355Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Logger.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Core\\Logger.cs",
               "RelativeDocumentMoniker": "01. Logger\\Core\\Logger.cs",
@@ -267,47 +270,31 @@
               "RelativeToolTip": "01. Logger\\Core\\Logger.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T12:22:42.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T12:22:42.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "FileAppender.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Appenders\\FileAppender.cs",
-              "RelativeDocumentMoniker": "01. Logger\\Appenders\\FileAppender.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\Appenders\\FileAppender.cs",
-              "RelativeToolTip": "01. Logger\\Appenders\\FileAppender.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T13:24:27.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Logger.ConsoleApp",
+              "DocumentIndex": 8,
+              "Title": "Logger.ConsoleApp.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\Logger.ConsoleApp\\Logger.ConsoleApp.csproj",
               "RelativeDocumentMoniker": "Logger.ConsoleApp\\Logger.ConsoleApp.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\Logger.ConsoleApp\\Logger.ConsoleApp.csproj",
               "RelativeToolTip": "Logger.ConsoleApp\\Logger.ConsoleApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-15T14:05:38.885Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T14:05:38.885Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "01. Logger.csproj",
+              "DocumentIndex": 9,
+              "Title": "LoggerSystem.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\LoggerSystem.csproj",
               "RelativeDocumentMoniker": "01. Logger\\LoggerSystem.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\SOLID - Exercises\\01. Logger\\LoggerSystem.csproj",
               "RelativeToolTip": "01. Logger\\LoggerSystem.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-14T14:57:52.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T14:57:52.343Z"
             }
           ]
         }
