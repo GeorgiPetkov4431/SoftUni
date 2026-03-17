@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\bin\Debug\net6.0\HighQualityMistakes.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\bin\Debug\net6.0\HighQualityMistakes.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\bin\Debug\net6.0\HighQualityMistakes.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\bin\Debug\net6.0\HighQualityMistakes.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\bin\Debug\net6.0\HighQualityMistakes.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\HighQualityMistakes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\HighQualityMistakes.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\HighQualityMistakes.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\HighQualityMistakes.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\HighQualityMistakes.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\HighQualityMistakes.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\refint\HighQualityMistakes.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\HighQualityMistakes.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\HighQualityMistakes.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\02. High-Quality Mistakes\obj\Debug\net6.0\ref\HighQualityMistakes.dll

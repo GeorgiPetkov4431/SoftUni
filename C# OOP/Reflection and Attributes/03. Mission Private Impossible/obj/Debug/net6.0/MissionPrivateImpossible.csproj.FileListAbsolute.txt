@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\bin\Debug\net6.0\MissionPrivateImpossible.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\bin\Debug\net6.0\MissionPrivateImpossible.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\bin\Debug\net6.0\MissionPrivateImpossible.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\bin\Debug\net6.0\MissionPrivateImpossible.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\bin\Debug\net6.0\MissionPrivateImpossible.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\MissionPrivateImpossible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\MissionPrivateImpossible.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\MissionPrivateImpossible.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\MissionPrivateImpossible.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\MissionPrivateImpossible.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\refint\MissionPrivateImpossible.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\MissionPrivateImpossible.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\MissionPrivateImpossible.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\03. Mission Private Impossible\obj\Debug\net6.0\ref\MissionPrivateImpossible.dll

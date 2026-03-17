@@ -17,16 +17,17 @@ namespace Stealer
 
             Type classType = Type.GetType(className);
 
-            FieldInfo[] fields = classType.GetFields(BindingFlags.Instance 
-                                                    | BindingFlags.NonPublic
-                                                    | BindingFlags.Public)
+            FieldInfo[] fields =
+                classType.GetFields(BindingFlags.Instance 
+                | BindingFlags.NonPublic
+                | BindingFlags.Public)
                 .Where(f => fieldNames.Contains(f.Name)).ToArray();
 
             object instance = Activator.CreateInstance(classType);
 
             foreach (FieldInfo field in fields)
             {
-                var value = field.GetValue(instance);
+                object value = field.GetValue(instance);
 
                 sb.AppendLine($"{field.Name} = {value}");
             }

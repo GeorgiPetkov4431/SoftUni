@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{58E2E50A-45DA-4B87-82B4-47AA9B077E46}|04. Collector\\04. Collector.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\04. collector\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E2E50A-45DA-4B87-82B4-47AA9B077E46}|04. Collector\\04. Collector.csproj|solutionrelative:04. collector\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E2E50A-45DA-4B87-82B4-47AA9B077E46}|04. Collector\\04. Collector.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\04. collector\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E2E50A-45DA-4B87-82B4-47AA9B077E46}|04. Collector\\04. Collector.csproj|solutionrelative:04. collector\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F2B344-7C74-4994-AD22-262B078DC94D}|03. Mission Private Impossible\\03. Mission Private Impossible.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\03. mission private impossible\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2B344-7C74-4994-AD22-262B078DC94D}|03. Mission Private Impossible\\03. Mission Private Impossible.csproj|solutionrelative:03. mission private impossible\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E2E50A-45DA-4B87-82B4-47AA9B077E46}|04. Collector\\04. Collector.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\04. collector\\04. collector.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{58E2E50A-45DA-4B87-82B4-47AA9B077E46}|04. Collector\\04. Collector.csproj|solutionrelative:04. collector\\04. collector.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0342AFC-7F0D-4332-AA98-F0BD1F09E196}|02. High-Quality Mistakes\\HighQualityMistakes.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\02. high-quality mistakes\\highqualitymistakes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0342AFC-7F0D-4332-AA98-F0BD1F09E196}|02. High-Quality Mistakes\\HighQualityMistakes.csproj|solutionrelative:02. high-quality mistakes\\highqualitymistakes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F2B344-7C74-4994-AD22-262B078DC94D}|03. Mission Private Impossible\\03. Mission Private Impossible.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\03. mission private impossible\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F2B344-7C74-4994-AD22-262B078DC94D}|03. Mission Private Impossible\\03. Mission Private Impossible.csproj|solutionrelative:03. mission private impossible\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F2B344-7C74-4994-AD22-262B078DC94D}|03. Mission Private Impossible\\MissionPrivateImpossible.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\03. mission private impossible\\missionprivateimpossible.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D4F2B344-7C74-4994-AD22-262B078DC94D}|03. Mission Private Impossible\\MissionPrivateImpossible.csproj|solutionrelative:03. mission private impossible\\missionprivateimpossible.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0342AFC-7F0D-4332-AA98-F0BD1F09E196}|02. High-Quality Mistakes\\HighQualityMistakes.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\02. high-quality mistakes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0342AFC-7F0D-4332-AA98-F0BD1F09E196}|02. High-Quality Mistakes\\HighQualityMistakes.csproj|solutionrelative:02. high-quality mistakes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0342AFC-7F0D-4332-AA98-F0BD1F09E196}|02. High-Quality Mistakes\\HighQualityMistakes.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\02. high-quality mistakes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0342AFC-7F0D-4332-AA98-F0BD1F09E196}|02. High-Quality Mistakes\\HighQualityMistakes.csproj|solutionrelative:02. high-quality mistakes\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\Stealer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\01. stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\Stealer.csproj|solutionrelative:01. stealer\\spy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\01. Stealer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\01. stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\01. Stealer.csproj|solutionrelative:01. stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\Stealer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\01. stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\Stealer.csproj|solutionrelative:01. stealer\\hacker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\Stealer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\01. stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\Stealer.csproj|solutionrelative:01. stealer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7131C79C-0FEF-4317-9E13-9F49A023933E}|01. Stealer\\Stealer.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes\\01. stealer\\stealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -40,31 +76,148 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\04. Collector\\Spy.cs",
+              "RelativeDocumentMoniker": "04. Collector\\Spy.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\04. Collector\\Spy.cs",
+              "RelativeToolTip": "04. Collector\\Spy.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAqwHUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:47:27.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "04. Collector",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\04. Collector\\04. Collector.csproj",
+              "RelativeDocumentMoniker": "04. Collector\\04. Collector.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\04. Collector\\04. Collector.csproj",
+              "RelativeToolTip": "04. Collector\\04. Collector.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T22:46:46.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\04. Collector\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Collector\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\04. Collector\\StartUp.cs",
+              "RelativeToolTip": "04. Collector\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:46:29.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\03. Mission Private Impossible\\Spy.cs",
+              "RelativeDocumentMoniker": "03. Mission Private Impossible\\Spy.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\03. Mission Private Impossible\\Spy.cs",
+              "RelativeToolTip": "03. Mission Private Impossible\\Spy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:39:17.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MissionPrivateImpossible.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\03. Mission Private Impossible\\MissionPrivateImpossible.csproj",
+              "RelativeDocumentMoniker": "03. Mission Private Impossible\\MissionPrivateImpossible.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\03. Mission Private Impossible\\MissionPrivateImpossible.csproj",
+              "RelativeToolTip": "03. Mission Private Impossible\\MissionPrivateImpossible.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T22:39:04.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\03. Mission Private Impossible\\StartUp.cs",
+              "RelativeDocumentMoniker": "03. Mission Private Impossible\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\03. Mission Private Impossible\\StartUp.cs",
+              "RelativeToolTip": "03. Mission Private Impossible\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:38:37.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\02. High-Quality Mistakes\\Spy.cs",
+              "RelativeDocumentMoniker": "02. High-Quality Mistakes\\Spy.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\02. High-Quality Mistakes\\Spy.cs",
+              "RelativeToolTip": "02. High-Quality Mistakes\\Spy.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEAAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:09:28.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HighQualityMistakes.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\02. High-Quality Mistakes\\HighQualityMistakes.csproj",
+              "RelativeDocumentMoniker": "02. High-Quality Mistakes\\HighQualityMistakes.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\02. High-Quality Mistakes\\HighQualityMistakes.csproj",
+              "RelativeToolTip": "02. High-Quality Mistakes\\HighQualityMistakes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T22:07:50.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\02. High-Quality Mistakes\\StartUp.cs",
+              "RelativeDocumentMoniker": "02. High-Quality Mistakes\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\02. High-Quality Mistakes\\StartUp.cs",
+              "RelativeToolTip": "02. High-Quality Mistakes\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T22:07:27.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Spy.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\01. Stealer\\Spy.cs",
               "RelativeDocumentMoniker": "01. Stealer\\Spy.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\01. Stealer\\Spy.cs",
               "RelativeToolTip": "01. Stealer\\Spy.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T06:16:15.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Hacker.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\01. Stealer\\Hacker.cs",
               "RelativeDocumentMoniker": "01. Stealer\\Hacker.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\01. Stealer\\Hacker.cs",
               "RelativeToolTip": "01. Stealer\\Hacker.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T06:13:40.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "Stealer.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\01. Stealer\\Stealer.csproj",
               "RelativeDocumentMoniker": "01. Stealer\\Stealer.csproj",
@@ -77,13 +230,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\01. Stealer\\Program.cs",
               "RelativeDocumentMoniker": "01. Stealer\\Program.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes\\01. Stealer\\Program.cs",
               "RelativeToolTip": "01. Stealer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-17T06:12:07.232Z",
               "EditorCaption": ""
