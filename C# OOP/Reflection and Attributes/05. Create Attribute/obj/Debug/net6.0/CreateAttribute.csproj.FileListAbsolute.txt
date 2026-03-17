@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\bin\Debug\net6.0\CreateAttribute.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\bin\Debug\net6.0\CreateAttribute.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\bin\Debug\net6.0\CreateAttribute.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\bin\Debug\net6.0\CreateAttribute.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\bin\Debug\net6.0\CreateAttribute.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\CreateAttribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\CreateAttribute.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\CreateAttribute.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\CreateAttribute.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\CreateAttribute.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\CreateAttribute.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\refint\CreateAttribute.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\CreateAttribute.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\CreateAttribute.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Reflection and Attributes\05. Create Attribute\obj\Debug\net6.0\ref\CreateAttribute.dll

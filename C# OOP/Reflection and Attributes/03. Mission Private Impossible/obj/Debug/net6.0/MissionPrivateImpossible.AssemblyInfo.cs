@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MissionPrivateImpossible")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7efba32ec332dbd02e256bfe9b044aab8df15c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67b2a78ab4f75b9314e198082cdd7313abc3401e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MissionPrivateImpossible")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MissionPrivateImpossible")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
