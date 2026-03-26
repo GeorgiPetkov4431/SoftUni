@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3E4210-0192-3068-AAA8-DFADAEA9E54B}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing\\skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3E4210-0192-3068-AAA8-DFADAEA9E54B}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3E4210-0192-3068-AAA8-DFADAEA9E54B}|Skeleton.Tests\\Skeleton.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing\\skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3E4210-0192-3068-AAA8-DFADAEA9E54B}|Skeleton.Tests\\Skeleton.Tests.csproj|solutionrelative:skeleton.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE2A0189-8915-E3B2-CA6C-F3F8F013A9AC}|Skeleton\\Skeleton.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing\\skeleton\\skeleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE2A0189-8915-E3B2-CA6C-F3F8F013A9AC}|Skeleton\\Skeleton.csproj|solutionrelative:skeleton\\skeleton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A4ACD-EECD-4E73-8066-10248C6775A5}|00. Playground.Test\\00. Playground.Test.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing\\00. playground.test\\mymathclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{660A4ACD-EECD-4E73-8066-10248C6775A5}|00. Playground.Test\\00. Playground.Test.csproj|solutionrelative:00. playground.test\\mymathclasstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{660A4ACD-EECD-4E73-8066-10248C6775A5}|00. Playground.Test\\00. Playground.Test.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing\\00. playground.test\\00. playground.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{660A4ACD-EECD-4E73-8066-10248C6775A5}|00. Playground.Test\\00. Playground.Test.csproj|solutionrelative:00. playground.test\\00. playground.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB4DA7-67A8-4C25-87A5-A2AC9CBEECA6}|00. Playground\\00. Playground.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing\\00. playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB4DA7-67A8-4C25-87A5-A2AC9CBEECA6}|00. Playground\\00. Playground.csproj|solutionrelative:00. playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBB4DA7-67A8-4C25-87A5-A2AC9CBEECA6}|00. Playground\\00. Playground.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing\\00. playground\\mymathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBB4DA7-67A8-4C25-87A5-A2AC9CBEECA6}|00. Playground\\00. Playground.csproj|solutionrelative:00. playground\\mymathclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DummyTests.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\Skeleton.Tests\\DummyTests.cs",
+              "RelativeDocumentMoniker": "Skeleton.Tests\\DummyTests.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\Skeleton.Tests\\DummyTests.cs",
+              "RelativeToolTip": "Skeleton.Tests\\DummyTests.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwC8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T18:57:10.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AxeTests.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\Skeleton.Tests\\AxeTests.cs",
+              "RelativeDocumentMoniker": "Skeleton.Tests\\AxeTests.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\Skeleton.Tests\\AxeTests.cs",
+              "RelativeToolTip": "Skeleton.Tests\\AxeTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T18:53:25.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Skeleton",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\Skeleton\\Skeleton.csproj",
+              "RelativeDocumentMoniker": "Skeleton\\Skeleton.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\Skeleton\\Skeleton.csproj",
+              "RelativeToolTip": "Skeleton\\Skeleton.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T18:52:42.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyMathClassTest.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\00. Playground.Test\\MyMathClassTest.cs",
+              "RelativeDocumentMoniker": "00. Playground.Test\\MyMathClassTest.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\00. Playground.Test\\MyMathClassTest.cs",
+              "RelativeToolTip": "00. Playground.Test\\MyMathClassTest.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:44:21.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "00. Playground.Test",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\00. Playground.Test\\00. Playground.Test.csproj",
+              "RelativeDocumentMoniker": "00. Playground.Test\\00. Playground.Test.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\00. Playground.Test\\00. Playground.Test.csproj",
+              "RelativeToolTip": "00. Playground.Test\\00. Playground.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-26T06:43:51.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyMathClass.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\00. Playground\\MyMathClass.cs",
+              "RelativeDocumentMoniker": "00. Playground\\MyMathClass.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\00. Playground\\MyMathClass.cs",
+              "RelativeToolTip": "00. Playground\\MyMathClass.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:38:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\00. Playground\\Program.cs",
+              "RelativeDocumentMoniker": "00. Playground\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing\\00. Playground\\Program.cs",
+              "RelativeToolTip": "00. Playground\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:28:59.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

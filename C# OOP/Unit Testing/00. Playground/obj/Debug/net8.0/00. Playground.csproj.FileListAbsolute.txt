@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\bin\Debug\net8.0\00. Playground.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\bin\Debug\net8.0\00. Playground.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\bin\Debug\net8.0\00. Playground.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\bin\Debug\net8.0\00. Playground.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\bin\Debug\net8.0\00. Playground.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\00. Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\00. Playground.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\00. Playground.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\00. Playground.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\00. Playground.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\00. Playground.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\refint\00. Playground.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\00. Playground.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\00. Playground.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Unit Testing\00. Playground\obj\Debug\net8.0\ref\00. Playground.dll
