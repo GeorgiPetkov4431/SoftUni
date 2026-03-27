@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1AFA9B-BD06-C141-F686-C6577DCBE065}|DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing - exercises\\databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1AFA9B-BD06-C141-F686-C6577DCBE065}|DatabaseExtended.Tests\\DatabaseExtended.Tests.csproj|solutionrelative:databaseextended.tests\\extendeddatabasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0688BEBF-67BC-21D4-8E1E-4443C1690E9C}|FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing - exercises\\fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0688BEBF-67BC-21D4-8E1E-4443C1690E9C}|FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fightingarena.tests\\arenatests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0688BEBF-67BC-21D4-8E1E-4443C1690E9C}|FightingArena.Tests\\FightingArena.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing - exercises\\fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0688BEBF-67BC-21D4-8E1E-4443C1690E9C}|FightingArena.Tests\\FightingArena.Tests.csproj|solutionrelative:fightingarena.tests\\warriortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274737B3-B305-F5A5-61E2-E9A7E59A0E58}|FightingArena\\FightingArena.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing - exercises\\fightingarena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274737B3-B305-F5A5-61E2-E9A7E59A0E58}|FightingArena\\FightingArena.csproj|solutionrelative:fightingarena\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274737B3-B305-F5A5-61E2-E9A7E59A0E58}|FightingArena\\FightingArena.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\unit testing - exercises\\fightingarena\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274737B3-B305-F5A5-61E2-E9A7E59A0E58}|FightingArena\\FightingArena.csproj|solutionrelative:fightingarena\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtendedDatabaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "RelativeDocumentMoniker": "DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "RelativeToolTip": "DatabaseExtended.Tests\\ExtendedDatabaseTests.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAQwFAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T18:48:07.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarriorTests.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\FightingArena.Tests\\WarriorTests.cs",
+              "RelativeDocumentMoniker": "FightingArena.Tests\\WarriorTests.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\FightingArena.Tests\\WarriorTests.cs",
+              "RelativeToolTip": "FightingArena.Tests\\WarriorTests.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:29:01.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArenaTests.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\FightingArena.Tests\\ArenaTests.cs",
+              "RelativeDocumentMoniker": "FightingArena.Tests\\ArenaTests.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\FightingArena.Tests\\ArenaTests.cs",
+              "RelativeToolTip": "FightingArena.Tests\\ArenaTests.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:29:00.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\FightingArena\\Warrior.cs",
+              "RelativeDocumentMoniker": "FightingArena\\Warrior.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\FightingArena\\Warrior.cs",
+              "RelativeToolTip": "FightingArena\\Warrior.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwFUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:28:57.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Arena.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\FightingArena\\Arena.cs",
+              "RelativeDocumentMoniker": "FightingArena\\Arena.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Unit Testing - Exercises\\FightingArena\\Arena.cs",
+              "RelativeToolTip": "FightingArena\\Arena.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T15:28:41.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
