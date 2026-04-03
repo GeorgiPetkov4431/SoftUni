@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\bin\Debug\net6.0\FakeAxeAndDummy.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\bin\Debug\net6.0\FakeAxeAndDummy.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\bin\Debug\net6.0\FakeAxeAndDummy.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\bin\Debug\net6.0\FakeAxeAndDummy.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\bin\Debug\net6.0\FakeAxeAndDummy.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\FakeAxeAndDummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\FakeAxeAndDummy.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\FakeAxeAndDummy.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\FakeAxeAndDummy.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\FakeAxeAndDummy.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\FakeAxeAndDummy.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\refint\FakeAxeAndDummy.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\FakeAxeAndDummy.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\FakeAxeAndDummy.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Mocking and Test-Driven Development\FakeAxeAndDummy\obj\Debug\net6.0\ref\FakeAxeAndDummy.dll

@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy.tests\\herotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|solutionrelative:fakeaxeanddummy.tests\\herotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|solutionrelative:fakeaxeanddummy.tests\\axetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy.tests\\faketarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|solutionrelative:fakeaxeanddummy.tests\\faketarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy.tests\\fakeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|solutionrelative:fakeaxeanddummy.tests\\fakeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|solutionrelative:fakeaxeanddummy\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy\\itarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|solutionrelative:fakeaxeanddummy\\itarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|solutionrelative:fakeaxeanddummy\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|solutionrelative:fakeaxeanddummy\\dummy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E317CB5-82D0-95DF-9BCA-D4EF61D0CAD4}|FakeAxeAndDummy\\FakeAxeAndDummy.csproj|solutionrelative:fakeaxeanddummy\\axe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\mocking and test-driven development\\fakeaxeanddummy.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CA13A7-89E3-961F-F830-B41881027E94}|FakeAxeAndDummy.Tests\\FakeAxeAndDummy.Tests.csproj|solutionrelative:fakeaxeanddummy.tests\\dummytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakeTarget.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\FakeTarget.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy.Tests\\FakeTarget.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\FakeTarget.cs",
+              "RelativeToolTip": "FakeAxeAndDummy.Tests\\FakeTarget.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:40:08.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakeWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\FakeWeapon.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy.Tests\\FakeWeapon.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\FakeWeapon.cs",
+              "RelativeToolTip": "FakeAxeAndDummy.Tests\\FakeWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:39:38.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\Hero.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy\\Hero.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\Hero.cs",
+              "RelativeToolTip": "FakeAxeAndDummy\\Hero.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA3wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T23:27:17.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITarget.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\ITarget.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy\\ITarget.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\ITarget.cs",
+              "RelativeToolTip": "FakeAxeAndDummy\\ITarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T23:26:34.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\IWeapon.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\IWeapon.cs",
+              "RelativeToolTip": "FakeAxeAndDummy\\IWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T23:25:29.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeroTests.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\HeroTests.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy.Tests\\HeroTests.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\HeroTests.cs",
+              "RelativeToolTip": "FakeAxeAndDummy.Tests\\HeroTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T23:23:13.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AxeTests.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\AxeTests.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy.Tests\\AxeTests.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\AxeTests.cs",
+              "RelativeToolTip": "FakeAxeAndDummy.Tests\\AxeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T00:43:44.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dummy.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\Dummy.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy\\Dummy.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\Dummy.cs",
+              "RelativeToolTip": "FakeAxeAndDummy\\Dummy.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T00:43:41.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DummyTests.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\DummyTests.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy.Tests\\DummyTests.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy.Tests\\DummyTests.cs",
+              "RelativeToolTip": "FakeAxeAndDummy.Tests\\DummyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T00:43:40.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Axe.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\Axe.cs",
+              "RelativeDocumentMoniker": "FakeAxeAndDummy\\Axe.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Mocking and Test-Driven Development\\FakeAxeAndDummy\\Axe.cs",
+              "RelativeToolTip": "FakeAxeAndDummy\\Axe.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T00:43:37.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
