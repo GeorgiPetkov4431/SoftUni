@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\bin\Debug\net6.0\LegendsOfValor-TheGuildTrials.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\refint\LegendsOfValor-TheGuildTrials.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\LegendsOfValor-TheGuildTrials.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\obj\Debug\net6.0\ref\LegendsOfValor-TheGuildTrials.dll

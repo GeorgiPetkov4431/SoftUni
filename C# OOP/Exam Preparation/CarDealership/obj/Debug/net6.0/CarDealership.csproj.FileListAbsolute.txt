@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\bin\Debug\net6.0\CarDealership.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\bin\Debug\net6.0\CarDealership.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\bin\Debug\net6.0\CarDealership.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\bin\Debug\net6.0\CarDealership.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\bin\Debug\net6.0\CarDealership.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\CarDealership.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\CarDealership.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\CarDealership.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\CarDealership.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\CarDealership.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\CarDealership.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\refint\CarDealership.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\CarDealership.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\CarDealership.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealership\obj\Debug\net6.0\ref\CarDealership.dll

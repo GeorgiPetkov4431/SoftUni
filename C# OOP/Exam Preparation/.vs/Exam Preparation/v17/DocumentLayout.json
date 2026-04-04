@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250F7385-83CF-861C-63BE-310A05D25675}|AutoTrade.Tests\\AutoTrade.Tests.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\autotrade.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250F7385-83CF-861C-63BE-310A05D25675}|AutoTrade.Tests\\AutoTrade.Tests.csproj|solutionrelative:autotrade.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\repositories\\vehiclerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\core\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\models\\dealership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\dealership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\repositories\\contracts\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\models\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\suv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\models\\salooncar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\salooncar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\models\\legalentitycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\legalentitycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\models\\individualclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\models\\individualclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\exam preparation\\cardealership\\core\\contracts\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E063AD6F-FDE3-0097-FB18-62E2F0975766}|CarDealership\\CarDealership.csproj|solutionrelative:cardealership\\core\\contracts\\icontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\AutoTrade.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AutoTrade.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\AutoTrade.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AutoTrade.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T08:53:36.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SaloonCar.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\SaloonCar.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\SaloonCar.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\SaloonCar.cs",
+              "RelativeToolTip": "CarDealership\\Models\\SaloonCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:32:38.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SUV.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\SUV.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\SUV.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\SUV.cs",
+              "RelativeToolTip": "CarDealership\\Models\\SUV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:33:05.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\Truck.cs",
+              "RelativeToolTip": "CarDealership\\Models\\Truck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:33:21.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VehicleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Repositories\\VehicleRepository.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Repositories\\VehicleRepository.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Repositories\\VehicleRepository.cs",
+              "RelativeToolTip": "CarDealership\\Repositories\\VehicleRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:53:36.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Repositories\\Contracts\\IRepository.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Repositories\\Contracts\\IRepository.cs",
+              "RelativeToolTip": "CarDealership\\Repositories\\Contracts\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:24:26.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CarDealership\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:59:48.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dealership.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\Dealership.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\Dealership.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\Dealership.cs",
+              "RelativeToolTip": "CarDealership\\Models\\Dealership.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T00:00:34.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Core\\Controller.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Core\\Controller.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Core\\Controller.cs",
+              "RelativeToolTip": "CarDealership\\Core\\Controller.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAFYAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:30:40.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\Customer.cs",
+              "RelativeToolTip": "CarDealership\\Models\\Customer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwBIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:52:00.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\Vehicle.cs",
+              "RelativeToolTip": "CarDealership\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:31:55.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LegalEntityCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\LegalEntityCustomer.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\LegalEntityCustomer.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\LegalEntityCustomer.cs",
+              "RelativeToolTip": "CarDealership\\Models\\LegalEntityCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:53:10.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IndividualClient.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\IndividualClient.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Models\\IndividualClient.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Models\\IndividualClient.cs",
+              "RelativeToolTip": "CarDealership\\Models\\IndividualClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:52:52.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Core\\Engine.cs",
+              "RelativeToolTip": "CarDealership\\Core\\Engine.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:31:03.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Core\\Contracts\\IController.cs",
+              "RelativeDocumentMoniker": "CarDealership\\Core\\Contracts\\IController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Exam Preparation\\CarDealership\\Core\\Contracts\\IController.cs",
+              "RelativeToolTip": "CarDealership\\Core\\Contracts\\IController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T23:11:46.861Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

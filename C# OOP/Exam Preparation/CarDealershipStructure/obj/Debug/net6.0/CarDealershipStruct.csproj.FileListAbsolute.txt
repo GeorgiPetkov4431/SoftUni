@@ -1,0 +1,15 @@
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\bin\Debug\net6.0\CarDealershipStruct.exe
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\bin\Debug\net6.0\CarDealershipStruct.deps.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\bin\Debug\net6.0\CarDealershipStruct.runtimeconfig.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\bin\Debug\net6.0\CarDealershipStruct.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\bin\Debug\net6.0\CarDealershipStruct.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\CarDealershipStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\CarDealershipStruct.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\CarDealershipStruct.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\CarDealershipStruct.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\CarDealershipStruct.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\CarDealershipStruct.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\refint\CarDealershipStruct.dll
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\CarDealershipStruct.pdb
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\CarDealershipStruct.genruntimeconfig.cache
+C:\Users\georg\Desktop\SoftUni\C# OOP\Exam Preparation\CarDealershipStructure\obj\Debug\net6.0\ref\CarDealershipStruct.dll
