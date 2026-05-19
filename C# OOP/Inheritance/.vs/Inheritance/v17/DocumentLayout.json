@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\06. animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|solutionrelative:06. animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\06. animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|solutionrelative:06. animals\\kitten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\06. animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|solutionrelative:06. animals\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\06. animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|solutionrelative:06. animals\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3E3DDFE1-88C7-7663-6061-820BF072ACEA}|06. Animals\\Animals.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\06. animals\\frog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -167,16 +183,8 @@
       "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\zoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\zoo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\zoo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\mammal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\gorilla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -189,14 +197,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\lizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\snake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|solutionrelative:02. zoo\\reptile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F048D7-CF00-4526-5016-E1A0166B05DD}|02. Zoo\\Zoo.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\inheritance\\02. zoo\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -222,7 +222,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -233,32 +233,25 @@
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\StartUp.cs",
               "RelativeDocumentMoniker": "06. Animals\\StartUp.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\StartUp.cs",
               "RelativeToolTip": "06. Animals\\StartUp.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T19:54:08.992Z"
+              "WhenOpened": "2026-02-21T19:54:08.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Tomcat.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Tomcat.cs",
-              "RelativeDocumentMoniker": "06. Animals\\Tomcat.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Tomcat.cs",
-              "RelativeToolTip": "06. Animals\\Tomcat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T19:32:28.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Kitten.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Kitten.cs",
               "RelativeDocumentMoniker": "06. Animals\\Kitten.cs",
@@ -271,43 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Cat.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Cat.cs",
-              "RelativeDocumentMoniker": "06. Animals\\Cat.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Cat.cs",
-              "RelativeToolTip": "06. Animals\\Cat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T19:30:42.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Frog.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Frog.cs",
-              "RelativeDocumentMoniker": "06. Animals\\Frog.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Frog.cs",
-              "RelativeToolTip": "06. Animals\\Frog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T19:29:53.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Dog.cs",
-              "RelativeDocumentMoniker": "06. Animals\\Dog.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Dog.cs",
-              "RelativeToolTip": "06. Animals\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T19:28:45.057Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Animal.cs",
               "RelativeDocumentMoniker": "06. Animals\\Animal.cs",
@@ -319,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Animals.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Animals.csproj",
               "RelativeDocumentMoniker": "06. Animals\\Animals.csproj",
@@ -331,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Soup.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Soup.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Soup.cs",
@@ -343,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Fish.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Fish.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Fish.cs",
@@ -355,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Cake.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Cake.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Cake.cs",
@@ -367,7 +324,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\StartUp.cs",
+              "RelativeDocumentMoniker": "02. Zoo\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\StartUp.cs",
+              "RelativeToolTip": "02. Zoo\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:14:49.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Snake.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Snake.cs",
+              "RelativeDocumentMoniker": "02. Zoo\\Snake.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Snake.cs",
+              "RelativeToolTip": "02. Zoo\\Snake.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:17:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reptile.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Reptile.cs",
+              "RelativeDocumentMoniker": "02. Zoo\\Reptile.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Reptile.cs",
+              "RelativeToolTip": "02. Zoo\\Reptile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:16:32.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mammal.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Mammal.cs",
+              "RelativeDocumentMoniker": "02. Zoo\\Mammal.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Mammal.cs",
+              "RelativeToolTip": "02. Zoo\\Mammal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T15:17:46.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Dog.cs",
+              "RelativeDocumentMoniker": "06. Animals\\Dog.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Dog.cs",
+              "RelativeToolTip": "06. Animals\\Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T19:28:45.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frog.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Frog.cs",
+              "RelativeDocumentMoniker": "06. Animals\\Frog.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Frog.cs",
+              "RelativeToolTip": "06. Animals\\Frog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T19:29:53.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Cat.cs",
+              "RelativeDocumentMoniker": "06. Animals\\Cat.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Cat.cs",
+              "RelativeToolTip": "06. Animals\\Cat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T19:30:42.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Tomcat.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Tomcat.cs",
+              "RelativeDocumentMoniker": "06. Animals\\Tomcat.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\06. Animals\\Tomcat.cs",
+              "RelativeToolTip": "06. Animals\\Tomcat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T19:32:28.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Starter.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Starter.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Starter.cs",
@@ -379,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Dessert.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Dessert.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Dessert.cs",
@@ -391,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "MainDish.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\MainDish.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\MainDish.cs",
@@ -403,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Food.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Food.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Food.cs",
@@ -415,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Tea.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Tea.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Tea.cs",
@@ -427,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Coffee.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Coffee.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Coffee.cs",
@@ -439,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "ColdBeverage.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\ColdBeverage.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\ColdBeverage.cs",
@@ -451,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "HotBeverage.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\HotBeverage.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\HotBeverage.cs",
@@ -463,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Beverage.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Beverage.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Beverage.cs",
@@ -475,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Product.cs",
               "RelativeDocumentMoniker": "05. Restaurant\\Product.cs",
@@ -487,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "Restaurant.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\05. Restaurant\\Restaurant.csproj",
               "RelativeDocumentMoniker": "05. Restaurant\\Restaurant.csproj",
@@ -499,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "NeedForSpeed.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\04. Need For Speed\\NeedForSpeed.csproj",
               "RelativeDocumentMoniker": "04. Need For Speed\\NeedForSpeed.csproj",
@@ -511,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "SportCar.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\04. Need For Speed\\SportCar.cs",
               "RelativeDocumentMoniker": "04. Need For Speed\\SportCar.cs",
@@ -523,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "FamilyCar.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\04. Need For Speed\\FamilyCar.cs",
               "RelativeDocumentMoniker": "04. Need For Speed\\FamilyCar.cs",
@@ -535,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\04. Need For Speed\\Car.cs",
               "RelativeDocumentMoniker": "04. Need For Speed\\Car.cs",
@@ -547,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "CrossMotorcycle.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\04. Need For Speed\\CrossMotorcycle.cs",
               "RelativeDocumentMoniker": "04. Need For Speed\\CrossMotorcycle.cs",
@@ -559,7 +616,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "RaceMotorcycle.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\04. Need For Speed\\RaceMotorcycle.cs",
               "RelativeDocumentMoniker": "04. Need For Speed\\RaceMotorcycle.cs",
@@ -571,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "Motorcycle.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\04. Need For Speed\\Motorcycle.cs",
               "RelativeDocumentMoniker": "04. Need For Speed\\Motorcycle.cs",
@@ -583,7 +640,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\04. Need For Speed\\Vehicle.cs",
               "RelativeDocumentMoniker": "04. Need For Speed\\Vehicle.cs",
@@ -595,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "BladeKnight.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\BladeKnight.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\BladeKnight.cs",
@@ -607,7 +664,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "DarkKnight.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\DarkKnight.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\DarkKnight.cs",
@@ -619,7 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "Knight.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\Knight.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\Knight.cs",
@@ -631,7 +688,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "SoulMaster.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\SoulMaster.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\SoulMaster.cs",
@@ -643,7 +700,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "DarkWizard.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\DarkWizard.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\DarkWizard.cs",
@@ -655,7 +712,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "Wizard.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\Wizard.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\Wizard.cs",
@@ -667,7 +724,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "MuseElf.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\MuseElf.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\MuseElf.cs",
@@ -679,7 +736,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "Elf.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\Elf.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\Elf.cs",
@@ -691,7 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "PlayersAndMonsters.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\PlayersAndMonsters.csproj",
               "RelativeDocumentMoniker": "03. Players And Monsters\\PlayersAndMonsters.csproj",
@@ -703,7 +760,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "Hero.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\03. Players And Monsters\\Hero.cs",
               "RelativeDocumentMoniker": "03. Players And Monsters\\Hero.cs",
@@ -715,7 +772,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "Zoo.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Zoo.csproj",
               "RelativeDocumentMoniker": "02. Zoo\\Zoo.csproj",
@@ -727,7 +784,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 45,
               "Title": "Zoo",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Zoo.csproj",
               "RelativeDocumentMoniker": "02. Zoo\\Zoo.csproj",
@@ -738,7 +795,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "Bear.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Bear.cs",
               "RelativeDocumentMoniker": "02. Zoo\\Bear.cs",
@@ -750,7 +807,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "Gorilla.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Gorilla.cs",
               "RelativeDocumentMoniker": "02. Zoo\\Gorilla.cs",
@@ -762,31 +819,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Mammal.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Mammal.cs",
-              "RelativeDocumentMoniker": "02. Zoo\\Mammal.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Mammal.cs",
-              "RelativeToolTip": "02. Zoo\\Mammal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T15:17:46.724Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "Snake.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Snake.cs",
-              "RelativeDocumentMoniker": "02. Zoo\\Snake.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Snake.cs",
-              "RelativeToolTip": "02. Zoo\\Snake.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T15:17:19.171Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "Lizard.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Lizard.cs",
               "RelativeDocumentMoniker": "02. Zoo\\Lizard.cs",
@@ -795,18 +828,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T15:17:06.943Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "Reptile.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Reptile.cs",
-              "RelativeDocumentMoniker": "02. Zoo\\Reptile.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\Reptile.cs",
-              "RelativeToolTip": "02. Zoo\\Reptile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T15:16:32.882Z"
             },
             {
               "$type": "Document",
@@ -819,18 +840,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T15:15:41.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\StartUp.cs",
-              "RelativeDocumentMoniker": "02. Zoo\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Inheritance\\02. Zoo\\StartUp.cs",
-              "RelativeToolTip": "02. Zoo\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T15:14:49.07Z"
             },
             {
               "$type": "Document",

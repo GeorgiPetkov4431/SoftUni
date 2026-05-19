@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90B118C5-3821-6322-E738-0C8CAA25ED84}|02. Validation Attributes\\ValidationAttributes.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\02. validation attributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90B118C5-3821-6322-E738-0C8CAA25ED84}|02. Validation Attributes\\ValidationAttributes.csproj|solutionrelative:02. validation attributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\core\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\core\\contracts\\icommandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\contracts\\icommandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\contracts\\iengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90B118C5-3821-6322-E738-0C8CAA25ED84}|02. Validation Attributes\\ValidationAttributes.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\02. validation attributes\\utils\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90B118C5-3821-6322-E738-0C8CAA25ED84}|02. Validation Attributes\\ValidationAttributes.csproj|solutionrelative:02. validation attributes\\utils\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B118C5-3821-6322-E738-0C8CAA25ED84}|02. Validation Attributes\\ValidationAttributes.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\02. validation attributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90B118C5-3821-6322-E738-0C8CAA25ED84}|02. Validation Attributes\\ValidationAttributes.csproj|solutionrelative:02. validation attributes\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90B118C5-3821-6322-E738-0C8CAA25ED84}|02. Validation Attributes\\ValidationAttributes.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\02. validation attributes\\attributes\\myrequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +63,12 @@
       "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\commands\\goodbyecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\core\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\commandinterpreter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\core\\commands\\hellocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\commands\\hellocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\core\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\core\\contracts\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\reflection and attributes - exercise\\01. command pattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EA32DB7-7246-4C73-D33B-D5C670BB8326}|01. Command Pattern\\CommandPattern.csproj|solutionrelative:01. command pattern\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -81,73 +89,51 @@
               "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ICommandInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Contracts\\ICommandInterpreter.cs",
+              "RelativeDocumentMoniker": "01. Command Pattern\\Core\\Contracts\\ICommandInterpreter.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Contracts\\ICommandInterpreter.cs",
+              "RelativeToolTip": "01. Command Pattern\\Core\\Contracts\\ICommandInterpreter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:54:58.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Contracts\\IEngine.cs",
+              "RelativeDocumentMoniker": "01. Command Pattern\\Core\\Contracts\\IEngine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Contracts\\IEngine.cs",
+              "RelativeToolTip": "01. Command Pattern\\Core\\Contracts\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:54:55.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Validator.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Utils\\Validator.cs",
               "RelativeDocumentMoniker": "02. Validation Attributes\\Utils\\Validator.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Utils\\Validator.cs",
               "RelativeToolTip": "02. Validation Attributes\\Utils\\Validator.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAwwCEAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwCEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T21:12:36.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "02. Validation Attributes\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Models\\Person.cs",
-              "RelativeToolTip": "02. Validation Attributes\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T20:54:47.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MyRequiredAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyRequiredAttribute.cs",
-              "RelativeDocumentMoniker": "02. Validation Attributes\\Attributes\\MyRequiredAttribute.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyRequiredAttribute.cs",
-              "RelativeToolTip": "02. Validation Attributes\\Attributes\\MyRequiredAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T20:51:17.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MyRangeAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyRangeAttribute.cs",
-              "RelativeDocumentMoniker": "02. Validation Attributes\\Attributes\\MyRangeAttribute.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyRangeAttribute.cs",
-              "RelativeToolTip": "02. Validation Attributes\\Attributes\\MyRangeAttribute.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T20:33:48.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MyValidationAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyValidationAttribute.cs",
-              "RelativeDocumentMoniker": "02. Validation Attributes\\Attributes\\MyValidationAttribute.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyValidationAttribute.cs",
-              "RelativeToolTip": "02. Validation Attributes\\Attributes\\MyValidationAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T20:28:59.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\StartUp.cs",
               "RelativeDocumentMoniker": "02. Validation Attributes\\StartUp.cs",
@@ -160,20 +146,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ValidationAttributes",
+              "DocumentIndex": 11,
+              "Title": "ValidationAttributes.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\ValidationAttributes.csproj",
               "RelativeDocumentMoniker": "02. Validation Attributes\\ValidationAttributes.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\ValidationAttributes.csproj",
               "RelativeToolTip": "02. Validation Attributes\\ValidationAttributes.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T20:26:09.003Z",
+              "WhenOpened": "2026-03-25T20:26:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\StartUp.cs",
+              "RelativeDocumentMoniker": "01. Command Pattern\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\StartUp.cs",
+              "RelativeToolTip": "01. Command Pattern\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:07:34.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommandInterpreter.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\CommandInterpreter.cs",
+              "RelativeDocumentMoniker": "01. Command Pattern\\Core\\CommandInterpreter.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\CommandInterpreter.cs",
+              "RelativeToolTip": "01. Command Pattern\\Core\\CommandInterpreter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:12:20.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MyValidationAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeDocumentMoniker": "02. Validation Attributes\\Attributes\\MyValidationAttribute.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyValidationAttribute.cs",
+              "RelativeToolTip": "02. Validation Attributes\\Attributes\\MyValidationAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T20:28:59.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "01. Command Pattern\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Engine.cs",
+              "RelativeToolTip": "01. Command Pattern\\Core\\Engine.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T00:08:10.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyRangeAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeDocumentMoniker": "02. Validation Attributes\\Attributes\\MyRangeAttribute.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyRangeAttribute.cs",
+              "RelativeToolTip": "02. Validation Attributes\\Attributes\\MyRangeAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T20:33:48.108Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "MyRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "02. Validation Attributes\\Attributes\\MyRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Attributes\\MyRequiredAttribute.cs",
+              "RelativeToolTip": "02. Validation Attributes\\Attributes\\MyRequiredAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T20:51:17.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "02. Validation Attributes\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\02. Validation Attributes\\Models\\Person.cs",
+              "RelativeToolTip": "02. Validation Attributes\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T20:54:47.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CommandPattern.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\CommandPattern.csproj",
               "RelativeDocumentMoniker": "01. Command Pattern\\CommandPattern.csproj",
@@ -181,12 +253,11 @@
               "RelativeToolTip": "01. Command Pattern\\CommandPattern.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T02:14:17.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T02:14:17.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "GoodByeCommand.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Commands\\GoodByeCommand.cs",
               "RelativeDocumentMoniker": "01. Command Pattern\\Core\\Commands\\GoodByeCommand.cs",
@@ -198,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ExitCommand.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Commands\\ExitCommand.cs",
               "RelativeDocumentMoniker": "01. Command Pattern\\Core\\Commands\\ExitCommand.cs",
@@ -210,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "HelloCommand.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Commands\\HelloCommand.cs",
               "RelativeDocumentMoniker": "01. Command Pattern\\Core\\Commands\\HelloCommand.cs",
@@ -222,43 +293,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CommandInterpreter.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\CommandInterpreter.cs",
-              "RelativeDocumentMoniker": "01. Command Pattern\\Core\\CommandInterpreter.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\CommandInterpreter.cs",
-              "RelativeToolTip": "01. Command Pattern\\Core\\CommandInterpreter.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T00:12:20.955Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Engine.cs",
-              "RelativeDocumentMoniker": "01. Command Pattern\\Core\\Engine.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Engine.cs",
-              "RelativeToolTip": "01. Command Pattern\\Core\\Engine.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T00:08:10.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\StartUp.cs",
-              "RelativeDocumentMoniker": "01. Command Pattern\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\StartUp.cs",
-              "RelativeToolTip": "01. Command Pattern\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T00:07:34.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Reflection and Attributes - Exercise\\01. Command Pattern\\Core\\Contracts\\ICommand.cs",
               "RelativeDocumentMoniker": "01. Command Pattern\\Core\\Contracts\\ICommand.cs",

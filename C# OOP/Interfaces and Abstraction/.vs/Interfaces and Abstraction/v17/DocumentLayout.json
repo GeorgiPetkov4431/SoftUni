@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{54BD30D4-9E78-4885-8064-C6B8AB1060AF}|09. Explicit Interfaces\\ExplicitInterfaces.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\09. explicit interfaces\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{54BD30D4-9E78-4885-8064-C6B8AB1060AF}|09. Explicit Interfaces\\ExplicitInterfaces.csproj|solutionrelative:09. explicit interfaces\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -177,10 +181,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\04. border control\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9139C163-57F0-42EC-9585-1765FC505F38}|04. Border Control\\BorderControl.csproj|solutionrelative:04. border control\\core\\engine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|solutionrelative:03. telephony\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02F2DDB6-E128-4A4E-AF14-31FBA0B40527}|03. Telephony\\Telephony.csproj|c:\\users\\georg\\desktop\\softuni\\c# oop\\interfaces and abstraction\\03. telephony\\telephony.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -378,24 +378,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Citizen.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\Models\\Citizen.cs",
-              "RelativeDocumentMoniker": "09. Explicit Interfaces\\Models\\Citizen.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\Models\\Citizen.cs",
-              "RelativeToolTip": "09. Explicit Interfaces\\Models\\Citizen.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:13:03.307Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IPerson.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\Models\\Interfaces\\IPerson.cs",
               "RelativeDocumentMoniker": "09. Explicit Interfaces\\Models\\Interfaces\\IPerson.cs",
@@ -403,12 +402,11 @@
               "RelativeToolTip": "09. Explicit Interfaces\\Models\\Interfaces\\IPerson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:10:13.578Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T13:10:13.578Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IResident.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\Models\\Interfaces\\IResident.cs",
               "RelativeDocumentMoniker": "09. Explicit Interfaces\\Models\\Interfaces\\IResident.cs",
@@ -416,12 +414,11 @@
               "RelativeToolTip": "09. Explicit Interfaces\\Models\\Interfaces\\IResident.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:09:59.726Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T13:09:59.726Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Engine.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\Core\\Engine.cs",
               "RelativeDocumentMoniker": "09. Explicit Interfaces\\Core\\Engine.cs",
@@ -434,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IEngine.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\Core\\Interfaces\\IEngine.cs",
               "RelativeDocumentMoniker": "09. Explicit Interfaces\\Core\\Interfaces\\IEngine.cs",
@@ -442,12 +439,11 @@
               "RelativeToolTip": "09. Explicit Interfaces\\Core\\Interfaces\\IEngine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T13:09:08.468Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T13:09:08.468Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ExplicitInterfaces.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\ExplicitInterfaces.csproj",
               "RelativeDocumentMoniker": "09. Explicit Interfaces\\ExplicitInterfaces.csproj",
@@ -455,20 +451,11 @@
               "RelativeToolTip": "09. Explicit Interfaces\\ExplicitInterfaces.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-06T12:57:55.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-03-06T12:57:55.362Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\StartUp.cs",
               "RelativeDocumentMoniker": "09. Explicit Interfaces\\StartUp.cs",
@@ -476,12 +463,11 @@
               "RelativeToolTip": "09. Explicit Interfaces\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:57:48.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T12:57:48.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "MyList.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\MyList.cs",
               "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\MyList.cs",
@@ -489,12 +475,11 @@
               "RelativeToolTip": "08. Collection Hierarchy\\Models\\MyList.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:23:07.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T12:23:07.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AddRemoveCollection.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\AddRemoveCollection.cs",
               "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\AddRemoveCollection.cs",
@@ -502,467 +487,11 @@
               "RelativeToolTip": "08. Collection Hierarchy\\Models\\AddRemoveCollection.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:19:06.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T12:19:06.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AddCollection.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\AddCollection.cs",
-              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\AddCollection.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\AddCollection.cs",
-              "RelativeToolTip": "08. Collection Hierarchy\\Models\\AddCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:16:49.188Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IMyList.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IMyList.cs",
-              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\Interfaces\\IMyList.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IMyList.cs",
-              "RelativeToolTip": "08. Collection Hierarchy\\Models\\Interfaces\\IMyList.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:15:50.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IAddRemoveCollection.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IAddRemoveCollection.cs",
-              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\Interfaces\\IAddRemoveCollection.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IAddRemoveCollection.cs",
-              "RelativeToolTip": "08. Collection Hierarchy\\Models\\Interfaces\\IAddRemoveCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:15:13.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IAddCollection.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IAddCollection.cs",
-              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\Interfaces\\IAddCollection.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IAddCollection.cs",
-              "RelativeToolTip": "08. Collection Hierarchy\\Models\\Interfaces\\IAddCollection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:14:35.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Core\\Engine.cs",
-              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Core\\Engine.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Core\\Engine.cs",
-              "RelativeToolTip": "08. Collection Hierarchy\\Core\\Engine.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:13:30.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\StartUp.cs",
-              "RelativeDocumentMoniker": "08. Collection Hierarchy\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\StartUp.cs",
-              "RelativeToolTip": "08. Collection Hierarchy\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T10:43:20.008Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IEngine.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Core\\Interfaces\\IEngine.cs",
-              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Core\\Interfaces\\IEngine.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Core\\Interfaces\\IEngine.cs",
-              "RelativeToolTip": "08. Collection Hierarchy\\Core\\Interfaces\\IEngine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-06T12:13:14.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CollectionHierarchy.csproj",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\CollectionHierarchy.csproj",
-              "RelativeDocumentMoniker": "08. Collection Hierarchy\\CollectionHierarchy.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\CollectionHierarchy.csproj",
-              "RelativeToolTip": "08. Collection Hierarchy\\CollectionHierarchy.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-06T10:43:50.64Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Mission.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Mission.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Mission.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Mission.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Mission.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:51:59.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Repair.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Repair.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Repair.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Repair.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Repair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:50:49.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Private.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Private.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Private.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Private.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Private.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:58:45.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "LieutenantGeneral.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\LieutenantGeneral.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\LieutenantGeneral.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\LieutenantGeneral.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\LieutenantGeneral.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowB4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:35:02.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Engineer.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Engineer.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Engineer.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Engineer.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Engineer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:43:34.569Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Commando.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Commando.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Commando.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Commando.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Commando.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBwAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T14:34:53.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Core\\Engine.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Core\\Engine.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Core\\Engine.cs",
-              "RelativeToolTip": "07. Military Elite\\Core\\Engine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T14:00:46.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Spy.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Spy.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Spy.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Spy.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Spy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:45:26.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "SpecializedSoldier.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\SpecializedSoldier.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\SpecializedSoldier.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\SpecializedSoldier.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\SpecializedSoldier.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T13:39:55.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Soldier.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Soldier.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Soldier.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Soldier.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Soldier.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBoAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:57:25.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\StartUp.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\StartUp.cs",
-              "RelativeToolTip": "07. Military Elite\\StartUp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:43:32.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IEngine.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Core\\Interfaces\\IEngine.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Core\\Interfaces\\IEngine.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Core\\Interfaces\\IEngine.cs",
-              "RelativeToolTip": "07. Military Elite\\Core\\Interfaces\\IEngine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T14:00:20.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "ISpecialisedSoldier.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:55:36.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "ISpy.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISpy.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ISpy.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISpy.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ISpy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:53:34.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "IPrivate.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IPrivate.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\IPrivate.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IPrivate.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\IPrivate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:53:07.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IMission.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IMission.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\IMission.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IMission.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\IMission.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:44:41.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "IRepair.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IRepair.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\IRepair.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IRepair.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\IRepair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:52:01.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ISoldier.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISoldier.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ISoldier.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISoldier.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ISoldier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:52:46.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ILieutenantGeneral.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ILieutenantGeneral.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ILieutenantGeneral.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ILieutenantGeneral.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ILieutenantGeneral.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:54:12.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "IEngineer.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IEngineer.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\IEngineer.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IEngineer.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\IEngineer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:56:01.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ICommando.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ICommando.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ICommando.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ICommando.cs",
-              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ICommando.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:56:34.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Corps.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Enums\\Corps.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Enums\\Corps.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Enums\\Corps.cs",
-              "RelativeToolTip": "07. Military Elite\\Enums\\Corps.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:54:29.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "State.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Enums\\State.cs",
-              "RelativeDocumentMoniker": "07. Military Elite\\Enums\\State.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Enums\\State.cs",
-              "RelativeToolTip": "07. Military Elite\\Enums\\State.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:50:53.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "MilitaryElite.csproj",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\MilitaryElite.csproj",
-              "RelativeDocumentMoniker": "07. Military Elite\\MilitaryElite.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\MilitaryElite.csproj",
-              "RelativeToolTip": "07. Military Elite\\MilitaryElite.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-04T09:43:41.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "IBuyer.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
-              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
-              "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T09:03:09.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "Engine.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Core\\Engine.cs",
-              "RelativeDocumentMoniker": "04. Border Control\\Core\\Engine.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Core\\Engine.cs",
-              "RelativeToolTip": "04. Border Control\\Core\\Engine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:59:42.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 77,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\StartUp.cs",
-              "RelativeDocumentMoniker": "04. Border Control\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\StartUp.cs",
-              "RelativeToolTip": "04. Border Control\\StartUp.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:02:43.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 0,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\StartUp.cs",
               "RelativeDocumentMoniker": "03. Telephony\\StartUp.cs",
@@ -975,6 +504,438 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "09. Explicit Interfaces\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\09. Explicit Interfaces\\Models\\Citizen.cs",
+              "RelativeToolTip": "09. Explicit Interfaces\\Models\\Citizen.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAcwBoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T13:13:03.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddCollection.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\AddCollection.cs",
+              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\AddCollection.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\AddCollection.cs",
+              "RelativeToolTip": "08. Collection Hierarchy\\Models\\AddCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:16:49.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IMyList.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IMyList.cs",
+              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\Interfaces\\IMyList.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IMyList.cs",
+              "RelativeToolTip": "08. Collection Hierarchy\\Models\\Interfaces\\IMyList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:15:50.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IAddRemoveCollection.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IAddRemoveCollection.cs",
+              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\Interfaces\\IAddRemoveCollection.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IAddRemoveCollection.cs",
+              "RelativeToolTip": "08. Collection Hierarchy\\Models\\Interfaces\\IAddRemoveCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:15:13.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IAddCollection.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IAddCollection.cs",
+              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Models\\Interfaces\\IAddCollection.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Models\\Interfaces\\IAddCollection.cs",
+              "RelativeToolTip": "08. Collection Hierarchy\\Models\\Interfaces\\IAddCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:14:35.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Core\\Engine.cs",
+              "RelativeToolTip": "08. Collection Hierarchy\\Core\\Engine.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:13:30.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\StartUp.cs",
+              "RelativeDocumentMoniker": "08. Collection Hierarchy\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\StartUp.cs",
+              "RelativeToolTip": "08. Collection Hierarchy\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T10:43:20.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Core\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "08. Collection Hierarchy\\Core\\Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\Core\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "08. Collection Hierarchy\\Core\\Interfaces\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T12:13:14.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CollectionHierarchy.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\CollectionHierarchy.csproj",
+              "RelativeDocumentMoniker": "08. Collection Hierarchy\\CollectionHierarchy.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\08. Collection Hierarchy\\CollectionHierarchy.csproj",
+              "RelativeToolTip": "08. Collection Hierarchy\\CollectionHierarchy.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-06T10:43:50.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Mission.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Mission.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Mission.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Mission.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Mission.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:51:59.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Repair.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Repair.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Repair.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Repair.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Repair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:50:49.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Private.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Private.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Private.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Private.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Private.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:58:45.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LieutenantGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\LieutenantGeneral.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\LieutenantGeneral.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\LieutenantGeneral.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\LieutenantGeneral.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:35:02.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Engineer.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Engineer.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Engineer.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Engineer.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Engineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:43:34.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Commando.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Commando.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Commando.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Commando.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Commando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:34:53.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Core\\Engine.cs",
+              "RelativeToolTip": "07. Military Elite\\Core\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:00:46.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Spy.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Spy.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Spy.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Spy.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Spy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:45:26.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SpecializedSoldier.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\SpecializedSoldier.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\SpecializedSoldier.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\SpecializedSoldier.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\SpecializedSoldier.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T13:39:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Soldier.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Soldier.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Soldier.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Soldier.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Soldier.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:57:25.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\StartUp.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\StartUp.cs",
+              "RelativeToolTip": "07. Military Elite\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:43:32.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IEngine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Core\\Interfaces\\IEngine.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Core\\Interfaces\\IEngine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Core\\Interfaces\\IEngine.cs",
+              "RelativeToolTip": "07. Military Elite\\Core\\Interfaces\\IEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T14:00:20.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ISpecialisedSoldier.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ISpecialisedSoldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:55:36.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ISpy.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISpy.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ISpy.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISpy.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ISpy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:53:34.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPrivate.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IPrivate.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\IPrivate.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IPrivate.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\IPrivate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:53:07.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IMission.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IMission.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\IMission.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IMission.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\IMission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:44:41.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRepair.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IRepair.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\IRepair.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IRepair.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\IRepair.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:52:01.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISoldier.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISoldier.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ISoldier.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ISoldier.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ISoldier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:52:46.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ILieutenantGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ILieutenantGeneral.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ILieutenantGeneral.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ILieutenantGeneral.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ILieutenantGeneral.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:54:12.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IEngineer.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IEngineer.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\IEngineer.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\IEngineer.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\IEngineer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:56:01.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ICommando.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ICommando.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Models\\Interfaces\\ICommando.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Models\\Interfaces\\ICommando.cs",
+              "RelativeToolTip": "07. Military Elite\\Models\\Interfaces\\ICommando.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:56:34.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Corps.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Enums\\Corps.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Enums\\Corps.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Enums\\Corps.cs",
+              "RelativeToolTip": "07. Military Elite\\Enums\\Corps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:54:29.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Enums\\State.cs",
+              "RelativeDocumentMoniker": "07. Military Elite\\Enums\\State.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\Enums\\State.cs",
+              "RelativeToolTip": "07. Military Elite\\Enums\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:50:53.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MilitaryElite.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\MilitaryElite.csproj",
+              "RelativeDocumentMoniker": "07. Military Elite\\MilitaryElite.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\07. Military Elite\\MilitaryElite.csproj",
+              "RelativeToolTip": "07. Military Elite\\MilitaryElite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T09:43:41.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IBuyer.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
+              "RelativeDocumentMoniker": "06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
+              "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\IBuyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T09:03:09.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Engine.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Core\\Engine.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\Core\\Engine.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\Core\\Engine.cs",
+              "RelativeToolTip": "04. Border Control\\Core\\Engine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T22:59:42.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\StartUp.cs",
+              "RelativeDocumentMoniker": "04. Border Control\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\04. Border Control\\StartUp.cs",
+              "RelativeToolTip": "04. Border Control\\StartUp.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:02:43.082Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 45,
               "Title": "Telephony.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\03. Telephony\\Telephony.csproj",
@@ -983,8 +944,7 @@
               "RelativeToolTip": "03. Telephony\\Telephony.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-02T22:04:04.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T22:04:04.989Z"
             },
             {
               "$type": "Document",
@@ -996,8 +956,7 @@
               "RelativeToolTip": "05. Birthday Celebrations\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:02:45.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:02:45.867Z"
             },
             {
               "$type": "Document",
@@ -1009,8 +968,7 @@
               "RelativeToolTip": "06. Food Shortage\\Models\\Robot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:34:21.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:34:21.386Z"
             },
             {
               "$type": "Document",
@@ -1022,8 +980,7 @@
               "RelativeToolTip": "06. Food Shortage\\Models\\Citizen.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:34:03.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:34:03.719Z"
             },
             {
               "$type": "Document",
@@ -1035,12 +992,11 @@
               "RelativeToolTip": "06. Food Shortage\\Models\\Rebel.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:35:31.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:35:31.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# OOP\\Interfaces and Abstraction\\06. Food Shortage\\StartUp.cs",
               "RelativeDocumentMoniker": "06. Food Shortage\\StartUp.cs",
@@ -1048,8 +1004,7 @@
               "RelativeToolTip": "06. Food Shortage\\StartUp.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAwwCcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:32:51.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:32:51.737Z"
             },
             {
               "$type": "Document",
@@ -1061,8 +1016,7 @@
               "RelativeToolTip": "04. Border Control\\IO\\ConsoleReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T08:41:21.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T08:41:21.508Z"
             },
             {
               "$type": "Document",
@@ -1074,8 +1028,7 @@
               "RelativeToolTip": "04. Border Control\\IO\\ConsoleWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T08:39:54.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T08:39:54.14Z"
             },
             {
               "$type": "Document",
@@ -1087,8 +1040,7 @@
               "RelativeToolTip": "04. Border Control\\IO\\Interfaces\\IWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T08:39:31.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T08:39:31.338Z"
             },
             {
               "$type": "Document",
@@ -1100,8 +1052,7 @@
               "RelativeToolTip": "04. Border Control\\IO\\Interfaces\\IReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-04T08:39:12.814Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-04T08:39:12.814Z"
             },
             {
               "$type": "Document",
@@ -1113,8 +1064,7 @@
               "RelativeToolTip": "04. Border Control\\Core\\Interfaces\\IEngine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:59:16.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:59:16.54Z"
             },
             {
               "$type": "Document",
@@ -1126,8 +1076,7 @@
               "RelativeToolTip": "06. Food Shortage\\FoodShortage.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T22:33:12.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:33:12.268Z"
             },
             {
               "$type": "Document",
@@ -1139,8 +1088,7 @@
               "RelativeToolTip": "03. Telephony\\IO\\ConsoleWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:17:00.93Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:17:00.93Z"
             },
             {
               "$type": "Document",
@@ -1152,8 +1100,7 @@
               "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\IIdentifiable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:34:31.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:34:31.895Z"
             },
             {
               "$type": "Document",
@@ -1165,8 +1112,7 @@
               "RelativeToolTip": "04. Border Control\\Models\\Interfaces\\IIdentifiable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:05:32.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:05:32.953Z"
             },
             {
               "$type": "Document",
@@ -1178,8 +1124,7 @@
               "RelativeToolTip": "04. Border Control\\Models\\Citizen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:06:10.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:06:10.733Z"
             },
             {
               "$type": "Document",
@@ -1191,8 +1136,7 @@
               "RelativeToolTip": "04. Border Control\\Models\\Robot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T21:14:08.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T21:14:08.857Z"
             },
             {
               "$type": "Document",
@@ -1204,8 +1148,7 @@
               "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\IBirthable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:34:28.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:34:28.232Z"
             },
             {
               "$type": "Document",
@@ -1217,8 +1160,7 @@
               "RelativeToolTip": "06. Food Shortage\\Models\\Interfaces\\INameable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:34:35.809Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:34:35.809Z"
             },
             {
               "$type": "Document",
@@ -1230,8 +1172,7 @@
               "RelativeToolTip": "06. Food Shortage\\Models\\Pet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:34:13.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:34:13.079Z"
             },
             {
               "$type": "Document",
@@ -1243,8 +1184,7 @@
               "RelativeToolTip": "05. Birthday Celebrations\\Models\\Pet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:18:27.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:18:27.354Z"
             },
             {
               "$type": "Document",
@@ -1256,8 +1196,7 @@
               "RelativeToolTip": "05. Birthday Celebrations\\Models\\Interfaces\\INameable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:17:20.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:17:20.239Z"
             },
             {
               "$type": "Document",
@@ -1269,8 +1208,7 @@
               "RelativeToolTip": "05. Birthday Celebrations\\Models\\Interfaces\\IBirthable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:16:49.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:16:49.061Z"
             },
             {
               "$type": "Document",
@@ -1282,8 +1220,7 @@
               "RelativeToolTip": "05. Birthday Celebrations\\Models\\Interfaces\\IIdentifiable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:03:54.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:03:54.133Z"
             },
             {
               "$type": "Document",
@@ -1295,8 +1232,7 @@
               "RelativeToolTip": "05. Birthday Celebrations\\Models\\Robot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:03:47.746Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:03:47.746Z"
             },
             {
               "$type": "Document",
@@ -1308,8 +1244,7 @@
               "RelativeToolTip": "05. Birthday Celebrations\\Models\\Citizen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwBAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T22:03:38.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:03:38.49Z"
             },
             {
               "$type": "Document",
@@ -1321,8 +1256,7 @@
               "RelativeToolTip": "05. Birthday Celebrations\\BirthdayCelebrations.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T22:03:15.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T22:03:15.245Z"
             },
             {
               "$type": "Document",
@@ -1334,8 +1268,7 @@
               "RelativeToolTip": "03. Telephony\\IO\\FileWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:59:45.137Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:59:45.137Z"
             },
             {
               "$type": "Document",
@@ -1347,8 +1280,7 @@
               "RelativeToolTip": "03. Telephony\\IO\\ConsoleReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:16:14.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:16:14.832Z"
             },
             {
               "$type": "Document",
@@ -1360,8 +1292,7 @@
               "RelativeToolTip": "03. Telephony\\IO\\Interfaces\\IReader.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:15:00.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:15:00.466Z"
             },
             {
               "$type": "Document",
@@ -1373,8 +1304,7 @@
               "RelativeToolTip": "03. Telephony\\Core\\Engine.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAxwBoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:08:28.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:08:28.673Z"
             },
             {
               "$type": "Document",
@@ -1386,8 +1316,7 @@
               "RelativeToolTip": "03. Telephony\\IO\\Interfaces\\IWriter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:15:21.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:15:21.675Z"
             },
             {
               "$type": "Document",
@@ -1399,8 +1328,7 @@
               "RelativeToolTip": "04. Border Control\\BorderControl.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-03T20:02:46.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:02:46.669Z"
             },
             {
               "$type": "Document",
@@ -1412,8 +1340,7 @@
               "RelativeToolTip": "03. Telephony\\Core\\Interfaces\\IEngine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:09:06.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-03T20:09:06.103Z"
             },
             {
               "$type": "Document",
@@ -1425,8 +1352,7 @@
               "RelativeToolTip": "03. Telephony\\Models\\Smartphone.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:07:53.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T22:07:53.328Z"
             },
             {
               "$type": "Document",
@@ -1438,8 +1364,7 @@
               "RelativeToolTip": "03. Telephony\\Models\\Interfaces\\ICallable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:05:46.594Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T22:05:46.594Z"
             },
             {
               "$type": "Document",
@@ -1451,8 +1376,7 @@
               "RelativeToolTip": "03. Telephony\\Models\\StationaryPhone.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:08:44.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T22:08:44.821Z"
             },
             {
               "$type": "Document",
@@ -1464,8 +1388,7 @@
               "RelativeToolTip": "03. Telephony\\Models\\Interfaces\\IBrowsable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T22:05:16.609Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T22:05:16.609Z"
             },
             {
               "$type": "Document",
@@ -1477,8 +1400,7 @@
               "RelativeToolTip": "02. Multiple Implementation\\Citizen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBZwA8AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:09:07.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T21:09:07.116Z"
             },
             {
               "$type": "Document",
@@ -1490,8 +1412,7 @@
               "RelativeToolTip": "02. Multiple Implementation\\IBirthable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:08:35.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T21:08:35.669Z"
             },
             {
               "$type": "Document",
@@ -1503,8 +1424,7 @@
               "RelativeToolTip": "02. Multiple Implementation\\IIdentifiable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:08:06.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T21:08:06.613Z"
             },
             {
               "$type": "Document",
@@ -1516,8 +1436,7 @@
               "RelativeToolTip": "02. Multiple Implementation\\MultipleImplementation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-02T21:06:46.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T21:06:46.839Z"
             },
             {
               "$type": "Document",
@@ -1529,8 +1448,7 @@
               "RelativeToolTip": "02. Multiple Implementation\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T21:06:44.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T21:06:44.909Z"
             },
             {
               "$type": "Document",
@@ -1542,8 +1460,7 @@
               "RelativeToolTip": "01. Define an Interface IPerson\\Citizen.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:31:44.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T20:31:44.89Z"
             },
             {
               "$type": "Document",
@@ -1555,8 +1472,7 @@
               "RelativeToolTip": "01. Define an Interface IPerson\\IPerson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T20:30:49.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T20:30:49.709Z"
             },
             {
               "$type": "Document",
@@ -1568,8 +1484,7 @@
               "RelativeToolTip": "01. Define an Interface IPerson\\DefineAnInterfaceIPerson.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-02T19:10:48.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T19:10:48.693Z"
             },
             {
               "$type": "Document",
@@ -1581,8 +1496,7 @@
               "RelativeToolTip": "01. Define an Interface IPerson\\StartUp.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-02T16:12:39.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-02T16:12:39.333Z"
             }
           ]
         }

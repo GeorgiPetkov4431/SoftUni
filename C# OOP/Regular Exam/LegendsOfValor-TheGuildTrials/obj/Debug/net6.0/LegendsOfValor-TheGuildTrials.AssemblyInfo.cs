@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LegendsOfValor-TheGuildTrials")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfe4dac08f187d51a2418d9c8e733dad32fb08db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d45c4c01faa03d21fb5ae794c3a0848d66d5eaed")]
 [assembly: System.Reflection.AssemblyProductAttribute("LegendsOfValor-TheGuildTrials")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LegendsOfValor-TheGuildTrials")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
