@@ -1,5 +1,7 @@
 CREATE DATABASE Incomes
 
+GO
+
 USE Incomes
 
  CREATE TABLE DailyIncome(
