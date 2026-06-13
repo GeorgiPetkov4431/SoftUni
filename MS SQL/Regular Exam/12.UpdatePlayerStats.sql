@@ -25,4 +25,20 @@ BEGIN
 		SET [Assists] += @AssistsDelta
 		WHERE [PlayerId] = @PlayerId
 	END
+
+	/*
+	UPDATE [PlayerStats]
+	SET
+	[Goals] = CASE
+		WHEN @GoalsDelta IS NULL THEN [Goals]
+		ELSE [Goals] + @GoalsDelta
+	END,
+
+	[Assists] = CASE
+		WHEN @AssistsDelta IS NULL THEN [Assists]
+		ELSE [Assists] + @AssistsDelta
+	END
+	WHERE [PlayerId] = @PlayerId
+	*/
+
 END
