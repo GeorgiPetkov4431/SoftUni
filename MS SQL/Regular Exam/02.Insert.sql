@@ -1,0 +1,47 @@
+USE [EuroLeagues]
+
+GO
+
+INSERT INTO [Leagues]
+VALUES ('Eredivisie')
+
+GO
+
+INSERT INTO [Teams]
+VALUES 
+	('PSV', 'Eindhoven', 6),
+	('Ajax', 'Amsterdam', 6)
+
+GO
+
+INSERT INTO [Players]
+VALUES
+	('Luuk de Jong', 'Forward'),
+	('Josip Sutalo', 'Defender')
+
+GO
+
+INSERT INTO [Matches]
+VALUES
+	(98, 97, '2024-11-02 20:45:00', 3, 2, 6)
+
+GO
+
+INSERT INTO [PlayersTeams]
+VALUES
+	(2305, 97),
+	(2306, 98)
+
+GO
+
+INSERT INTO [PlayerStats]
+VALUES
+	(2305, 2, 0),
+	(2306, 2, 0)
+
+GO
+
+INSERT INTO [TeamStats]
+VALUES
+	(97, 15, 1, 3),
+	(98, 14, 3, 2)
