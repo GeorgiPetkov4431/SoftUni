@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00E496A-64D3-4670-891C-8A536FCCE087}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\03. entity relations\\p01_studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00E496A-64D3-4670-891C-8A536FCCE087}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\data\\studentsystemcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00E496A-64D3-4670-891C-8A536FCCE087}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\03. entity relations\\p01_studentsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00E496A-64D3-4670-891C-8A536FCCE087}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6DB1C8-E90F-4B79-BEBC-25E1BFCC8DC1}|P02_FootballBetting\\P02_FootballBetting.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\03. entity relations\\p02_footballbetting\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D6DB1C8-E90F-4B79-BEBC-25E1BFCC8DC1}|P02_FootballBetting\\P02_FootballBetting.csproj|solutionrelative:p02_footballbetting\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2096C3-D705-466C-947F-D2FE1A8E7537}|P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\03. entity relations\\p02_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A2096C3-D705-466C-947F-D2FE1A8E7537}|P02_FootballBetting.Data\\P02_FootballBetting.Data.csproj|solutionrelative:p02_footballbetting.data\\footballbettingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00E496A-64D3-4670-891C-8A536FCCE087}|P01_StudentSystem\\P01_StudentSystem.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\03. entity relations\\p01_studentsystem\\data\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00E496A-64D3-4670-891C-8A536FCCE087}|P01_StudentSystem\\P01_StudentSystem.csproj|solutionrelative:p01_studentsystem\\data\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6414B37-5991-4EE8-8956-8C05D67A7C45}|P02_FootballBetting.Models\\P02_FootballBetting.Data.Models.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\03. entity relations\\p02_footballbetting.models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6414B37-5991-4EE8-8956-8C05D67A7C45}|P02_FootballBetting.Models\\P02_FootballBetting.Data.Models.csproj|solutionrelative:p02_footballbetting.models\\playerstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P02_FootballBetting\\StartUp.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P02_FootballBetting\\StartUp.cs",
+              "RelativeToolTip": "P02_FootballBetting\\StartUp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:10:40.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P01_StudentSystem\\StartUp.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P01_StudentSystem\\StartUp.cs",
+              "RelativeToolTip": "P01_StudentSystem\\StartUp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:09:40.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P01_StudentSystem\\Data\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Data\\Models\\StudentCourse.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P01_StudentSystem\\Data\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Data\\Models\\StudentCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:08:25.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerStatistic.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P02_FootballBetting.Models\\PlayerStatistic.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Models\\PlayerStatistic.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P02_FootballBetting.Models\\PlayerStatistic.cs",
+              "RelativeToolTip": "P02_FootballBetting.Models\\PlayerStatistic.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:06:50.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentSystemContext.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P01_StudentSystem\\Data\\StudentSystemContext.cs",
+              "RelativeDocumentMoniker": "P01_StudentSystem\\Data\\StudentSystemContext.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P01_StudentSystem\\Data\\StudentSystemContext.cs",
+              "RelativeToolTip": "P01_StudentSystem\\Data\\StudentSystemContext.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:02:09.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FootballBettingContext.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeDocumentMoniker": "P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\03. Entity Relations\\P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "RelativeToolTip": "P02_FootballBetting.Data\\FootballBettingContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-26T18:02:08.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.deps.json
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\bin\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.dll
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\refint\P02_FootballBetting.Data.Models.dll
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\P02_FootballBetting.Data.Models.pdb
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Models\obj\Debug\net6.0\ref\P02_FootballBetting.Data.Models.dll

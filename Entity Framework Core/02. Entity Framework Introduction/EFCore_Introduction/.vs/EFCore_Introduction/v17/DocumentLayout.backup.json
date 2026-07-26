@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\02. entity framework introduction\\efcore_introduction\\efcore_introduction\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|solutionrelative:efcore_introduction\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\02. entity framework introduction\\efcore_introduction\\efcore_introduction\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|solutionrelative:efcore_introduction\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\02. entity framework introduction\\efcore_introduction\\efcore_introduction\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|solutionrelative:efcore_introduction\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,20 +23,12 @@
       "RelativeMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|solutionrelative:efcore_introduction\\efcore_introduction.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\02. entity framework introduction\\efcore_introduction\\efcore_introduction\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|solutionrelative:efcore_introduction\\data\\softunicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\02. entity framework introduction\\efcore_introduction\\efcore_introduction\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|solutionrelative:efcore_introduction\\models\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\02. entity framework introduction\\efcore_introduction\\efcore_introduction\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|solutionrelative:efcore_introduction\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\02. entity framework introduction\\efcore_introduction\\efcore_introduction\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|solutionrelative:efcore_introduction\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F69C082D-2E60-4B02-A3BF-A5E050C8B565}|EFCore_Introduction\\EFCore_Introduction.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\02. entity framework introduction\\efcore_introduction\\efcore_introduction\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,19 +66,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EFCore_Introduction",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\EFCore_Introduction.csproj",
-              "RelativeDocumentMoniker": "EFCore_Introduction\\EFCore_Introduction.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\EFCore_Introduction.csproj",
-              "RelativeToolTip": "EFCore_Introduction\\EFCore_Introduction.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-24T02:01:11.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Town.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\Models\\Town.cs",
@@ -87,12 +74,11 @@
               "RelativeToolTip": "EFCore_Introduction\\Models\\Town.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T01:56:36.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T01:56:36.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\Models\\Project.cs",
               "RelativeDocumentMoniker": "EFCore_Introduction\\Models\\Project.cs",
@@ -100,12 +86,11 @@
               "RelativeToolTip": "EFCore_Introduction\\Models\\Project.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T01:55:01.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T01:55:01.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "EFCore_Introduction\\Models\\Employee.cs",
@@ -113,8 +98,7 @@
               "RelativeToolTip": "EFCore_Introduction\\Models\\Employee.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAmwCgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T01:51:17.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T01:51:17.853Z"
             },
             {
               "$type": "Document",
@@ -126,12 +110,11 @@
               "RelativeToolTip": "EFCore_Introduction\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T01:48:08.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T01:48:08.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Address.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\Models\\Address.cs",
               "RelativeDocumentMoniker": "EFCore_Introduction\\Models\\Address.cs",
@@ -139,12 +122,11 @@
               "RelativeToolTip": "EFCore_Introduction\\Models\\Address.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T01:41:51.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T01:41:51.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SoftUniContext.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\Data\\SoftUniContext.cs",
               "RelativeDocumentMoniker": "EFCore_Introduction\\Data\\SoftUniContext.cs",
@@ -157,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "StartUp.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\StartUp.cs",
               "RelativeDocumentMoniker": "EFCore_Introduction\\StartUp.cs",
@@ -165,12 +147,11 @@
               "RelativeToolTip": "EFCore_Introduction\\StartUp.cs",
               "ViewState": "AgIAAI0BAAAAAAAAAAAAAJYBAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T00:59:58.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T00:59:58.511Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "EmployeeProject.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\Models\\EmployeeProject.cs",
               "RelativeDocumentMoniker": "EFCore_Introduction\\Models\\EmployeeProject.cs",
@@ -183,6 +164,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EFCore_Introduction.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\EFCore_Introduction.csproj",
+              "RelativeDocumentMoniker": "EFCore_Introduction\\EFCore_Introduction.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\EFCore_Introduction.csproj",
+              "RelativeToolTip": "EFCore_Introduction\\EFCore_Introduction.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-24T02:01:11.149Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "SoftUniContext.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\02. Entity Framework Introduction\\EFCore_Introduction\\EFCore_Introduction\\Data\\Models\\SoftUniContext.cs",
@@ -191,8 +184,7 @@
               "RelativeToolTip": "EFCore_Introduction\\Data\\Models\\SoftUniContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-24T01:20:22.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-24T01:20:22.693Z"
             }
           ]
         }
