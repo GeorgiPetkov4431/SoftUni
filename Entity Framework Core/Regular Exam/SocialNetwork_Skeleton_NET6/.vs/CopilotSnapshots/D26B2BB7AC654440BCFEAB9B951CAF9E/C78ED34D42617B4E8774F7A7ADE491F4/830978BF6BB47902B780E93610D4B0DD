@@ -1,0 +1,108 @@
+﻿using Microsoft.EntityFrameworkCore;
+using SocialNetwork.Data;
+using SocialNetwork.Data.Models;
+using SocialNetwork.DataProcessor.ImportDTOs;
+using SocialNetwork.Utilities;
+using System.ComponentModel.DataAnnotations;
+using System.Globalization;
+using System.Text;
+
+namespace SocialNetwork.DataProcessor
+{
+    public class Deserializer
+    {
+        private const string ErrorMessage = "Invalid data format.";
+        private const string DuplicatedDataMessage = "Duplicated data.";
+        private const string SuccessfullyImportedMessageEntity = "Successfully imported message (Sent at: {0}, Status: {1})";
+        private const string SuccessfullyImportedPostEntity = "Successfully imported post (Creator {0}, Created at: {1})";
+
+        public static string ImportMessages(SocialNetworkDbContext dbContext, string xmlString)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            IEnumerable<ImportMessageDto>? messageDtos
+                = XmlSerializerWrapper.Deserialize<ImportMessageDto[]>(xmlString, "Messages");
+
+            if (messageDtos == null)
+            {
+                return sb.ToString();
+            }
+
+            IEnumerable<Message> existingMessages = dbContext.Messages.AsNoTracking().ToArray();
+
+            ICollection<Message> messagesToPersist = new List<Message>();
+
+            foreach (ImportMessageDto messageDto in messageDtos)
+            {
+                if (!IsValid(messageDto))
+                {
+                    sb.AppendLine(ErrorMessage);
+                    continue;
+                }
+
+                bool isDuplicate = existingMessages.Any(
+                    m => m.Content == messageDto.Content 
+                    && m.SentAt == messageDto.SentAt 
+                    && m.Status == messageDto.Status 
+                    && m.ConversationId == messageDto.ConversationId 
+                    && m.SenderId == messageDto.SenderId);
+
+                isDuplicate = isDuplicate && messagesToPersist.Any(
+                    m => m.Content == messageDto.Content
+                    && m.SentAt == messageDto.SentAt
+                    && m.Status == messageDto.Status
+                    && m.ConversationId == messageDto.ConversationId
+                    && m.SenderId == messageDto.SenderId);
+
+                if (isDuplicate)
+                {
+                    sb.AppendLine(DuplicatedDataMessage);
+                    continue;
+                }
+
+                Message message = new Message()
+                {
+                    Content = messageDto.Content,
+                    SentAt = messageDto.SentAt,
+                    Status = messageDto.Status,
+                    ConversationId = messageDto.ConversationId,
+                    SenderId = messageDto.SenderId
+                };
+
+                messagesToPersist.Add(message);
+
+                string successMessage = string.Format(SuccessfullyImportedMessageEntity, message.SentAt.ToString("yyyy-MM-ddTHH:mm:ss", CultureInfo.InvariantCulture));
+
+                sb.AppendLine(successMessage);
+            }
+
+            dbContext.Messages.AddRange(messagesToPersist);
+            dbContext.SaveChanges();
+
+            return sb.ToString().TrimEnd();
+        }
+
+        public static string ImportPosts(SocialNetworkDbContext dbContext, string jsonString)
+        {
+            return string.Empty;
+        }
+
+        public static bool IsValid(object dto)
+        {
+            ValidationContext validationContext = new ValidationContext(dto);
+            List<ValidationResult> validationResults = new List<ValidationResult>();
+
+            bool isValid = Validator.TryValidateObject(dto, validationContext, validationResults, true);
+
+            foreach (ValidationResult validationResult in validationResults)
+            {
+                if (validationResult.ErrorMessage != null)
+                {
+                    string currentMessage = validationResult.ErrorMessage;
+                }
+            }
+
+            return isValid;
+        }
+    }
+}
