@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Algorithms Introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB0DB6D7-DD20-D573-6088-E9F5F07C1C23}|SumOfCoins\\SumOfCoins.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\algorithms introduction\\sumofcoins\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB0DB6D7-DD20-D573-6088-E9F5F07C1C23}|SumOfCoins\\SumOfCoins.csproj|solutionrelative:sumofcoins\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65CDC919-47EB-8A29-F384-CE18D3F34843}|SetCover\\SetCover.csproj|c:\\users\\georg\\desktop\\softuni\\c# advanced\\algorithms introduction\\setcover\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65CDC919-47EB-8A29-F384-CE18D3F34843}|SetCover\\SetCover.csproj|solutionrelative:setcover\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Algorithms Introduction\\SetCover\\StartUp.cs",
+              "RelativeDocumentMoniker": "SetCover\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Algorithms Introduction\\SetCover\\StartUp.cs",
+              "RelativeToolTip": "SetCover\\StartUp.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T02:09:42.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Algorithms Introduction\\SumOfCoins\\StartUp.cs",
+              "RelativeDocumentMoniker": "SumOfCoins\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\C# Advanced\\Algorithms Introduction\\SumOfCoins\\StartUp.cs",
+              "RelativeToolTip": "SumOfCoins\\StartUp.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T01:57:21.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

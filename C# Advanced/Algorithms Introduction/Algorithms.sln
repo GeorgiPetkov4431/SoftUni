@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37502.11
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfCoins", "SumOfCoins\SumOfCoins.csproj", "{BB0DB6D7-DD20-D573-6088-E9F5F07C1C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetCover", "SetCover\SetCover.csproj", "{65CDC919-47EB-8A29-F384-CE18D3F34843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB0DB6D7-DD20-D573-6088-E9F5F07C1C23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB0DB6D7-DD20-D573-6088-E9F5F07C1C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB0DB6D7-DD20-D573-6088-E9F5F07C1C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB0DB6D7-DD20-D573-6088-E9F5F07C1C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65CDC919-47EB-8A29-F384-CE18D3F34843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CDC919-47EB-8A29-F384-CE18D3F34843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CDC919-47EB-8A29-F384-CE18D3F34843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CDC919-47EB-8A29-F384-CE18D3F34843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B195A572-6BB1-4A63-A3A2-1E30FC16FD3C}
+	EndGlobalSection
+EndGlobal

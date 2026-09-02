@@ -7,36 +7,12 @@
       "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\utilities\\xmlserializerwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\cardealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\cardealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\dtos\\import\\importsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\data\\cardealercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\data\\cardealercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\models\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,6 +25,30 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\models\\partcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\data\\cardealercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\data\\cardealercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\dtos\\import\\importsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\dtos\\import\\importsupplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\08. xml processing\\car dealer\\cardealer\\cardealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF802316-8076-4136-9DD7-106F090420E4}|CarDealer\\CarDealer.csproj|solutionrelative:cardealer\\cardealer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,98 +74,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "XmlSerializerWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Utilities\\XmlSerializerWrapper.cs",
-              "RelativeDocumentMoniker": "CarDealer\\Utilities\\XmlSerializerWrapper.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Utilities\\XmlSerializerWrapper.cs",
-              "RelativeToolTip": "CarDealer\\Utilities\\XmlSerializerWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T00:30:49.138Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarDealer",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\CarDealer.csproj",
-              "RelativeDocumentMoniker": "CarDealer\\CarDealer.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\CarDealer.csproj",
-              "RelativeToolTip": "CarDealer\\CarDealer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-01T00:30:28.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ImportSupplierDto.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
-              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
-              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-01T00:02:47.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StartUp.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\StartUp.cs",
-              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\StartUp.cs",
-              "RelativeToolTip": "CarDealer\\StartUp.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwB4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:23:15.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "CarDealerContext.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Data\\CarDealerContext.cs",
               "RelativeDocumentMoniker": "CarDealer\\Data\\CarDealerContext.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Data\\CarDealerContext.cs",
               "RelativeToolTip": "CarDealer\\Data\\CarDealerContext.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAA2wBUAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBUAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-31T23:22:17.251Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Data\\Configuration.cs",
-              "RelativeDocumentMoniker": "CarDealer\\Data\\Configuration.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Data\\Configuration.cs",
-              "RelativeToolTip": "CarDealer\\Data\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:21:23.311Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "CarDealer\\Models\\Supplier.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Supplier.cs",
               "RelativeToolTip": "CarDealer\\Models\\Supplier.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-31T23:21:06.265Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Sale.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Sale.cs",
               "RelativeDocumentMoniker": "CarDealer\\Models\\Sale.cs",
@@ -178,20 +113,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PartCar.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\PartCar.cs",
-              "RelativeDocumentMoniker": "CarDealer\\Models\\PartCar.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\PartCar.cs",
-              "RelativeToolTip": "CarDealer\\Models\\PartCar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Customer.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:20:39.725Z",
+              "WhenOpened": "2026-07-31T23:20:15.886Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Car.cs",
+              "RelativeToolTip": "CarDealer\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T23:19:47.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Part.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Part.cs",
               "RelativeDocumentMoniker": "CarDealer\\Models\\Part.cs",
@@ -204,29 +152,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "CarDealer\\Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Customer.cs",
-              "RelativeToolTip": "CarDealer\\Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "PartCar.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\PartCar.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Models\\PartCar.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\PartCar.cs",
+              "RelativeToolTip": "CarDealer\\Models\\PartCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:20:15.886Z",
+              "WhenOpened": "2026-07-31T23:20:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlSerializerWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Utilities\\XmlSerializerWrapper.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Utilities\\XmlSerializerWrapper.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Utilities\\XmlSerializerWrapper.cs",
+              "RelativeToolTip": "CarDealer\\Utilities\\XmlSerializerWrapper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T00:30:49.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\StartUp.cs",
+              "RelativeDocumentMoniker": "CarDealer\\StartUp.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\StartUp.cs",
+              "RelativeToolTip": "CarDealer\\StartUp.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAmwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T23:23:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "CarDealer\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Data\\Configuration.cs",
+              "RelativeToolTip": "CarDealer\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T23:21:23.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportSupplierDto.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
+              "RelativeDocumentMoniker": "CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
+              "RelativeToolTip": "CarDealer\\DTOs\\Import\\ImportSupplierDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T00:02:47.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Car.cs",
-              "RelativeDocumentMoniker": "CarDealer\\Models\\Car.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\Models\\Car.cs",
-              "RelativeToolTip": "CarDealer\\Models\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T23:19:47.991Z",
-              "EditorCaption": ""
+              "Title": "CarDealer.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\CarDealer.csproj",
+              "RelativeDocumentMoniker": "CarDealer\\CarDealer.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\08. XML Processing\\Car Dealer\\CarDealer\\CarDealer.csproj",
+              "RelativeToolTip": "CarDealer\\CarDealer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-01T00:30:28.2Z"
             }
           ]
         }
