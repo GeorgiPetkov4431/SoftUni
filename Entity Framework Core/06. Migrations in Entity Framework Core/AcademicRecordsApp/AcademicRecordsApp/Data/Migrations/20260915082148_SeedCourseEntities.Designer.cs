@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AcademicRecordsApp.Data.Migrations
 {
     [DbContext(typeof(AcademicRecordsDbContext))]
-    [Migration("20260914215417_AddCourseRelationToExamEntity")]
-    partial class AddCourseRelationToExamEntity
+    [Migration("20260915082148_SeedCourseEntities")]
+    partial class SeedCourseEntities
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -41,6 +41,58 @@ namespace AcademicRecordsApp.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Courses");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            Name = "Mathematics"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            Name = "Physics"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            Name = "Chemistry"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            Name = "Biology"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            Name = "Computer Science"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            Name = "History"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            Name = "Literature"
+                        },
+                        new
+                        {
+                            Id = 8,
+                            Name = "Geography"
+                        },
+                        new
+                        {
+                            Id = 9,
+                            Name = "Philosophy"
+                        },
+                        new
+                        {
+                            Id = 10,
+                            Name = "Economics"
+                        });
                 });
 
             modelBuilder.Entity("AcademicRecordsApp.Data.Models.Exam", b =>
@@ -59,7 +111,8 @@ namespace AcademicRecordsApp.Data.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.HasKey("Id");
+                    b.HasKey("Id")
+                        .HasName("PK__Exams__3214EC07DD612108");
 
                     b.HasIndex("CourseId");
 
@@ -83,7 +136,8 @@ namespace AcademicRecordsApp.Data.Migrations
                     b.Property<decimal>("Value")
                         .HasColumnType("decimal(3, 2)");
 
-                    b.HasKey("Id");
+                    b.HasKey("Id")
+                        .HasName("PK__Grades__3214EC07B60F8E6B");
 
                     b.HasIndex("ExamId");
 
@@ -105,7 +159,8 @@ namespace AcademicRecordsApp.Data.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.HasKey("Id");
+                    b.HasKey("Id")
+                        .HasName("PK__Students__3214EC07F540558B");
 
                     b.ToTable("Students");
                 });
