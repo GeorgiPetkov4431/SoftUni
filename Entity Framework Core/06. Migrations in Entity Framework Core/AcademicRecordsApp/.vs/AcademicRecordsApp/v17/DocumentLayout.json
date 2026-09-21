@@ -11,16 +11,8 @@
       "RelativeMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|solutionrelative:academicrecordsapp\\data\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260915082148_SeedCourseEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcademicRecordsApp\\Data\\Migrations\\20260915082148_SeedCourseEntities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\06. migrations in entity framework core\\academicrecordsapp\\academicrecordsapp\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|solutionrelative:academicrecordsapp\\data\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260915075518_AddCourseRelationToExamEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AcademicRecordsApp\\Data\\Migrations\\20260915075518_AddCourseRelationToExamEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\06. migrations in entity framework core\\academicrecordsapp\\academicrecordsapp\\data\\migrations\\academicrecordsdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,6 +69,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\06. migrations in entity framework core\\academicrecordsapp\\academicrecordsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|solutionrelative:academicrecordsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\06. migrations in entity framework core\\academicrecordsapp\\academicrecordsapp\\data\\migrations\\20260915082148_seedcourseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|solutionrelative:academicrecordsapp\\data\\migrations\\20260915082148_seedcourseentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\06. migrations in entity framework core\\academicrecordsapp\\academicrecordsapp\\data\\migrations\\20260915075518_addcourserelationtoexamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427E75B9-9E89-4A19-A214-47DF25F70304}|AcademicRecordsApp\\AcademicRecordsApp.csproj|solutionrelative:academicrecordsapp\\data\\migrations\\20260915075518_addcourserelationtoexamentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "20260915082148_SeedCourseEntities.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260915082148_SeedCourseEntities.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\20260915082148_SeedCourseEntities.cs",
@@ -110,12 +110,11 @@
               "RelativeToolTip": "AcademicRecordsApp\\Data\\Migrations\\20260915082148_SeedCourseEntities.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T08:21:49.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T08:21:49.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "20260915075518_AddCourseRelationToExamEntity.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260915075518_AddCourseRelationToExamEntity.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\20260915075518_AddCourseRelationToExamEntity.cs",
@@ -123,8 +122,7 @@
               "RelativeToolTip": "AcademicRecordsApp\\Data\\Migrations\\20260915075518_AddCourseRelationToExamEntity.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-15T07:55:18.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-15T07:55:18.615Z"
             },
             {
               "$type": "Document",
@@ -136,12 +134,11 @@
               "RelativeToolTip": "AcademicRecordsApp\\Data\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T22:55:01.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-13T22:55:01.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "20260914213857_AddCourseEntityToStudents.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260914213857_AddCourseEntityToStudents.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\20260914213857_AddCourseEntityToStudents.cs",
@@ -149,12 +146,11 @@
               "RelativeToolTip": "AcademicRecordsApp\\Data\\Migrations\\20260914213857_AddCourseEntityToStudents.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T21:38:57.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T21:38:57.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Course.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Models\\Course.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Models\\Course.cs",
@@ -162,8 +158,7 @@
               "RelativeToolTip": "AcademicRecordsApp\\Data\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T11:09:51.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T11:09:51.278Z"
             },
             {
               "$type": "Document",
@@ -180,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Grade.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Models\\Grade.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Models\\Grade.cs",
@@ -188,12 +183,11 @@
               "RelativeToolTip": "AcademicRecordsApp\\Data\\Models\\Grade.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T22:54:56.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-13T22:54:56.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Exam.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Models\\Exam.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Models\\Exam.cs",
@@ -201,12 +195,11 @@
               "RelativeToolTip": "AcademicRecordsApp\\Data\\Models\\Exam.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-13T22:54:50.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-13T22:54:50.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AcademicRecordsDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\AcademicRecordsDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\AcademicRecordsDbContextModelSnapshot.cs",
@@ -214,12 +207,11 @@
               "RelativeToolTip": "AcademicRecordsApp\\Data\\Migrations\\AcademicRecordsDbContextModelSnapshot.cs",
               "ViewState": "AgIAAIsAAAAAAAAAAAAQwJ4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T21:32:11.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-14T21:32:11.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "20260914214926_AddCourseRelationToExamEntity.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260914214926_AddCourseRelationToExamEntity.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\20260914214926_AddCourseRelationToExamEntity.cs",
@@ -231,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "20260914214826_AddCourseRelationToExamEntity.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260914214826_AddCourseRelationToExamEntity.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\20260914214826_AddCourseRelationToExamEntity.cs",
@@ -243,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "20260914213125_InitialEntityModelBaseline.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260914213125_InitialEntityModelBaseline.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\20260914213125_InitialEntityModelBaseline.cs",
@@ -255,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 10,
               "Title": "20260914213739_AddCourseEntityToStudents.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260914213739_AddCourseEntityToStudents.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\20260914213739_AddCourseEntityToStudents.cs",
@@ -267,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "20260914213125_InitialEntityModelBaseline.Designer.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Migrations\\20260914213125_InitialEntityModelBaseline.Designer.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Migrations\\20260914213125_InitialEntityModelBaseline.Designer.cs",
@@ -279,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "20260914213125_InitialEntityModelBaseline.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Migrations\\20260914213125_InitialEntityModelBaseline.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Migrations\\20260914213125_InitialEntityModelBaseline.cs",
@@ -291,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "20260914213115_InitialEntityModel.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Migrations\\20260914213115_InitialEntityModel.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Migrations\\20260914213115_InitialEntityModel.cs",
@@ -303,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 14,
               "Title": "20260914113635_AddCourseEntityToStudents.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Migrations\\20260914113635_AddCourseEntityToStudents.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Migrations\\20260914113635_AddCourseEntityToStudents.cs",
@@ -315,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Program.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Program.cs",
@@ -327,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 15,
               "Title": "Configuration.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\06. Migrations in Entity Framework Core\\AcademicRecordsApp\\AcademicRecordsApp\\Data\\Configuration.cs",
               "RelativeDocumentMoniker": "AcademicRecordsApp\\Data\\Configuration.cs",
