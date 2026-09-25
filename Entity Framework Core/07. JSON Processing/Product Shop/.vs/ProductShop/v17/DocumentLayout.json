@@ -82,8 +82,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportProductDto.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T17:56:54.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T17:56:54.373Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportUserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T17:35:27.849Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T17:35:27.849Z"
             },
             {
               "$type": "Document",
@@ -106,7 +104,7 @@
               "RelativeDocumentMoniker": "ProductShop\\StartUp.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\07. JSON Processing\\Product Shop\\ProductShop\\StartUp.cs",
               "RelativeToolTip": "ProductShop\\StartUp.cs",
-              "ViewState": "AgIAAD8BAAAAAAAAAAAAADgBAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-31T17:19:00.707Z",
               "EditorCaption": ""
@@ -121,8 +119,7 @@
               "RelativeToolTip": "ProductShop\\Data\\Configuration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T17:17:40.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T17:17:40.51Z"
             },
             {
               "$type": "Document",
@@ -134,8 +131,7 @@
               "RelativeToolTip": "ProductShop\\Data\\ProductShopContext.cs",
               "ViewState": "AgIAACIAAAAAAAAAAADwvxUAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T17:17:04.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T17:17:04.961Z"
             },
             {
               "$type": "Document",
@@ -147,8 +143,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Export\\ExportCategoryByProductsDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T19:42:29.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T19:42:29.145Z"
             },
             {
               "$type": "Document",
@@ -160,8 +155,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportCategoryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T18:22:05.884Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T18:22:05.884Z"
             },
             {
               "$type": "Document",
@@ -173,8 +167,7 @@
               "RelativeToolTip": "ProductShop\\DTOs\\Import\\ImportCategoryProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T19:26:02.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T19:26:02.845Z"
             },
             {
               "$type": "Document",
@@ -186,8 +179,7 @@
               "RelativeToolTip": "ProductShop\\Models\\User.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T17:14:24.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T17:14:24.186Z"
             },
             {
               "$type": "Document",
@@ -199,8 +191,7 @@
               "RelativeToolTip": "ProductShop\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T17:13:11.696Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T17:13:11.696Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "ProductShop\\Models\\CategoryProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T17:14:09.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T17:14:09.484Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "ProductShop\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T17:13:00.242Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T17:13:00.242Z"
             }
           ]
         }
