@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\utilities\\xmlserializerwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\utilities\\xmlserializerwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\utilities\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\utilities\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\utilities\\objectvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\utilities\\objectvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\utilities\\interfaces\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\utilities\\interfaces\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\dtos\\xml\\xmlgenregroupmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,28 +67,12 @@
       "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\dtos\\movie\\addnewmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\common\\entityvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\viewmodels\\movies\\addmovieformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\viewmodels\\movies\\addmovieformmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\moviesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\moviesapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\common\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\dtos\\movie\\getallmoviesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,14 +107,6 @@
       "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\dtos\\json\\importjsonmoviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\utilities\\xmlserializerwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\utilities\\xmlserializerwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\utilities\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\utilities\\filehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -107,16 +115,8 @@
       "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\datasets\\moviesjsonfile.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\utilities\\objectvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\utilities\\objectvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\services\\interfaces\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\services\\interfaces\\iwatchlistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|c:\\users\\georg\\desktop\\softuni\\entity framework core\\10. best practices and architecture\\moviesapp\\utilities\\interfaces\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A126A012-F2EE-4E23-A5B8-78F13FDA2D98}|MoviesApp\\MoviesApp.csproj|solutionrelative:moviesapp\\utilities\\interfaces\\ifilehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,358 +142,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MoviesService.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\MoviesService.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Services\\MoviesService.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\MoviesService.cs",
-              "RelativeToolTip": "MoviesApp\\Services\\MoviesService.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAIwDkAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:02:27.172Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IMoviesService.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IMoviesService.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Services\\Interfaces\\IMoviesService.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IMoviesService.cs",
-              "RelativeToolTip": "MoviesApp\\Services\\Interfaces\\IMoviesService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:07:25.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MovieMapper.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Mappers\\MovieMapper.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Mappers\\MovieMapper.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Mappers\\MovieMapper.cs",
-              "RelativeToolTip": "MoviesApp\\Mappers\\MovieMapper.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T18:18:24.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AllMoviesIndexViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\ViewModels\\Movies\\AllMoviesIndexViewModel.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\ViewModels\\Movies\\AllMoviesIndexViewModel.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\ViewModels\\Movies\\AllMoviesIndexViewModel.cs",
-              "RelativeToolTip": "MoviesApp\\ViewModels\\Movies\\AllMoviesIndexViewModel.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:09:22.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "XmlGenreGroupMovieDto.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\XmlGenreGroupMovieDto.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Xml\\XmlGenreGroupMovieDto.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\XmlGenreGroupMovieDto.cs",
-              "RelativeToolTip": "MoviesApp\\DTOs\\Xml\\XmlGenreGroupMovieDto.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA3wCYAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T15:12:31.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ImportService.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\ImportService.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Services\\ImportService.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\ImportService.cs",
-              "RelativeToolTip": "MoviesApp\\Services\\ImportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T10:48:05.209Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Controllers\\MoviesController.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "MoviesApp\\Controllers\\MoviesController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAowE8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:43:16.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AddNewMovieDto.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Movie\\AddNewMovieDto.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Movie\\AddNewMovieDto.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Movie\\AddNewMovieDto.cs",
-              "RelativeToolTip": "MoviesApp\\DTOs\\Movie\\AddNewMovieDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T18:47:29.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "EntityValidation.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Common\\EntityValidation.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Common\\EntityValidation.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Common\\EntityValidation.cs",
-              "RelativeToolTip": "MoviesApp\\Common\\EntityValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T12:10:30.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Models\\Movie.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Models\\Movie.cs",
-              "RelativeToolTip": "MoviesApp\\Models\\Movie.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwB4AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T18:48:03.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AddMovieFormModel.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\ViewModels\\Movies\\AddMovieFormModel.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\ViewModels\\Movies\\AddMovieFormModel.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\ViewModels\\Movies\\AddMovieFormModel.cs",
-              "RelativeToolTip": "MoviesApp\\ViewModels\\Movies\\AddMovieFormModel.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T12:11:05.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MoviesApp",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\MoviesApp.csproj",
-              "RelativeDocumentMoniker": "MoviesApp\\MoviesApp.csproj",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\MoviesApp.csproj",
-              "RelativeToolTip": "MoviesApp\\MoviesApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-25T18:17:51.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ApplicationConstants.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Common\\ApplicationConstants.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Common\\ApplicationConstants.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Common\\ApplicationConstants.cs",
-              "RelativeToolTip": "MoviesApp\\Common\\ApplicationConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:45:03.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Program.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Program.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Program.cs",
-              "RelativeToolTip": "MoviesApp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T13:14:01.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetAllMoviesDto.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Movie\\GetAllMoviesDto.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Movie\\GetAllMoviesDto.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Movie\\GetAllMoviesDto.cs",
-              "RelativeToolTip": "MoviesApp\\DTOs\\Movie\\GetAllMoviesDto.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:09:09.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "WatchlistService.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\WatchlistService.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Services\\WatchlistService.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\WatchlistService.cs",
-              "RelativeToolTip": "MoviesApp\\Services\\WatchlistService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T17:02:30.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "XmlMovieDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\XmlMovieDetailsDto.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Xml\\XmlMovieDetailsDto.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\XmlMovieDetailsDto.cs",
-              "RelativeToolTip": "MoviesApp\\DTOs\\Xml\\XmlMovieDetailsDto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T15:33:49.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MoviesXMLFile.xml",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DataSets\\MoviesXMLFile.xml",
-              "RelativeDocumentMoniker": "MoviesApp\\DataSets\\MoviesXMLFile.xml",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DataSets\\MoviesXMLFile.xml",
-              "RelativeToolTip": "MoviesApp\\DataSets\\MoviesXMLFile.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2026-09-25T14:41:43.494Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IImportService.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IImportService.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Services\\Interfaces\\IImportService.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IImportService.cs",
-              "RelativeToolTip": "MoviesApp\\Services\\Interfaces\\IImportService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T10:47:47.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ImportController.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Controllers\\ImportController.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Controllers\\ImportController.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Controllers\\ImportController.cs",
-              "RelativeToolTip": "MoviesApp\\Controllers\\ImportController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T10:22:41.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ImportXmlGenreGroupDto.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\ImportXmlGenreGroupDto.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Xml\\ImportXmlGenreGroupDto.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\ImportXmlGenreGroupDto.cs",
-              "RelativeToolTip": "MoviesApp\\DTOs\\Xml\\ImportXmlGenreGroupDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T15:09:06.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "XmlSerializerWrapper.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Utilities\\XmlSerializerWrapper.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Utilities\\XmlSerializerWrapper.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Utilities\\XmlSerializerWrapper.cs",
-              "RelativeToolTip": "MoviesApp\\Utilities\\XmlSerializerWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-25T11:19:27.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ImportJsonMovieDto.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Json\\ImportJsonMovieDto.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Json\\ImportJsonMovieDto.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Json\\ImportJsonMovieDto.cs",
-              "RelativeToolTip": "MoviesApp\\DTOs\\Json\\ImportJsonMovieDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T12:05:24.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
               "Title": "FileHelper.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Utilities\\FileHelper.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Utilities\\FileHelper.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Utilities\\FileHelper.cs",
               "RelativeToolTip": "MoviesApp\\Utilities\\FileHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T13:11:02.824Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "moviesJSONFile.json",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DataSets\\moviesJSONFile.json",
-              "RelativeDocumentMoniker": "MoviesApp\\DataSets\\moviesJSONFile.json",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DataSets\\moviesJSONFile.json",
-              "RelativeToolTip": "MoviesApp\\DataSets\\moviesJSONFile.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-23T11:51:26.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\appsettings.json",
-              "RelativeDocumentMoniker": "MoviesApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\appsettings.json",
-              "RelativeToolTip": "MoviesApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-23T12:29:15.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "IWatchlistService.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IWatchlistService.cs",
-              "RelativeDocumentMoniker": "MoviesApp\\Services\\Interfaces\\IWatchlistService.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IWatchlistService.cs",
-              "RelativeToolTip": "MoviesApp\\Services\\Interfaces\\IWatchlistService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T13:17:22.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 3,
               "Title": "ObjectValidator.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Utilities\\ObjectValidator.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Utilities\\ObjectValidator.cs",
@@ -506,7 +168,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 7,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Models\\Movie.cs",
+              "RelativeToolTip": "MoviesApp\\Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:48:03.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlSerializerWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Utilities\\XmlSerializerWrapper.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Utilities\\XmlSerializerWrapper.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Utilities\\XmlSerializerWrapper.cs",
+              "RelativeToolTip": "MoviesApp\\Utilities\\XmlSerializerWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T11:19:27.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Common\\ApplicationConstants.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Common\\ApplicationConstants.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Common\\ApplicationConstants.cs",
+              "RelativeToolTip": "MoviesApp\\Common\\ApplicationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T17:45:03.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntityValidation.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Common\\EntityValidation.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Common\\EntityValidation.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Common\\EntityValidation.cs",
+              "RelativeToolTip": "MoviesApp\\Common\\EntityValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:10:30.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "IFileHelper.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Utilities\\Interfaces\\IFileHelper.cs",
               "RelativeDocumentMoniker": "MoviesApp\\Utilities\\Interfaces\\IFileHelper.cs",
@@ -516,6 +230,271 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-23T13:10:24.471Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\ImportService.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Services\\ImportService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\ImportService.cs",
+              "RelativeToolTip": "MoviesApp\\Services\\ImportService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAIwGkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:48:05.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Program.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Program.cs",
+              "RelativeToolTip": "MoviesApp\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:14:01.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XmlGenreGroupMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\XmlGenreGroupMovieDto.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Xml\\XmlGenreGroupMovieDto.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\XmlGenreGroupMovieDto.cs",
+              "RelativeToolTip": "MoviesApp\\DTOs\\Xml\\XmlGenreGroupMovieDto.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA3wCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:12:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AllMoviesIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\ViewModels\\Movies\\AllMoviesIndexViewModel.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\ViewModels\\Movies\\AllMoviesIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\ViewModels\\Movies\\AllMoviesIndexViewModel.cs",
+              "RelativeToolTip": "MoviesApp\\ViewModels\\Movies\\AllMoviesIndexViewModel.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T17:09:22.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieMapper.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Mappers\\MovieMapper.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Mappers\\MovieMapper.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Mappers\\MovieMapper.cs",
+              "RelativeToolTip": "MoviesApp\\Mappers\\MovieMapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:18:24.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IMoviesService.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Services\\Interfaces\\IMoviesService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IMoviesService.cs",
+              "RelativeToolTip": "MoviesApp\\Services\\Interfaces\\IMoviesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T17:07:25.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MoviesService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\MoviesService.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Services\\MoviesService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\MoviesService.cs",
+              "RelativeToolTip": "MoviesApp\\Services\\MoviesService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T17:02:27.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Controllers\\MoviesController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "MoviesApp\\Controllers\\MoviesController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T17:43:16.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddNewMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Movie\\AddNewMovieDto.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Movie\\AddNewMovieDto.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Movie\\AddNewMovieDto.cs",
+              "RelativeToolTip": "MoviesApp\\DTOs\\Movie\\AddNewMovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T18:47:29.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddMovieFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\ViewModels\\Movies\\AddMovieFormModel.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\ViewModels\\Movies\\AddMovieFormModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\ViewModels\\Movies\\AddMovieFormModel.cs",
+              "RelativeToolTip": "MoviesApp\\ViewModels\\Movies\\AddMovieFormModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:11:05.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MoviesApp.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\MoviesApp.csproj",
+              "RelativeDocumentMoniker": "MoviesApp\\MoviesApp.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\MoviesApp.csproj",
+              "RelativeToolTip": "MoviesApp\\MoviesApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-25T18:17:51.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetAllMoviesDto.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Movie\\GetAllMoviesDto.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Movie\\GetAllMoviesDto.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Movie\\GetAllMoviesDto.cs",
+              "RelativeToolTip": "MoviesApp\\DTOs\\Movie\\GetAllMoviesDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T17:09:09.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WatchlistService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\WatchlistService.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Services\\WatchlistService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\WatchlistService.cs",
+              "RelativeToolTip": "MoviesApp\\Services\\WatchlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T17:02:30.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "XmlMovieDetailsDto.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\XmlMovieDetailsDto.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Xml\\XmlMovieDetailsDto.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\XmlMovieDetailsDto.cs",
+              "RelativeToolTip": "MoviesApp\\DTOs\\Xml\\XmlMovieDetailsDto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:33:49.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MoviesXMLFile.xml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DataSets\\MoviesXMLFile.xml",
+              "RelativeDocumentMoniker": "MoviesApp\\DataSets\\MoviesXMLFile.xml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DataSets\\MoviesXMLFile.xml",
+              "RelativeToolTip": "MoviesApp\\DataSets\\MoviesXMLFile.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-09-25T14:41:43.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IImportService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IImportService.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Services\\Interfaces\\IImportService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IImportService.cs",
+              "RelativeToolTip": "MoviesApp\\Services\\Interfaces\\IImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:47:47.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImportController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Controllers\\ImportController.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Controllers\\ImportController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Controllers\\ImportController.cs",
+              "RelativeToolTip": "MoviesApp\\Controllers\\ImportController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T10:22:41.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ImportXmlGenreGroupDto.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\ImportXmlGenreGroupDto.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Xml\\ImportXmlGenreGroupDto.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Xml\\ImportXmlGenreGroupDto.cs",
+              "RelativeToolTip": "MoviesApp\\DTOs\\Xml\\ImportXmlGenreGroupDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T15:09:06.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ImportJsonMovieDto.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Json\\ImportJsonMovieDto.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\DTOs\\Json\\ImportJsonMovieDto.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DTOs\\Json\\ImportJsonMovieDto.cs",
+              "RelativeToolTip": "MoviesApp\\DTOs\\Json\\ImportJsonMovieDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T12:05:24.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "moviesJSONFile.json",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DataSets\\moviesJSONFile.json",
+              "RelativeDocumentMoniker": "MoviesApp\\DataSets\\moviesJSONFile.json",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\DataSets\\moviesJSONFile.json",
+              "RelativeToolTip": "MoviesApp\\DataSets\\moviesJSONFile.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T11:51:26.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MoviesApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\appsettings.json",
+              "RelativeToolTip": "MoviesApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-23T12:29:15.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IWatchlistService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IWatchlistService.cs",
+              "RelativeDocumentMoniker": "MoviesApp\\Services\\Interfaces\\IWatchlistService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\Entity Framework Core\\10. Best Practices and Architecture\\MoviesApp\\Services\\Interfaces\\IWatchlistService.cs",
+              "RelativeToolTip": "MoviesApp\\Services\\Interfaces\\IWatchlistService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T13:17:22.914Z"
             }
           ]
         }

@@ -19,9 +19,9 @@ namespace MoviesApp.Utilities
                 throw new FileNotFoundException($"File {fullPath} not found!");
             }
 
-            string jsonFileContent = await File.ReadAllTextAsync(fullPath);
+            string fileContent = await File.ReadAllTextAsync(fullPath);
 
-            return jsonFileContent;
+            return fileContent;
         }
     }
 }

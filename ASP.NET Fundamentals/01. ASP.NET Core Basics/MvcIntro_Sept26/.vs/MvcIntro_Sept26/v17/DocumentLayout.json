@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\01. asp.net core basics\\mvcintro_sept26\\mvcintro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C3E9C1-ABC7-48BC-887E-008CBCC959F6}|MvcIntro\\MvcIntro.csproj|solutionrelative:mvcintro\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcIntro\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "MvcIntro\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T16:31:38.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MvcIntro\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MvcIntro\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T16:28:12.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MvcIntro\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MvcIntro\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-02T16:03:22.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcIntro\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcIntro\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T15:18:40.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MvcIntro\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MvcIntro\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T15:17:38.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcIntro\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcIntro\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-02T12:32:24.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MvcIntro\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MvcIntro\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-02T12:30:13.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Program.cs",
+              "RelativeDocumentMoniker": "MvcIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Program.cs",
+              "RelativeToolTip": "MvcIntro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:29:32.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcIntro\\appsettings.json",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\appsettings.json",
+              "RelativeToolTip": "MvcIntro\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-01T14:29:08.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcIntro\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcIntro\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T21:57:27.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MvcIntro\\ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\01. ASP.NET Core Basics\\MvcIntro_Sept26\\MvcIntro\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "MvcIntro\\ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T22:28:36.26Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
