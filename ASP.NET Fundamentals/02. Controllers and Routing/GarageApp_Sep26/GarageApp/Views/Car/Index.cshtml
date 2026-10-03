@@ -1,0 +1,71 @@
+﻿@using GarageApp.Data.Models
+@model IEnumerable<Car>
+
+@{
+    ViewData["Title"] = "Cars";
+}
+
+<h2>All Cars</h2>
+
+<form asp-controller="Car" asp-action="Index" method="get" class="mb-3">
+    <div class="input-group">
+        <input name="make" class="form-control" placeholder="Search by make (e.g. Audi)" />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+
+@if (!Model.Any())
+{
+    <p>No cars found.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Make</th>
+                <th>Model</th>
+                <th>Production Date</th>
+                <th>Type</th>
+                <th>Available</th>
+                <th>Garage</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Car c in Model)
+            {
+                <tr>
+                    <td>@c.Make</td>
+                    <td>@c.Model</td>
+                    <td>@(c.ProductionMonth.HasValue ? $"{@c.ProductionMonth:D2}/" : null)@c.Year</td>
+                    <td>@c.Type</td>
+                    <td>@(c.IsAvailable ? "Yes" : "No")</td>
+                    <td>
+                        @if (c.Garage != null)
+                        {
+                            <a asp-controller="Garage"
+                               asp-action="Details"
+                               asp-route-id="@c.Garage.Id"
+                               class="btn btn-info">
+                                @c.Garage.Name
+                            </a>
+                        }
+                        else
+                        {
+                            <span>-</span>
+                        }
+                    </td>
+                    <td>
+                        <a asp-controller="Car"
+                           asp-action="Details"
+                           asp-route-id="@c.Id"
+                           class="btn btn-warning">
+                            Details
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
