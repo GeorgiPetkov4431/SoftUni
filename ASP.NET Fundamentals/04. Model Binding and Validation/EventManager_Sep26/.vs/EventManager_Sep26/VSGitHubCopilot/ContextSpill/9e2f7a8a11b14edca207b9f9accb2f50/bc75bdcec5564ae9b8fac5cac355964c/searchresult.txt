@@ -1,0 +1,240 @@
+﻿14 matches found: 
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Data\FootballBettingContext.cs>
+    // Lines 32 to 99
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Data\FootballBettingContext.cs>
+    // Lines 7 to 31
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\Data\MoviesAppDbContext.cs>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/Data/MoviesAppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+using MoviesApp.Models;
+
+namespace MoviesApp.Data
+{
+    public class MoviesAppDbContext : DbContext
+    {
+        public MoviesAppDbContext(DbContextOptions<MoviesAppDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Movie> Movies { get; set; } = null!;
+
+        public DbSet<Watchlist> Watchlists { get; set; } = null!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // If you later want Fluent API config, put it here.
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\05. Advanced Querying\BookShop.Data\BookShopContext.cs>
+    File: `Entity Framework Core/05. Advanced Querying/BookShop.Data/BookShopContext.cs`
+```c#
+/*...*/using System.Reflection;
+
+namespace BookShop.Data
+{
+    using Microsoft.EntityFrameworkCore;
+
+    using Models;
+    using EntityConfiguration;
+    using System.Collections.Generic;
+    using System.Reflection.Emit;
+
+    public class BookShopContext : DbContext
+    {
+        public BookShopContext() { }
+
+        public BookShopContext(DbContextOptions options)
+        : base(options) { }
+
+        public DbSet<Book> Books { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
+
+        public DbSet<Author> Authors { get; set; }
+
+        public DbSet<BookCategory> BooksCategories { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(Configuration.ConnectionString);
+            }
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new AuthorConfiguration());
+            modelBuilder.ApplyConfiguration(new BookCategoryConfiguration());
+            modelBuilder.ApplyConfiguration(new BookConfiguration());
+            modelBuilder.ApplyConfiguration(new CategoryConfiguration());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Data\MoviesAppDbContext.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/Data/MoviesAppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+using MoviesApp.Models;
+
+namespace MoviesApp.Data
+{
+    public class MoviesAppDbContext : DbContext
+    {
+        public MoviesAppDbContext(DbContextOptions<MoviesAppDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Movie> Movies { get; set; } = null!;
+
+        public DbSet<Watchlist> Watchlists { get; set; } = null!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // If you later want Fluent API config, put it here.
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\Program.cs>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/Program.cs`
+```c#
+namespace MoviesApp
+{
+    using Microsoft.EntityFrameworkCore;
+
+    using Data;
+    using Services;
+    using Services.Interfaces;
+
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            WebApplicationBuilder builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddDbContext<MoviesAppDbContext>(options =>
+            {
+                options
+                    .UseSqlServer(builder.Configuration.GetConnectionString("SqlServerDev"));
+            });
+
+            builder.Services.AddScoped<IMoviesService, MoviesService>();
+            builder.Services.AddScoped<IWatchlistService, WatchlistService>();
+            builder.Services.AddScoped<IImportService, ImportService>();
+
+            builder.Services.AddControllersWithViews();
+
+            var app = builder.Build();
+
+            if (!app.Environment.IsDevelopment())
+            {
+                app.UseExceptionHandler("/Home/Error");
+                app.UseHsts();
+            }
+
+            app.UseHttpsRedirection();
+            app.UseStaticFiles();
+
+            app.UseRouting();
+
+            app.UseAuthorization();
+
+            app.MapControllerRoute(
+                name: "default",
+                pattern: "{controller=Movies}/{action=Index}/{id?}");
+
+            app.Run();
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Services\MoviesService.cs>
+    // Lines 12 to 16
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\07. JSON Processing\Product Shop\ProductShop\Data\ProductShopContext.cs>
+    // Lines 6 to 51
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Program.cs>
+    // Lines 11 to 53
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\Program.cs>
+    // Lines 54 to 69
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\Program.cs>
+    // Lines 7 to 69
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\06. Migrations in Entity Framework Core\AcademicRecordsApp\AcademicRecordsApp\Data\Configuration.cs>
+    File: `Entity Framework Core/06. Migrations in Entity Framework Core/AcademicRecordsApp/AcademicRecordsApp/Data/Configuration.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AcademicRecordsApp.Data
+{
+    public class Configuration
+    {
+        public static string ConnectionString
+            => "Server=KINGCRIMSON\\SQLEXPRESS;Database=AcademicRecordsDB;Trusted_Connection=True;Encrypt=False;";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\04. LINQ\MusicHub\Data\Configuration.cs>
+    File: `Entity Framework Core/04. LINQ/MusicHub/Data/Configuration.cs`
+```c#
+/*...*/namespace MusicHub.Data
+{
+    public static class Configuration
+    {
+        public static string ConnectionString =
+            @"Server=KINGCRIMSON\SQLEXPRESS;Database=MusicHub;Trusted_Connection=True;Encrypt=False;";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\Regular Exam\SocialNetwork_Skeleton_NET6\SocialNetwork\Data\Configuration.cs>
+    File: `Entity Framework Core/Regular Exam/SocialNetwork_Skeleton_NET6/SocialNetwork/Data/Configuration.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SocialNetwork.Data
+{
+    public class Configuration
+    {
+        public static string ConnectionString
+            => @"Server=KINGCRIMSON\SQLEXPRESS;Database=SocialNetwork_Jul26;Trusted_Connection=True;Encrypt=False;";
+    }
+}
+
+```
+</match>

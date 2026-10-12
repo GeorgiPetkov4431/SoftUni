@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\02. controllers and routing\\garageapp_sep26\\garageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\02. controllers and routing\\garageapp_sep26\\garageapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\02. controllers and routing\\garageapp_sep26\\garageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\02. controllers and routing\\garageapp_sep26\\garageapp\\views\\car\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\views\\car\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,18 +75,6 @@
       "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\data\\migrations\\20261003210509_initialdbschemadesign.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\02. controllers and routing\\garageapp_sep26\\garageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\02. controllers and routing\\garageapp_sep26\\garageapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\02. controllers and routing\\garageapp_sep26\\garageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\02. controllers and routing\\garageapp_sep26\\garageapp\\data\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1E97AF7-EB62-498C-96C2-AC6A7EFC6D8E}|GarageApp\\GarageApp.csproj|solutionrelative:garageapp\\data\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -126,43 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationConstants.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Common\\ApplicationConstants.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Common\\ApplicationConstants.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Common\\ApplicationConstants.cs",
-              "RelativeToolTip": "GarageApp\\Common\\ApplicationConstants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T22:01:07.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GarageController.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Controllers\\GarageController.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Controllers\\GarageController.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Controllers\\GarageController.cs",
-              "RelativeToolTip": "GarageApp\\Controllers\\GarageController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwB4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T21:49:39.077Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Views\\Garage\\Index.cshtml",
-              "RelativeDocumentMoniker": "GarageApp\\Views\\Garage\\Index.cshtml",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Views\\Garage\\Index.cshtml",
-              "RelativeToolTip": "GarageApp\\Views\\Garage\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-03T22:12:04.97Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CarController.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Controllers\\CarController.cs",
               "RelativeDocumentMoniker": "GarageApp\\Controllers\\CarController.cs",
@@ -174,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Data\\Models\\Car.cs",
               "RelativeDocumentMoniker": "GarageApp\\Data\\Models\\Car.cs",
@@ -186,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GarageApp\\Views\\Shared\\_Layout.cshtml",
@@ -198,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Views\\Car\\Details.cshtml",
               "RelativeDocumentMoniker": "GarageApp\\Views\\Car\\Details.cshtml",
@@ -211,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Views\\Car\\Index.cshtml",
               "RelativeDocumentMoniker": "GarageApp\\Views\\Car\\Index.cshtml",
@@ -223,7 +187,82 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GarageApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\appsettings.Development.json",
+              "RelativeToolTip": "GarageApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T20:43:59.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\appsettings.json",
+              "RelativeDocumentMoniker": "GarageApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\appsettings.json",
+              "RelativeToolTip": "GarageApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-03T20:15:11.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Program.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Program.cs",
+              "RelativeToolTip": "GarageApp\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T15:51:10.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Views\\Garage\\Index.cshtml",
+              "RelativeDocumentMoniker": "GarageApp\\Views\\Garage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Views\\Garage\\Index.cshtml",
+              "RelativeToolTip": "GarageApp\\Views\\Garage\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-03T22:12:04.97Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "GarageController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Controllers\\GarageController.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Controllers\\GarageController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Controllers\\GarageController.cs",
+              "RelativeToolTip": "GarageApp\\Controllers\\GarageController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T21:49:39.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Common\\ApplicationConstants.cs",
+              "RelativeDocumentMoniker": "GarageApp\\Common\\ApplicationConstants.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Common\\ApplicationConstants.cs",
+              "RelativeToolTip": "GarageApp\\Common\\ApplicationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T22:01:07.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Views\\Garage\\Details.cshtml",
               "RelativeDocumentMoniker": "GarageApp\\Views\\Garage\\Details.cshtml",
@@ -247,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "CarConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Data\\Configuration\\CarConfiguration.cs",
               "RelativeDocumentMoniker": "GarageApp\\Data\\Configuration\\CarConfiguration.cs",
@@ -259,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "GarageConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Data\\Configuration\\GarageConfiguration.cs",
               "RelativeDocumentMoniker": "GarageApp\\Data\\Configuration\\GarageConfiguration.cs",
@@ -271,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "20261003210509_InitialDbSchemaDesign.Designer.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Data\\Migrations\\20261003210509_InitialDbSchemaDesign.Designer.cs",
               "RelativeDocumentMoniker": "GarageApp\\Data\\Migrations\\20261003210509_InitialDbSchemaDesign.Designer.cs",
@@ -283,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "GarageAppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Data\\Migrations\\GarageAppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "GarageApp\\Data\\Migrations\\GarageAppDbContextModelSnapshot.cs",
@@ -295,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "GarageAppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Data\\GarageAppDbContext.cs",
               "RelativeDocumentMoniker": "GarageApp\\Data\\GarageAppDbContext.cs",
@@ -307,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "20261003210509_InitialDbSchemaDesign.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Data\\Migrations\\20261003210509_InitialDbSchemaDesign.cs",
               "RelativeDocumentMoniker": "GarageApp\\Data\\Migrations\\20261003210509_InitialDbSchemaDesign.cs",
@@ -316,18 +355,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-03T21:05:09.62Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "GarageApp\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\appsettings.Development.json",
-              "RelativeToolTip": "GarageApp\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-03T20:43:59.751Z"
             },
             {
               "$type": "Document",
@@ -364,30 +391,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-03T20:18:11.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\appsettings.json",
-              "RelativeDocumentMoniker": "GarageApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\appsettings.json",
-              "RelativeToolTip": "GarageApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-03T20:15:11.879Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Program.cs",
-              "RelativeDocumentMoniker": "GarageApp\\Program.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\02. Controllers and Routing\\GarageApp_Sep26\\GarageApp\\Program.cs",
-              "RelativeToolTip": "GarageApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T15:51:10.932Z"
             },
             {
               "$type": "Document",

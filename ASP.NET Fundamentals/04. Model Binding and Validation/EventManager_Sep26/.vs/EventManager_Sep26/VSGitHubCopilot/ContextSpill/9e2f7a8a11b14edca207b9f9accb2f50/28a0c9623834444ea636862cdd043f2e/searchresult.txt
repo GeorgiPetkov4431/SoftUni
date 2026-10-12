@@ -1,0 +1,305 @@
+﻿25 matches found: 
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\Program.cs>
+    // Lines 54 to 69
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\Program.cs>
+    // Lines 7 to 69
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\06. Migrations in Entity Framework Core\AcademicRecordsApp\AcademicRecordsApp\Data\Configuration.cs>
+    File: `Entity Framework Core/06. Migrations in Entity Framework Core/AcademicRecordsApp/AcademicRecordsApp/Data/Configuration.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AcademicRecordsApp.Data
+{
+    public class Configuration
+    {
+        public static string ConnectionString
+            => "Server=KINGCRIMSON\\SQLEXPRESS;Database=AcademicRecordsDB;Trusted_Connection=True;Encrypt=False;";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\06. Migrations in Entity Framework Core\AcademicRecordsApp\AcademicRecordsApp\Data\Configuration.cs>
+    File: `Entity Framework Core/06. Migrations in Entity Framework Core/AcademicRecordsApp/AcademicRecordsApp/Data/Configuration.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace AcademicRecordsApp.Data
+{
+    public class Configuration
+    {
+        public static string ConnectionString
+            => "Server=KINGCRIMSON\\SQLEXPRESS;Database=AcademicRecordsDB;Trusted_Connection=True;Encrypt=False;";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\Regular Exam\SocialNetwork_Skeleton_NET6\SocialNetwork\Data\Configuration.cs>
+    File: `Entity Framework Core/Regular Exam/SocialNetwork_Skeleton_NET6/SocialNetwork/Data/Configuration.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SocialNetwork.Data
+{
+    public class Configuration
+    {
+        public static string ConnectionString
+            => @"Server=KINGCRIMSON\SQLEXPRESS;Database=SocialNetwork_Jul26;Trusted_Connection=True;Encrypt=False;";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\Regular Exam\SocialNetwork_Skeleton_NET6\SocialNetwork\Data\Configuration.cs>
+    File: `Entity Framework Core/Regular Exam/SocialNetwork_Skeleton_NET6/SocialNetwork/Data/Configuration.cs`
+```c#
+/*...*/using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SocialNetwork.Data
+{
+    public class Configuration
+    {
+        public static string ConnectionString
+            => @"Server=KINGCRIMSON\SQLEXPRESS;Database=SocialNetwork_Jul26;Trusted_Connection=True;Encrypt=False;";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\08. XML Processing\Car Dealer\CarDealer\Data\Configuration.cs>
+    File: `Entity Framework Core/08. XML Processing/Car Dealer/CarDealer/Data/Configuration.cs`
+```c#
+/*...*/namespace CarDealer.Data
+{
+    public static class Configuration
+    {
+        public const string ConnectionString = @"Server=KINGCRIMSON\SQLEXPRESS;Database=CarDealer_Jul26;Integrated Security=True;Encrypt=False";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\08. XML Processing\Car Dealer\CarDealer\Data\Configuration.cs>
+    File: `Entity Framework Core/08. XML Processing/Car Dealer/CarDealer/Data/Configuration.cs`
+```c#
+/*...*/namespace CarDealer.Data
+{
+    public static class Configuration
+    {
+        public const string ConnectionString = @"Server=KINGCRIMSON\SQLEXPRESS;Database=CarDealer_Jul26;Integrated Security=True;Encrypt=False";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\07. JSON Processing\Product Shop\ProductShop\Data\Configuration.cs>
+    File: `Entity Framework Core/07. JSON Processing/Product Shop/ProductShop/Data/Configuration.cs`
+```c#
+/*...*/namespace ProductShop.Data
+{
+    public static class Configuration
+    {
+        public const string ConnectionString =
+            @"Server=KINGCRIMSON\SQLEXPRESS;Database=ProductShop_Jul26;Integrated Security=True;Encrypt=False;";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Data\FootballBettingContext.cs>
+    // Lines 7 to 46
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Data\FootballBettingContext.cs>
+    // Lines 32 to 99
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\02. Entity Framework Introduction\EFCore_Introduction\EFCore_Introduction\Data\SoftUniContext.cs>
+    // Lines 8 to 41
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\02. Entity Framework Introduction\EFCore_Introduction\EFCore_Introduction\Data\SoftUniContext.cs>
+    // Lines 8 to 41
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\MS SQL\02. CRUD\databases\SoftUni-Database.sql>
+    File: `MS SQL/02. CRUD/databases/SoftUni-Database.sql`
+```tsql
+-------------------------------------------------------------------
+-- This script will create a sample database "SoftUni" in        --
+-- MS SQL Server and will populate sample data in its tables.    --
+-------------------------------------------------------------------
+
+USE master
+GO
+
+CREATE DATABASE SoftUni
+GO
+
+USE SoftUni
+GO
+
+CREATE TABLE Towns(
+  TownID int IDENTITY NOT NULL,
+  Name VARCHAR(50) NOT NULL,
+  CONSTRAINT PK_Towns PRIMARY KEY CLUSTERED(TownID ASC)
+)
+GO
+
+SET IDENTITY_INSERT Towns ON
+
+INSERT INTO Towns (TownID, Name)
+VALUES (1, 'Redmond')
+
+INSERT INTO Towns (TownID, Name)
+VALUES (2, 'Calgary')
+
+INSERT INTO Towns (TownID, Name)
+VALUES (3, 'Edmonds')
+
+INSERT INTO Towns (TownID, Name)
+VALUES (4, 'Seattle')
+
+INSERT INTO Towns (TownID, Name)
+VALUES (5, 'Bellevue')
+
+INSERT INTO Towns (TownID, Name)
+VALUES (6, 'Issaquah')
+
+INSERT INTO Towns (TownID, Name)
+...
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\03. Entity Relations\P01_StudentSystem\Data\StudentSystemContext.cs>
+    // Lines 12 to 41
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\03. Entity Relations\P01_StudentSystem\Data\StudentSystemContext.cs>
+    // Lines 12 to 41
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\Data\MoviesAppDbContext.cs>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/Data/MoviesAppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+using MoviesApp.Models;
+
+namespace MoviesApp.Data
+{
+    public class MoviesAppDbContext : DbContext
+    {
+        public MoviesAppDbContext(DbContextOptions<MoviesAppDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Movie> Movies { get; set; } = null!;
+
+        public DbSet<Watchlist> Watchlists { get; set; } = null!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // If you later want Fluent API config, put it here.
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Data\MoviesAppDbContext.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/Data/MoviesAppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+using MoviesApp.Models;
+
+namespace MoviesApp.Data
+{
+    public class MoviesAppDbContext : DbContext
+    {
+        public MoviesAppDbContext(DbContextOptions<MoviesAppDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Movie> Movies { get; set; } = null!;
+
+        public DbSet<Watchlist> Watchlists { get; set; } = null!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // If you later want Fluent API config, put it here.
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\Data\Migrations\GarageAppDbContextModelSnapshot.cs>
+    // Lines 17 to 42
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\03. Razor Views and Layouts\BookShelf_Sep26\BookShelf\obj\Debug\net8.0\BookShelf.csproj.FileListAbsolute.txt>
+    File: `.../03. Razor Views and Layouts/BookShelf_Sep26/BookShelf/obj/Debug/net8.0/BookShelf.csproj.FileListAbsolute.txt`
+```text
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\03. Razor Views and Layouts\BookShelf_Sep26\BookShelf\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\03. Razor Views and Layouts\BookShelf_Sep26\BookShelf\bin\Debug\net8.0\appsettings.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\03. Razor Views and Layouts\BookShelf_Sep26\BookShelf\bin\Debug\net8.0\BookShelf.staticwebassets.runtime.json
+...
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\obj\Debug\net8.0\MoviesApp.csproj.FileListAbsolute.txt>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/obj/Debug/net8.0/MoviesApp.csproj.FileListAbsolute.txt`
+```text
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\bin\Debug\net8.0\appsettings.json
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\bin\Debug\net8.0\DataSets\moviesJSONFile.json
+C:\Users\georg\Desktop\SoftUni\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\bin\Debug\net8.0\MoviesApp.staticwebassets.runtime.json
+...
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\obj\Debug\net8.0\GarageApp.csproj.FileListAbsolute.txt>
+    File: `...tals/02. Controllers and Routing/GarageApp_Sep26/GarageApp/obj/Debug/net8.0/GarageApp.csproj.FileListAbsolute.txt`
+```text
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\bin\Debug\net8.0\appsettings.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\bin\Debug\net8.0\GarageApp.staticwebassets.runtime.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\bin\Debug\net8.0\GarageApp.staticwebassets.endpoints.json
+...
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Common\ApplicationConstants.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/Common/ApplicationConstants.cs`
+```c#
+/*...*/namespace MoviesApp.Common
+{
+    public static class ApplicationConstants
+    {
+        public const string DefaultImageUrl =
+            "https://img.freepik.com/free-vector/cinema-film-production-realistic-transparent-composition-with-isolated-image-clapper-with-empty-fields-vector-illustration_1284-66163.jpg?semt=ais_incoming&w=740&q=80";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ProgrammingFundamentals\Basic Web Project\ParkingSystem\obj\Debug\net6.0\ParkingSystem.csproj.FileListAbsolute.txt>
+    // Lines 10 to 15
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\04. LINQ\MusicHub\Initializer\DbInitializer.cs>
+    // Lines 29 to 30
+</match>

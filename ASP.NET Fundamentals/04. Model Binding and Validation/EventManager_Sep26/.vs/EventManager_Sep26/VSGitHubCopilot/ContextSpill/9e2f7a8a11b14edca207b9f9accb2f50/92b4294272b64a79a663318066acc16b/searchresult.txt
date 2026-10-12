@@ -1,0 +1,243 @@
+﻿14 matches found: 
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\Data\MoviesAppDbContext.cs>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/Data/MoviesAppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+using MoviesApp.Models;
+
+namespace MoviesApp.Data
+{
+    public class MoviesAppDbContext : DbContext
+    {
+        public MoviesAppDbContext(DbContextOptions<MoviesAppDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Movie> Movies { get; set; } = null!;
+
+        public DbSet<Watchlist> Watchlists { get; set; } = null!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // If you later want Fluent API config, put it here.
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\Data\MoviesAppDbContext.cs>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/Data/MoviesAppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+using MoviesApp.Models;
+
+namespace MoviesApp.Data
+{
+    public class MoviesAppDbContext : DbContext
+    {
+        public MoviesAppDbContext(DbContextOptions<MoviesAppDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Movie> Movies { get; set; } = null!;
+
+        public DbSet<Watchlist> Watchlists { get; set; } = null!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // If you later want Fluent API config, put it here.
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Data\MoviesAppDbContext.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/Data/MoviesAppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+using MoviesApp.Models;
+
+namespace MoviesApp.Data
+{
+    public class MoviesAppDbContext : DbContext
+    {
+        public MoviesAppDbContext(DbContextOptions<MoviesAppDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Movie> Movies { get; set; } = null!;
+
+        public DbSet<Watchlist> Watchlists { get; set; } = null!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // If you later want Fluent API config, put it here.
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Data\MoviesAppDbContext.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/Data/MoviesAppDbContext.cs`
+```c#
+/*...*/using Microsoft.EntityFrameworkCore;
+using MoviesApp.Models;
+
+namespace MoviesApp.Data
+{
+    public class MoviesAppDbContext : DbContext
+    {
+        public MoviesAppDbContext(DbContextOptions<MoviesAppDbContext> options)
+            : base(options)
+        {
+        }
+
+        public DbSet<Movie> Movies { get; set; } = null!;
+
+        public DbSet<Watchlist> Watchlists { get; set; } = null!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+
+            // If you later want Fluent API config, put it here.
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Data\FootballBettingContext.cs>
+    // Lines 32 to 99
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\03. Entity Relations\P02_FootballBetting.Data\FootballBettingContext.cs>
+    // Lines 32 to 99
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\02. Entity Framework Introduction\EFCore_Introduction\EFCore_Introduction\StartUp.cs>
+    // Lines 12 to 39
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\05. Advanced Querying\BookShop.Data\BookShopContext.cs>
+    File: `Entity Framework Core/05. Advanced Querying/BookShop.Data/BookShopContext.cs`
+```c#
+/*...*/using System.Reflection;
+
+namespace BookShop.Data
+{
+    using Microsoft.EntityFrameworkCore;
+
+    using Models;
+    using EntityConfiguration;
+    using System.Collections.Generic;
+    using System.Reflection.Emit;
+
+    public class BookShopContext : DbContext
+    {
+        public BookShopContext() { }
+
+        public BookShopContext(DbContextOptions options)
+        : base(options) { }
+
+        public DbSet<Book> Books { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
+
+        public DbSet<Author> Authors { get; set; }
+
+        public DbSet<BookCategory> BooksCategories { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(Configuration.ConnectionString);
+            }
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new AuthorConfiguration());
+            modelBuilder.ApplyConfiguration(new BookCategoryConfiguration());
+            modelBuilder.ApplyConfiguration(new BookConfiguration());
+            modelBuilder.ApplyConfiguration(new CategoryConfiguration());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\05. Advanced Querying\BookShop.Data\BookShopContext.cs>
+    File: `Entity Framework Core/05. Advanced Querying/BookShop.Data/BookShopContext.cs`
+```c#
+/*...*/using System.Reflection;
+
+namespace BookShop.Data
+{
+    using Microsoft.EntityFrameworkCore;
+
+    using Models;
+    using EntityConfiguration;
+    using System.Collections.Generic;
+    using System.Reflection.Emit;
+
+    public class BookShopContext : DbContext
+    {
+        public BookShopContext() { }
+
+        public BookShopContext(DbContextOptions options)
+        : base(options) { }
+
+        public DbSet<Book> Books { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
+
+        public DbSet<Author> Authors { get; set; }
+
+        public DbSet<BookCategory> BooksCategories { get; set; }
+
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlServer(Configuration.ConnectionString);
+            }
+        }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new AuthorConfiguration());
+            modelBuilder.ApplyConfiguration(new BookCategoryConfiguration());
+            modelBuilder.ApplyConfiguration(new BookConfiguration());
+            modelBuilder.ApplyConfiguration(new CategoryConfiguration());
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\Data\Migrations\GarageAppDbContextModelSnapshot.cs>
+    // Lines 131 to 162
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\06. Migrations in Entity Framework Core\AcademicRecordsApp\AcademicRecordsApp\Data\AcademicRecordsDbContext.cs>
+    // Lines 24 to 51
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\08. XML Processing\Product Shop\ProductShop\Data\ProductShopContext.cs>
+    // Lines 8 to 48
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\02. Entity Framework Introduction\EFCore_Introduction\EFCore_Introduction\Data\SoftUniContext.cs>
+    // Lines 8 to 41
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\Regular Exam\SocialNetwork_Skeleton_NET6\SocialNetwork\Data\SocialNetworkDbContext.cs>
+    // Lines 7 to 37
+</match>

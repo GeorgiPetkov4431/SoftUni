@@ -1,0 +1,337 @@
+﻿24 matches found: 
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ProgrammingFundamentals\WebProject\WebProject\Controllers\PostController.cs>
+    File: `ProgrammingFundamentals/WebProject/WebProject/Controllers/PostController.cs`
+```c#
+/*...*/using Microsoft.AspNetCore.Mvc;
+using WebProject.Models;
+
+namespace WebProject.Controllers
+{
+    public class PostController : Controller
+    {
+        private static List<PostModel> _posts = new();
+        public IActionResult Index()
+        {
+            return View(_posts);
+        }
+
+        [HttpPost]
+        public IActionResult Index(string title, string description)
+        {
+            PostModel post = new()
+            {
+                Title = title,
+                Description = description
+            };
+            _posts.Add(post);
+
+            return View(_posts);
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ProgrammingFundamentals\WebProject\WebProject\Controllers\PostController.cs>
+    File: `ProgrammingFundamentals/WebProject/WebProject/Controllers/PostController.cs`
+```c#
+/*...*/using Microsoft.AspNetCore.Mvc;
+using WebProject.Models;
+
+namespace WebProject.Controllers
+{
+    public class PostController : Controller
+    {
+        private static List<PostModel> _posts = new();
+        public IActionResult Index()
+        {
+            return View(_posts);
+        }
+
+        [HttpPost]
+        public IActionResult Index(string title, string description)
+        {
+            PostModel post = new()
+            {
+                Title = title,
+                Description = description
+            };
+            _posts.Add(post);
+
+            return View(_posts);
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\Core\Controller.cs>
+    // Lines 57 to 58
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\C# OOP\Regular Exam\LegendsOfValor-TheGuildTrials\Core\Controller.cs>
+    // Lines 17 to 228
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ProgrammingFundamentals\WebProject\WebProject\Controllers\HomeController.cs>
+    File: `ProgrammingFundamentals/WebProject/WebProject/Controllers/HomeController.cs`
+```c#
+using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using WebProject.Models;
+
+namespace WebProject.Controllers
+{
+    public class HomeController : Controller
+    {
+        private readonly ILogger<HomeController> _logger;
+
+        public HomeController(ILogger<HomeController> logger)
+        {
+            _logger = logger;
+        }
+
+        public IActionResult Index()
+        {
+            return View();
+        }
+
+        public IActionResult Privacy()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Numbers()
+        {
+            ViewBag.Count = 0;
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Numbers(int count)
+        {
+            ViewBag.Count = count;
+            return View();
+        }
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Controllers\MoviesController.cs>
+    // Lines 136 to 204
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Controllers\MoviesController.cs>
+    // Lines 48 to 56
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\.vs\EntityFrameworkCore_EF_Core_Essentials_ASP_NET_Oct2025\VSGitHubCopilot\ContextSpill\7ec688a5513f4611a7bc4219284de182\e59f35abf18f4ef19edebe4374e42f17\searchresult.txt>
+    // Lines 276 to 298
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\.vs\EntityFrameworkCore_EF_Core_Essentials_ASP_NET_Oct2025\VSGitHubCopilot\ContextSpill\7ec688a5513f4611a7bc4219284de182\e59f35abf18f4ef19edebe4374e42f17\searchresult.txt>
+    // Lines 276 to 298
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\Controllers\MoviesController.cs>
+    // Lines 26 to 52
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\Controllers\MoviesController.cs>
+    // Lines 26 to 52
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Controllers\WatchlistController.cs>
+    // Lines 19 to 44
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\.vs\EntityFrameworkCore_EF_Core_Essentials_ASP_NET_Oct2025\VSGitHubCopilot\ContextSpill\7ec688a5513f4611a7bc4219284de182\de2a3150c2d64339af6e2983b38b63bb\searchresult.txt>
+    // Lines 209 to 231
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ProgrammingFundamentals\WebProject\WebProject\Views\Post\Index.cshtml>
+    File: `ProgrammingFundamentals/WebProject/WebProject/Views/Post/Index.cshtml`
+```html+razor
+﻿@model List<PostModel>
+
+<h1>Posts</h1>
+
+<h3>Create new post:</h3>
+<form asp-action="Index" method="POST">
+	<div>
+		<input type="text" name="title">
+	</div>
+	<div>
+		<textarea name="description" rows="5" cols="50"></textarea>
+	</div>
+	<button type="submit">Create</button>
+</form>
+
+@foreach(PostModel post in Model)
+{
+	<h4>@post.Title</h4>
+	<div>@post.Description</div>
+	<hr/>
+}
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\03. Razor Views and Layouts\BookShelf_Sep26\BookShelf\Views\Books\Index.cshtml>
+    File: `ASP.NET Fundamentals/03. Razor Views and Layouts/BookShelf_Sep26/BookShelf/Views/Books/Index.cshtml`
+```html+razor
+﻿@model IEnumerable<Book>
+@{
+    ViewData["Title"] = "Books";
+}
+
+<div class="d-flex align-items-center justify-content-between mb-3">
+    <h1 class="mb-0">Books</h1>
+
+    <a class="btn btn-primary" asp-controller="Books" asp-action="Create">
+        + Add Book
+    </a>
+</div>
+
+@if (!Model.Any())
+{
+    <p class="text-muted">No books available.</p>
+}
+else
+{
+    @foreach (var book in Model)
+    {
+        //@await Html.PartialAsync("_BooksPartial", book)
+        <partial name="_BooksPartial" model="book" />
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\02. Controllers and Routing\GarageApp_Sep26\GarageApp\ViewModels\ErrorViewModel.cs>
+    File: `ASP.NET Fundamentals/02. Controllers and Routing/GarageApp_Sep26/GarageApp/ViewModels/ErrorViewModel.cs`
+```c#
+namespace GarageApp.ViewModels
+{
+    public class ErrorViewModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\ViewModels\ErrorViewModel.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/ViewModels/ErrorViewModel.cs`
+```c#
+namespace MoviesApp.ViewModels
+{
+    public class ErrorViewModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\03. Razor Views and Layouts\BookShelf_Sep26\BookShelf\ViewModels\ErrorViewModel.cs>
+    File: `ASP.NET Fundamentals/03. Razor Views and Layouts/BookShelf_Sep26/BookShelf/ViewModels/ErrorViewModel.cs`
+```c#
+namespace BookShelf.ViewModels
+{
+    public class ErrorViewModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\ViewModels\ErrorViewModel.cs>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/ViewModels/ErrorViewModel.cs`
+```c#
+namespace MoviesApp.ViewModels
+{
+    public class ErrorViewModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\ASP.NET Fundamentals\01. ASP.NET Core Basics\MvcIntro_Sept26\MvcIntro\ViewModels\ErrorViewModel.cs>
+    File: `ASP.NET Fundamentals/01. ASP.NET Core Basics/MvcIntro_Sept26/MvcIntro/ViewModels/ErrorViewModel.cs`
+```c#
+namespace MvcIntro.ViewModels
+{
+    public class ErrorViewModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\C# Advanced\Functional Programming\10. Party Reservation Filter Module\Program.cs>
+    // Lines 10 to 46
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\C# Advanced\Functional Programming\10. Party Reservation Filter Module\Program.cs>
+    // Lines 47 to 74
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\wwwroot\js\filterCinemas.js>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/wwwroot/js/filterCinemas.js`
+```javascript
+/*...*/function filterCinemas() {
+    let searchValue = document.getElementById("searchBar").value.toLowerCase();
+    let cityValue = document.getElementById("cityFilter").value.toLowerCase();
+    let cinemas = document.querySelectorAll(".cinema-card");
+
+    cinemas.forEach(cinema => {
+        let cinemaName = cinema.querySelector(".card-title").textContent.toLowerCase();
+        let cinemaCity = cinema.dataset.city.toLowerCase();
+
+        if (
+            (searchValue === "" || cinemaName.includes(searchValue)) &&
+            (cityValue === "" || cinemaCity === cityValue)
+        ) {
+            cinema.style.display = "block";
+        } else {
+            cinema.style.display = "none";
+        }
+    });
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\NovelNest\NovelNest\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\wwwroot\js\filterCinemas.js>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/wwwroot/js/filterCinemas.js`
+```javascript
+/*...*/function filterCinemas() {
+    let searchValue = document.getElementById("searchBar").value.toLowerCase();
+    let cityValue = document.getElementById("cityFilter").value.toLowerCase();
+    let cinemas = document.querySelectorAll(".cinema-card");
+
+    cinemas.forEach(cinema => {
+        let cinemaName = cinema.querySelector(".card-title").textContent.toLowerCase();
+        let cinemaCity = cinema.dataset.city.toLowerCase();
+
+        if (
+            (searchValue === "" || cinemaName.includes(searchValue)) &&
+            (cityValue === "" || cinemaCity === cityValue)
+        ) {
+            cinema.style.display = "block";
+        } else {
+            cinema.style.display = "none";
+        }
+    });
+}
+
+```
+</match>
