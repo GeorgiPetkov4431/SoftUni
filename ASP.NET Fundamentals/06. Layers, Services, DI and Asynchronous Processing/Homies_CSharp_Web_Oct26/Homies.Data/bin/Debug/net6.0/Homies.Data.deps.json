@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Homies.Data/1.0.0": {
+        "dependencies": {
+          "Homies.Data.Models": "1.0.0",
+          "Homies.GCommon": "1.0.0"
+        },
+        "runtime": {
+          "Homies.Data.dll": {}
+        }
+      },
+      "Homies.Data.Models/1.0.0": {
+        "dependencies": {
+          "Homies.GCommon": "1.0.0"
+        },
+        "runtime": {
+          "Homies.Data.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Homies.GCommon/1.0.0": {
+        "runtime": {
+          "Homies.GCommon.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homies.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Homies.Data.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Homies.GCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

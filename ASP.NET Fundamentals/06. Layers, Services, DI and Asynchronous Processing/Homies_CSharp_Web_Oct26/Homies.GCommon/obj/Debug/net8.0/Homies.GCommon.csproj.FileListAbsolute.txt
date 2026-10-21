@@ -1,0 +1,12 @@
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\bin\Debug\net8.0\Homies.GCommon.deps.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\bin\Debug\net8.0\Homies.GCommon.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\bin\Debug\net8.0\Homies.GCommon.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\Homies.GCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\Homies.GCommon.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\Homies.GCommon.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\Homies.GCommon.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\Homies.GCommon.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\Homies.GCommon.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\refint\Homies.GCommon.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\Homies.GCommon.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.GCommon\obj\Debug\net8.0\ref\Homies.GCommon.dll

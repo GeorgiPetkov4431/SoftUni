@@ -1,0 +1,16 @@
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\bin\Debug\net8.0\Homies.ViewModels.deps.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\bin\Debug\net8.0\Homies.ViewModels.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\bin\Debug\net8.0\Homies.ViewModels.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\bin\Debug\net8.0\Homies.GCommon.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\bin\Debug\net8.0\Homies.GCommon.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.ViewModels.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.ViewModels.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.ViewModels.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.ViewModels.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.V.CEE94C95.Up2Date
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.ViewModels.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\refint\Homies.ViewModels.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\Homies.ViewModels.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\06. Layers, Services, DI and Asynchronous Processing\Homies_CSharp_Web_Oct26\Homies.DataTransferObjects\obj\Debug\net8.0\ref\Homies.ViewModels.dll
