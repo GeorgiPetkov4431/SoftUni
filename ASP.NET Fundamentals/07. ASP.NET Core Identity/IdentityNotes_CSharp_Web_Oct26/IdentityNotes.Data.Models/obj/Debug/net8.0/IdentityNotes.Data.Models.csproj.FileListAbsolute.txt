@@ -1,0 +1,16 @@
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\bin\Debug\net8.0\IdentityNotes.Data.Models.deps.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\bin\Debug\net8.0\IdentityNotes.Data.Models.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\bin\Debug\net8.0\IdentityNotes.Data.Models.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\bin\Debug\net8.0\IdentityNotes.Common.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\bin\Debug\net8.0\IdentityNotes.Common.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\IdentityNotes.Data.Models.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\IdentityNotes.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\IdentityNotes.Data.Models.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\IdentityNotes.Data.Models.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\IdentityNotes.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\IdentityNotes.Data.Models.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\Identity.C1978BEC.Up2Date
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\IdentityNotes.Data.Models.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\refint\IdentityNotes.Data.Models.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\IdentityNotes.Data.Models.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\07. ASP.NET Core Identity\IdentityNotes_CSharp_Web_Oct26\IdentityNotes.Data.Models\obj\Debug\net8.0\ref\IdentityNotes.Data.Models.dll

@@ -163,5 +163,1626 @@
     "C:\\Users\\georg\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\georg\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Config.Msi' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\Documents and Settings' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Access to the path 'C:\\System Volume Information' is denied.",
+      "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\05. URLs and Views\\GameZone\\GameZone.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
