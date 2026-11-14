@@ -70,8 +70,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -80,7 +92,7 @@
               "RelativeDocumentMoniker": "IdentityNotes\\Views\\Note\\Edit.cshtml",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\07. ASP.NET Core Identity\\IdentityNotes_CSharp_Web_Oct26\\IdentityNotes\\Views\\Note\\Edit.cshtml",
               "RelativeToolTip": "IdentityNotes\\Views\\Note\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-23T18:01:24.817Z",
               "EditorCaption": ""
@@ -140,7 +152,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "IdentityNotes.Services",
+              "Title": "IdentityNotes.Services.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\07. ASP.NET Core Identity\\IdentityNotes_CSharp_Web_Oct26\\IdentityNotes.Services\\IdentityNotes.Services.csproj",
               "RelativeDocumentMoniker": "IdentityNotes.Services\\IdentityNotes.Services.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\07. ASP.NET Core Identity\\IdentityNotes_CSharp_Web_Oct26\\IdentityNotes.Services\\IdentityNotes.Services.csproj",
@@ -158,7 +170,7 @@
               "RelativeDocumentMoniker": "IdentityNotes.Services\\NoteService.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\07. ASP.NET Core Identity\\IdentityNotes_CSharp_Web_Oct26\\IdentityNotes.Services\\NoteService.cs",
               "RelativeToolTip": "IdentityNotes.Services\\NoteService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T17:24:57.257Z",
               "EditorCaption": ""
@@ -192,7 +204,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "IdentityNotes.Services.Data",
+              "Title": "IdentityNotes.Services.Data.csproj",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\07. ASP.NET Core Identity\\IdentityNotes_CSharp_Web_Oct26\\IdentityNotes.Services.Data\\IdentityNotes.Services.Data.csproj",
               "RelativeDocumentMoniker": "IdentityNotes.Services.Data\\IdentityNotes.Services.Data.csproj",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\07. ASP.NET Core Identity\\IdentityNotes_CSharp_Web_Oct26\\IdentityNotes.Services.Data\\IdentityNotes.Services.Data.csproj",
@@ -201,18 +213,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2026-10-23T17:20:08.688Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
@@ -235,7 +235,7 @@
               "RelativeDocumentMoniker": "IdentityNotes\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\07. ASP.NET Core Identity\\IdentityNotes_CSharp_Web_Oct26\\IdentityNotes\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "IdentityNotes\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAIBJwCcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-23T17:12:34.887Z",
               "EditorCaption": ""
@@ -274,7 +274,7 @@
               "RelativeDocumentMoniker": "IdentityNotes\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\07. ASP.NET Core Identity\\IdentityNotes_CSharp_Web_Oct26\\IdentityNotes\\Controllers\\HomeController.cs",
               "RelativeToolTip": "IdentityNotes\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA8AAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T17:08:53.782Z",
               "EditorCaption": ""

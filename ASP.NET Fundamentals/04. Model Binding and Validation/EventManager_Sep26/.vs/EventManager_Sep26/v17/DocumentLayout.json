@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\data\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\data\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -39,20 +51,12 @@
       "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\viewmodels\\category\\categorydropdownviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\viewmodels\\category\\categorydropdownviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\data\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\viewmodels\\events\\eventindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -105,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\data\\configuration\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\data\\configuration\\eventconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\04. model binding and validation\\eventmanager_sep26\\eventmanager\\data\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FA2BD48-29EE-4CEE-8371-6039302CADAB}|EventManager\\EventManager.csproj|solutionrelative:eventmanager\\data\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -118,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,46 +134,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EventManager\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "EventManager\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAB3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-12T00:27:11.918Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EventFormModel.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\ViewModels\\Events\\EventFormModel.cs",
-              "RelativeDocumentMoniker": "EventManager\\ViewModels\\Events\\EventFormModel.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\ViewModels\\Events\\EventFormModel.cs",
-              "RelativeToolTip": "EventManager\\ViewModels\\Events\\EventFormModel.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCkAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T22:48:14.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Events\\Create.cshtml",
-              "RelativeDocumentMoniker": "EventManager\\Views\\Events\\Create.cshtml",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Events\\Create.cshtml",
-              "RelativeToolTip": "EventManager\\Views\\Events\\Create.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-11T22:47:16.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "EventsController.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Controllers\\EventsController.cs",
               "RelativeDocumentMoniker": "EventManager\\Controllers\\EventsController.cs",
@@ -181,12 +155,11 @@
               "RelativeToolTip": "EventManager\\Controllers\\EventsController.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAUwDEAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T21:51:14.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T21:51:14.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EventManager\\Controllers\\HomeController.cs",
@@ -194,12 +167,11 @@
               "RelativeToolTip": "EventManager\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T14:59:06.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T14:59:06.503Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ApplicationConstants.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Common\\ApplicationConstants.cs",
               "RelativeDocumentMoniker": "EventManager\\Common\\ApplicationConstants.cs",
@@ -207,12 +179,11 @@
               "RelativeToolTip": "EventManager\\Common\\ApplicationConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T21:48:02.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T21:48:02.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "EntityValidation.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Common\\EntityValidation.cs",
               "RelativeDocumentMoniker": "EventManager\\Common\\EntityValidation.cs",
@@ -220,38 +191,37 @@
               "RelativeToolTip": "EventManager\\Common\\EntityValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T13:19:03.217Z",
+              "WhenOpened": "2026-10-11T13:19:03.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "EventManager\\Data\\Models\\Registration.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Registration.cs",
+              "RelativeToolTip": "EventManager\\Data\\Models\\Registration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:58:18.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventManager\\Data\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Event.cs",
+              "RelativeToolTip": "EventManager\\Data\\Models\\Event.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T13:16:46.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Events\\Index.cshtml",
-              "RelativeDocumentMoniker": "EventManager\\Views\\Events\\Index.cshtml",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Events\\Index.cshtml",
-              "RelativeToolTip": "EventManager\\Views\\Events\\Index.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-11T17:41:50.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "EventManager\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "EventManager\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-11T12:04:42.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Category.cs",
               "RelativeDocumentMoniker": "EventManager\\Data\\Models\\Category.cs",
@@ -265,6 +235,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventManager\\Views\\Events\\Create.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "EventManager\\Views\\Events\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T22:47:16.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventFormModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\ViewModels\\Events\\EventFormModel.cs",
+              "RelativeDocumentMoniker": "EventManager\\ViewModels\\Events\\EventFormModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\ViewModels\\Events\\EventFormModel.cs",
+              "RelativeToolTip": "EventManager\\ViewModels\\Events\\EventFormModel.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T22:48:14.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventManager\\Views\\Events\\Index.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "EventManager\\Views\\Events\\Index.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T17:41:50.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EventManager\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EventManager\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-11T12:04:42.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "CategoryDropdownViewModel.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\ViewModels\\Category\\CategoryDropdownViewModel.cs",
               "RelativeDocumentMoniker": "EventManager\\ViewModels\\Category\\CategoryDropdownViewModel.cs",
@@ -272,12 +290,11 @@
               "RelativeToolTip": "EventManager\\ViewModels\\Category\\CategoryDropdownViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T23:23:09.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T23:23:09.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "EventManager\\Views\\Shared\\Error.cshtml",
@@ -285,25 +302,11 @@
               "RelativeToolTip": "EventManager\\Views\\Shared\\Error.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-11T23:23:11.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T23:23:11.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "EventManager\\Data\\Models\\Event.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Event.cs",
-              "RelativeToolTip": "EventManager\\Data\\Models\\Event.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAA5wCMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T13:16:46.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "EventIndexViewModel.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\ViewModels\\Events\\EventIndexViewModel.cs",
               "RelativeDocumentMoniker": "EventManager\\ViewModels\\Events\\EventIndexViewModel.cs",
@@ -311,12 +314,11 @@
               "RelativeToolTip": "EventManager\\ViewModels\\Events\\EventIndexViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T20:09:37.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T20:09:37.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "EventManagerDbContext.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\EventManagerDbContext.cs",
               "RelativeDocumentMoniker": "EventManager\\Data\\EventManagerDbContext.cs",
@@ -324,12 +326,11 @@
               "RelativeToolTip": "EventManager\\Data\\EventManagerDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T14:30:57.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T14:30:57.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\ViewModels\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "EventManager\\ViewModels\\ErrorViewModel.cs",
@@ -337,12 +338,11 @@
               "RelativeToolTip": "EventManager\\ViewModels\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T12:04:32.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T12:04:32.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Program.cs",
               "RelativeDocumentMoniker": "EventManager\\Program.cs",
@@ -350,12 +350,11 @@
               "RelativeToolTip": "EventManager\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T12:04:04.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-11T12:04:04.205Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\appsettings.json",
               "RelativeDocumentMoniker": "EventManager\\appsettings.json",
@@ -367,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "20261011151720_InitialDbSchemaDesignAndSeed.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Migrations\\20261011151720_InitialDbSchemaDesignAndSeed.cs",
               "RelativeDocumentMoniker": "EventManager\\Migrations\\20261011151720_InitialDbSchemaDesignAndSeed.cs",
@@ -378,7 +377,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\appsettings.Development.json",
               "RelativeDocumentMoniker": "EventManager\\appsettings.Development.json",
@@ -390,7 +389,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "20261011151720_InitialDbSchemaDesignAndSeed.Designer.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Migrations\\20261011151720_InitialDbSchemaDesignAndSeed.Designer.cs",
               "RelativeDocumentMoniker": "EventManager\\Data\\Migrations\\20261011151720_InitialDbSchemaDesignAndSeed.Designer.cs",
@@ -402,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "20261011151720_InitialDbSchemaDesignAndSeed.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Migrations\\20261011151720_InitialDbSchemaDesignAndSeed.cs",
               "RelativeDocumentMoniker": "EventManager\\Data\\Migrations\\20261011151720_InitialDbSchemaDesignAndSeed.cs",
@@ -414,7 +413,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "EventManagerDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Migrations\\EventManagerDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "EventManager\\Data\\Migrations\\EventManagerDbContextModelSnapshot.cs",
@@ -426,7 +425,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "20261011151557_TestMigration.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Migrations\\20261011151557_TestMigration.cs",
               "RelativeDocumentMoniker": "EventManager\\Data\\Migrations\\20261011151557_TestMigration.cs",
@@ -437,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "CategoryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Configuration\\CategoryConfiguration.cs",
               "RelativeDocumentMoniker": "EventManager\\Data\\Configuration\\CategoryConfiguration.cs",
@@ -449,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "EventConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Configuration\\EventConfiguration.cs",
               "RelativeDocumentMoniker": "EventManager\\Data\\Configuration\\EventConfiguration.cs",
@@ -458,18 +457,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-11T14:48:52.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Registration.cs",
-              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Registration.cs",
-              "RelativeDocumentMoniker": "EventManager\\Data\\Models\\Registration.cs",
-              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\04. Model Binding and Validation\\EventManager_Sep26\\EventManager\\Data\\Models\\Registration.cs",
-              "RelativeToolTip": "EventManager\\Data\\Models\\Registration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T13:58:18.886Z"
             }
           ]
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityNotes.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d619c1e02c7a94646a63c5909d7f84dcc239528")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c96e4d25626a39a037e140a6cfb8615de1077e6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityNotes.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityNotes.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

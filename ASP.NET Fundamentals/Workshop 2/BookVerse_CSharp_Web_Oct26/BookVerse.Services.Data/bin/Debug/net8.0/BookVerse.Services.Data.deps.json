@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BookVerse.Services.Data/1.0.0": {
+        "runtime": {
+          "BookVerse.Services.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BookVerse.Services.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

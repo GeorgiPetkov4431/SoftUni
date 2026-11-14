@@ -1,0 +1,16 @@
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\bin\Debug\net8.0\BookVerse.DataModels.deps.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\bin\Debug\net8.0\BookVerse.DataModels.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\bin\Debug\net8.0\BookVerse.DataModels.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\bin\Debug\net8.0\BookVerse.GCommon.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\bin\Debug\net8.0\BookVerse.GCommon.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVerse.DataModels.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVerse.DataModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVerse.DataModels.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVerse.DataModels.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVerse.DataModels.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVerse.DataModels.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVers.4288B925.Up2Date
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVerse.DataModels.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\refint\BookVerse.DataModels.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\BookVerse.DataModels.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.DataModels\obj\Debug\net8.0\ref\BookVerse.DataModels.dll

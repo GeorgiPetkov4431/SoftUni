@@ -1,0 +1,762 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.core\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|solutionrelative:bookverse.services.core\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.core\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|solutionrelative:bookverse.services.core\\contracts\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\request\\addtomybooksrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\request\\addtomybooksrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\response\\getmybooksresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\response\\getmybooksresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\views\\book\\mybooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\views\\book\\mybooks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.viewmodels\\readinglist\\bookmybooksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|solutionrelative:bookverse.viewmodels\\readinglist\\bookmybooksviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4EDE43-9340-428D-8893-1541C0EF90DD}|BookVerse.GCommon\\BookVerse.GCommon.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.gcommon\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4EDE43-9340-428D-8893-1541C0EF90DD}|BookVerse.GCommon\\BookVerse.GCommon.csproj|solutionrelative:bookverse.gcommon\\applicationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\response\\getbookdetailsresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\response\\getbookdetailsresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\request\\isbookpublisherrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\request\\isbookpublisherrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\request\\isbooksavedrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\request\\isbooksavedrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.viewmodels\\book\\bookdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|solutionrelative:bookverse.viewmodels\\book\\bookdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.core\\contracts\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|solutionrelative:bookverse.services.core\\contracts\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\request\\addnewbookrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\request\\addnewbookrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.core\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7B676C-2D77-44C2-835C-ECEE12A6728E}|BookVerse.Services.Core\\BookVerse.Services.Core.csproj|solutionrelative:bookverse.services.core\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F3F681-E317-49E9-9E51-C16C34C1FE0E}|BookVerse.DataModels\\BookVerse.DataModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.datamodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F3F681-E317-49E9-9E51-C16C34C1FE0E}|BookVerse.DataModels\\BookVerse.DataModels.csproj|solutionrelative:bookverse.datamodels\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\genre\\response\\getallgenresresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\genre\\response\\getallgenresresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.viewmodels\\book\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|solutionrelative:bookverse.viewmodels\\book\\bookindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.viewmodels\\book\\bookcreateinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|solutionrelative:bookverse.viewmodels\\book\\bookcreateinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B4EDE43-9340-428D-8893-1541C0EF90DD}|BookVerse.GCommon\\BookVerse.GCommon.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.gcommon\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B4EDE43-9340-428D-8893-1541C0EF90DD}|BookVerse.GCommon\\BookVerse.GCommon.csproj|solutionrelative:bookverse.gcommon\\validationconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.data\\configuration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|solutionrelative:bookverse.data\\configuration\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\request\\getuserslistedbookrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\request\\getuserslistedbookrequestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\response\\getallbooksresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\response\\getallbooksresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\book\\response\\getuserslistedbookresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\book\\response\\getuserslistedbookresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.services.data\\bookverse.services.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7C98B458-5D14-4A08-945E-52485E18EA6D}|BookVerse.Services.Data\\BookVerse.Services.Data.csproj|solutionrelative:bookverse.services.data\\bookverse.services.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|solutionrelative:bookverse.data\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F3F681-E317-49E9-9E51-C16C34C1FE0E}|BookVerse.DataModels\\BookVerse.DataModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.datamodels\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F3F681-E317-49E9-9E51-C16C34C1FE0E}|BookVerse.DataModels\\BookVerse.DataModels.csproj|solutionrelative:bookverse.datamodels\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F3F681-E317-49E9-9E51-C16C34C1FE0E}|BookVerse.DataModels\\BookVerse.DataModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.datamodels\\userbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F3F681-E317-49E9-9E51-C16C34C1FE0E}|BookVerse.DataModels\\BookVerse.DataModels.csproj|solutionrelative:bookverse.datamodels\\userbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Migrations\\20261112002459_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookVerse.Data\\Migrations\\20261112002459_Initial_Create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.data\\configuration\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|solutionrelative:bookverse.data\\configuration\\genreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.data\\bookversedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|solutionrelative:bookverse.data\\bookversedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.viewmodels\\bookverse.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|solutionrelative:bookverse.viewmodels\\bookverse.viewmodels.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.viewmodels\\genre\\genreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F9535FE-2347-4BDA-BE13-2E39E8AECB85}|BookVerse.ViewModels\\BookVerse.ViewModels.csproj|solutionrelative:bookverse.viewmodels\\genre\\genreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6655188C-B9D5-84B2-F2B6-80A595633A9A}|BookVerse.Web\\BookVerse.Web.csproj|solutionrelative:bookverse.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|c:\\users\\georg\\desktop\\softuni\\asp.net fundamentals\\workshop 2\\bookverse_csharp_web_oct26\\bookverse.data\\migrations\\20261112002646_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D81E3282-A38E-4F0F-92F1-27A92ACB0E9A}|BookVerse.Data\\BookVerse.Data.csproj|solutionrelative:bookverse.data\\migrations\\20261112002646_initial_create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddToMyBooksRequestData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\AddToMyBooksRequestData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Request\\AddToMyBooksRequestData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\AddToMyBooksRequestData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Request\\AddToMyBooksRequestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:42:42.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetMyBooksResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Response\\GetMyBooksResponseData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Response\\GetMyBooksResponseData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Response\\GetMyBooksResponseData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Response\\GetMyBooksResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:28:58.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyBooks.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Views\\Book\\MyBooks.cshtml",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Views\\Book\\MyBooks.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Views\\Book\\MyBooks.cshtml",
+              "RelativeToolTip": "BookVerse.Web\\Views\\Book\\MyBooks.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-14T03:23:22.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Core\\BookService.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Core\\BookService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Core\\BookService.cs",
+              "RelativeToolTip": "BookVerse.Services.Core\\BookService.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAADwv80AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:21:03.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookVerse.Web\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAswPgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T00:59:08.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Core\\Contracts\\IBookService.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Core\\Contracts\\IBookService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Core\\Contracts\\IBookService.cs",
+              "RelativeToolTip": "BookVerse.Services.Core\\Contracts\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:15:38.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "BookVerse.Web\\Views\\Book\\Details.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACYAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-14T02:43:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BookVerse.Web\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAADgvy0AAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-12T01:09:16.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookMyBooksViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\ReadingList\\BookMyBooksViewModel.cs",
+              "RelativeDocumentMoniker": "BookVerse.ViewModels\\ReadingList\\BookMyBooksViewModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\ReadingList\\BookMyBooksViewModel.cs",
+              "RelativeToolTip": "BookVerse.ViewModels\\ReadingList\\BookMyBooksViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:45:08.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetBookDetailsResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Response\\GetBookDetailsResponseData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Response\\GetBookDetailsResponseData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Response\\GetBookDetailsResponseData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Response\\GetBookDetailsResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:58:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IsBookPublisherRequestData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\IsBookPublisherRequestData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Request\\IsBookPublisherRequestData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\IsBookPublisherRequestData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Request\\IsBookPublisherRequestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:00:46.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.GCommon\\ApplicationConstants.cs",
+              "RelativeDocumentMoniker": "BookVerse.GCommon\\ApplicationConstants.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.GCommon\\ApplicationConstants.cs",
+              "RelativeToolTip": "BookVerse.GCommon\\ApplicationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:34:18.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IsBookSavedRequestData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\IsBookSavedRequestData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Request\\IsBookSavedRequestData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\IsBookSavedRequestData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Request\\IsBookSavedRequestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T03:00:00.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookDetailsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\Book\\BookDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "BookVerse.ViewModels\\Book\\BookDetailsViewModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\Book\\BookDetailsViewModel.cs",
+              "RelativeToolTip": "BookVerse.ViewModels\\Book\\BookDetailsViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:54:04.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddNewBookRequestData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\AddNewBookRequestData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Request\\AddNewBookRequestData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\AddNewBookRequestData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Request\\AddNewBookRequestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:35:33.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Core\\Contracts\\IGenreService.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Core\\Contracts\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Core\\Contracts\\IGenreService.cs",
+              "RelativeToolTip": "BookVerse.Services.Core\\Contracts\\IGenreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:03:41.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Core\\GenreService.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Core\\GenreService.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Core\\GenreService.cs",
+              "RelativeToolTip": "BookVerse.Services.Core\\GenreService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA/wCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:05:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.DataModels\\Book.cs",
+              "RelativeDocumentMoniker": "BookVerse.DataModels\\Book.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.DataModels\\Book.cs",
+              "RelativeToolTip": "BookVerse.DataModels\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:06:22.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Program.cs",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Program.cs",
+              "RelativeToolTip": "BookVerse.Web\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwB8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:10:35.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllGenresResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Genre\\Response\\GetAllGenresResponseData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Genre\\Response\\GetAllGenresResponseData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Genre\\Response\\GetAllGenresResponseData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Genre\\Response\\GetAllGenresResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-14T02:04:26.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookCreateInputModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\Book\\BookCreateInputModel.cs",
+              "RelativeDocumentMoniker": "BookVerse.ViewModels\\Book\\BookCreateInputModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\Book\\BookCreateInputModel.cs",
+              "RelativeToolTip": "BookVerse.ViewModels\\Book\\BookCreateInputModel.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:44:22.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BookVerse.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwA8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:32:49.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "BookVerse.Web\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-13T21:03:07.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BookIndexViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\Book\\BookIndexViewModel.cs",
+              "RelativeDocumentMoniker": "BookVerse.ViewModels\\Book\\BookIndexViewModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\Book\\BookIndexViewModel.cs",
+              "RelativeToolTip": "BookVerse.ViewModels\\Book\\BookIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:09:43.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ValidationConstants.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.GCommon\\ValidationConstants.cs",
+              "RelativeDocumentMoniker": "BookVerse.GCommon\\ValidationConstants.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.GCommon\\ValidationConstants.cs",
+              "RelativeToolTip": "BookVerse.GCommon\\ValidationConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T14:52:29.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Configuration\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "BookVerse.Data\\Configuration\\BookConfiguration.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Configuration\\BookConfiguration.cs",
+              "RelativeToolTip": "BookVerse.Data\\Configuration\\BookConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T23:59:09.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "BookVerse.Web\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "BookVerse.Web\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:48:02.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetUsersListedBookRequestData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\GetUsersListedBookRequestData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Request\\GetUsersListedBookRequestData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Request\\GetUsersListedBookRequestData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Request\\GetUsersListedBookRequestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:19:57.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetAllBooksResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Response\\GetAllBooksResponseData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Response\\GetAllBooksResponseData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Response\\GetAllBooksResponseData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Response\\GetAllBooksResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:15:53.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GetUsersListedBookResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Response\\GetUsersListedBookResponseData.cs",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\Book\\Response\\GetUsersListedBookResponseData.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\Book\\Response\\GetUsersListedBookResponseData.cs",
+              "RelativeToolTip": "BookVerse.Services.Data\\Book\\Response\\GetUsersListedBookResponseData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T01:18:41.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookVerse.Services.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\BookVerse.Services.Data.csproj",
+              "RelativeDocumentMoniker": "BookVerse.Services.Data\\BookVerse.Services.Data.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Services.Data\\BookVerse.Services.Data.csproj",
+              "RelativeToolTip": "BookVerse.Services.Data\\BookVerse.Services.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-12T01:14:47.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20261112002459_Initial_Create.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Migrations\\20261112002459_Initial_Create.cs",
+              "RelativeDocumentMoniker": "BookVerse.Data\\Migrations\\20261112002459_Initial_Create.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Migrations\\20261112002459_Initial_Create.cs",
+              "RelativeToolTip": "BookVerse.Data\\Migrations\\20261112002459_Initial_Create.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T00:24:59.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GenreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Configuration\\GenreConfiguration.cs",
+              "RelativeDocumentMoniker": "BookVerse.Data\\Configuration\\GenreConfiguration.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Configuration\\GenreConfiguration.cs",
+              "RelativeToolTip": "BookVerse.Data\\Configuration\\GenreConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:14:15.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserBook.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.DataModels\\UserBook.cs",
+              "RelativeDocumentMoniker": "BookVerse.DataModels\\UserBook.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.DataModels\\UserBook.cs",
+              "RelativeToolTip": "BookVerse.DataModels\\UserBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:10:08.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "BookVerse.Data\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "BookVerse.Data\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T19:10:58.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.DataModels\\Genre.cs",
+              "RelativeDocumentMoniker": "BookVerse.DataModels\\Genre.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.DataModels\\Genre.cs",
+              "RelativeToolTip": "BookVerse.DataModels\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T15:09:59.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20261112002646_Initial_Create.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Migrations\\20261112002646_Initial_Create.cs",
+              "RelativeDocumentMoniker": "BookVerse.Data\\Migrations\\20261112002646_Initial_Create.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\Migrations\\20261112002646_Initial_Create.cs",
+              "RelativeToolTip": "BookVerse.Data\\Migrations\\20261112002646_Initial_Create.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T00:26:46.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BookVerseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\BookVerseDbContext.cs",
+              "RelativeDocumentMoniker": "BookVerse.Data\\BookVerseDbContext.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Data\\BookVerseDbContext.cs",
+              "RelativeToolTip": "BookVerse.Data\\BookVerseDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T11:10:07.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BookVerse.ViewModels.csproj",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\BookVerse.ViewModels.csproj",
+              "RelativeDocumentMoniker": "BookVerse.ViewModels\\BookVerse.ViewModels.csproj",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\BookVerse.ViewModels.csproj",
+              "RelativeToolTip": "BookVerse.ViewModels\\BookVerse.ViewModels.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-11T16:44:56.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GenreViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\Genre\\GenreViewModel.cs",
+              "RelativeDocumentMoniker": "BookVerse.ViewModels\\Genre\\GenreViewModel.cs",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.ViewModels\\Genre\\GenreViewModel.cs",
+              "RelativeToolTip": "BookVerse.ViewModels\\Genre\\GenreViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T16:45:03.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "BookVerse.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "BookVerse.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAIYrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-05T10:16:30.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "BookVerse.Web\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "BookVerse.Web\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-05T10:14:58.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "BookVerse.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\appsettings.json",
+              "RelativeToolTip": "BookVerse.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-05T10:08:22.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "BookVerse.Web\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Fundamentals\\Workshop 2\\BookVerse_CSharp_Web_Oct26\\BookVerse.Web\\appsettings.Development.json",
+              "RelativeToolTip": "BookVerse.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-03T11:12:11.663Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

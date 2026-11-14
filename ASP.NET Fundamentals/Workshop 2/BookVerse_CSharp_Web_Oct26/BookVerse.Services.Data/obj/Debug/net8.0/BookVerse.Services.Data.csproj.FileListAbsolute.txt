@@ -1,0 +1,12 @@
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\bin\Debug\net8.0\BookVerse.Services.Data.deps.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\bin\Debug\net8.0\BookVerse.Services.Data.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\bin\Debug\net8.0\BookVerse.Services.Data.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\BookVerse.Services.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\BookVerse.Services.Data.AssemblyInfoInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\BookVerse.Services.Data.AssemblyInfo.cs
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\BookVerse.Services.Data.csproj.CoreCompileInputs.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\BookVerse.Services.Data.sourcelink.json
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\BookVerse.Services.Data.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\refint\BookVerse.Services.Data.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\BookVerse.Services.Data.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.Services.Data\obj\Debug\net8.0\ref\BookVerse.Services.Data.dll
