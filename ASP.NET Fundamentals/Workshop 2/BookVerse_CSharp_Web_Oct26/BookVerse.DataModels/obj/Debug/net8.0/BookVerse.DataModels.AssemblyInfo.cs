@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookVerse.DataModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c96e4d25626a39a037e140a6cfb8615de1077e6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06dbd09d5ad2843d89b3d063dce3d7631783547f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookVerse.DataModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookVerse.DataModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,19 @@
+﻿using CinemaApp.Data.Models;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
+namespace CinemaApp.Data.Configuration
+{
+    public class MovieConfiguration : IEntityTypeConfiguration<Movie>
+    {
+        public static readonly IEnumerable<Movie> MoviesSeedData = new List<Movie>()
+        {
+
+        };
+
+        public void Configure(EntityTypeBuilder<Movie> builder)
+        {
+            throw new NotImplementedException();
+        }
+    }
+}

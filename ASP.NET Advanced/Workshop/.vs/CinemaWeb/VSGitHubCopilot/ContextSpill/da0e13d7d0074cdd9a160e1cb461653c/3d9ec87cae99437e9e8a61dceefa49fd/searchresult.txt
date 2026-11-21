@@ -1,0 +1,250 @@
+﻿20 matches found: 
+<match path=C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\05. URLs and Views\GameZone\Common\ApplicationConstants.cs>
+    File: `ASP.NET Fundamentals/05. URLs and Views/GameZone/Common/ApplicationConstants.cs`
+```c#
+/*...*/namespace GameZone.Common
+{
+    public static class ApplicationConstants
+    {
+        public const string ApplicationDateFormat = "dd/MM/yyyy";
+        public const int EntitiesPerPage = 25;
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\05. URLs and Views\GameZone\Common\ApplicationConstants.cs>
+    File: `ASP.NET Fundamentals/05. URLs and Views/GameZone/Common/ApplicationConstants.cs`
+```c#
+/*...*/namespace GameZone.Common
+{
+    public static class ApplicationConstants
+    {
+        public const string ApplicationDateFormat = "dd/MM/yyyy";
+        public const int EntitiesPerPage = 25;
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\05. Football Team Generator\Models\Player.cs>
+    // Lines 10 to 59
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\C# OOP\Encapsulation\05. Football Team Generator\Models\Player.cs>
+    // Lines 10 to 59
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.GCommon\ValidationConstants.cs>
+    File: `ASP.NET Fundamentals/Workshop 2/BookVerse_CSharp_Web_Oct26/BookVerse.GCommon/ValidationConstants.cs`
+```c#
+/*...*/namespace BookVerse.GCommon
+{
+    public static class ValidationConstants
+    {
+        public static class Book
+        {
+            public const int TitleMinLength = 3;
+            public const int TitleMaxLength = 80;
+            public const int DescriptionMinLength = 10;
+            public const int DescriptionMaxLength = 250;
+            public const int CoverImageUrlMaxLength = 2048;
+            public const string PublishedOnColumnType = "smalldatetime";
+        }
+
+        public static class Genre
+        {
+            public const int NameMin = 3;
+            public const int NameMax = 20;
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\Workshop 2\BookVerse_CSharp_Web_Oct26\BookVerse.GCommon\ValidationConstants.cs>
+    File: `ASP.NET Fundamentals/Workshop 2/BookVerse_CSharp_Web_Oct26/BookVerse.GCommon/ValidationConstants.cs`
+```c#
+/*...*/namespace BookVerse.GCommon
+{
+    public static class ValidationConstants
+    {
+        public static class Book
+        {
+            public const int TitleMinLength = 3;
+            public const int TitleMaxLength = 80;
+            public const int DescriptionMinLength = 10;
+            public const int DescriptionMaxLength = 250;
+            public const int CoverImageUrlMaxLength = 2048;
+            public const string PublishedOnColumnType = "smalldatetime";
+        }
+
+        public static class Genre
+        {
+            public const int NameMin = 3;
+            public const int NameMax = 20;
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\C# OOP\Regular Exam\MythicLegion\Program.cs>
+    File: `C# OOP/Regular Exam/MythicLegion/Program.cs`
+```c#
+/*...*/namespace MythicLegion
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            
+        }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\05. URLs and Views\GameZone\Data\Configurations\GenreConfiguration.cs>
+    // Lines 8 to 32
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\obj\Debug\net8.0\scopedcss\projectbundle\MoviesApp.bundle.scp.css>
+    // Lines 23 to 49
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\ASP.NET Fundamentals\03. Razor Views and Layouts\BookShelf_Sep26\BookShelf\Common\ApplicationConstants.cs>
+    File: `ASP.NET Fundamentals/03. Razor Views and Layouts/BookShelf_Sep26/BookShelf/Common/ApplicationConstants.cs`
+```c#
+/*...*/namespace BookShelf.Common
+{
+    public static class ApplicationConstants
+    {
+        public const int EntitiesPerPage = 15;
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Services\ImportService.cs>
+    // Lines 150 to 172
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Services\ImportService.cs>
+    // Lines 174 to 197
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Common\ApplicationConstants.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/Common/ApplicationConstants.cs`
+```c#
+/*...*/namespace MoviesApp.Common
+{
+    public static class ApplicationConstants
+    {
+        public const string DefaultImageUrl =
+            "https://img.freepik.com/free-vector/cinema-film-production-realistic-transparent-composition-with-isolated-image-clapper-with-empty-fields-vector-illustration_1284-66163.jpg?semt=ais_incoming&w=740&q=80";
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\09. Entity Framework Core Essentials for ASP.NET\MoviesApp\Models\Movie.cs>
+    File: `Entity Framework Core/09. Entity Framework Core Essentials for ASP.NET/MoviesApp/Models/Movie.cs`
+```c#
+/*...*/using System.ComponentModel.DataAnnotations;
+
+namespace MoviesApp.Models
+{
+    public class Movie
+    {
+        [Key]
+        public int Id { get; set; }
+
+        [Required]
+        [MaxLength(100)]
+        public string Title { get; set; } = null!;
+
+        [Required]
+        [MaxLength(50)]
+        public string Genre { get; set; } = null!;
+
+        public DateTime ReleaseDate { get; set; }
+
+        [Required]
+        [MaxLength(100)]
+        public string Director { get; set; } = null!;
+
+        public int Duration { get; set; }
+
+        [Required]
+        [MaxLength(2000)]
+        public string Description { get; set; } = null!;
+
+        [MaxLength(2048)]
+        public string? ImageUrl { get; set; }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Common\EntityValidation.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/Common/EntityValidation.cs`
+```c#
+/*...*/namespace MoviesApp.Common
+{
+    public static class EntityValidation
+    {
+        public const int MovieIdMinValue = 1;
+        public const int MovieIdMaxValue = int.MaxValue;
+        public const int MovieTitleMaxLength = 100;
+        public const int MovieGenreMinLength = 3;
+        public const int MovieGenreMaxLength = 50;
+        public const string MovieReleaseDateRegexPattern = @"^\d{4}-\d{2}-\d{2}$"; // YYYY-MM-DD format
+        public const int MovieDirectorMinLength = 2;
+        public const int MovieDirectorMaxLength = 100;
+        public const int MovieDurationMinLength = 1;
+        public const int MovieDurationMaxLength = 500;
+        public const int MovieDescriptionMinLength = 10;
+        public const int MovieDescriptionMaxLength = 2000;
+        public const int MovieImageUrlMaxLength = 2048;
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\10. Best Practices and Architecture\.vs\EntityFrameworkCore_EF_Core_Essentials_ASP_NET_Oct2025\VSGitHubCopilot\ContextSpill\7ec688a5513f4611a7bc4219284de182\de2a3150c2d64339af6e2983b38b63bb\searchresult.txt>
+    // Lines 254 to 277
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\MS SQL\01. Databases Introduction\04.MoviesDatabase.sql>
+    // Lines 83 to 117
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\MS SQL\01. Databases Introduction\04.MoviesDatabase.sql>
+    // Lines 117 to 122
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\DTOs\Movie\GetAllMoviesDto.cs>
+    File: `Entity Framework Core/10. Best Practices and Architecture/MoviesApp/DTOs/Movie/GetAllMoviesDto.cs`
+```c#
+/*...*/namespace MoviesApp.DTOs.Movie
+{
+    /* DTO Direction is DB -> User, no validationr required */
+    public class GetAllMoviesDto
+    {
+        public int Id { get; set; }
+
+        public string Title { get; set; } = null!;
+
+        public string Genre { get; set; } = null!;
+
+        public string Director { get; set; } = null!;
+
+        public DateOnly ReleaseDate { get; set; }
+
+        public int Duration { get; set; }
+
+        public string Description { get; set; } = null!;
+
+        public string? ImageUrl { get; set; }
+
+        public bool IsAddedInWatchlist { get; set; }
+    }
+}
+
+```
+</match>
+<match path=C:\Users\georg\Desktop\SoftUni\Entity Framework Core\10. Best Practices and Architecture\MoviesApp\Services\MoviesService.cs>
+    // Lines 10 to 80
+</match>
