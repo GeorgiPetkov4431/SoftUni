@@ -10,3 +10,7 @@ C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp.Services.Core
 C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp.Services.Core.Data\obj\Debug\net8.0\refint\CinemaApp.Services.Core.Data.dll
 C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp.Services.Core.Data\obj\Debug\net8.0\CinemaApp.Services.Core.Data.pdb
 C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp.Services.Core.Data\obj\Debug\net8.0\ref\CinemaApp.Services.Core.Data.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp.Services.Core.Data\bin\Debug\net8.0\CinemaApp.GCommon.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp.Services.Core.Data\bin\Debug\net8.0\CinemaApp.GCommon.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp.Services.Core.Data\obj\Debug\net8.0\CinemaApp.Services.Core.Data.csproj.AssemblyReference.cache
+C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp.Services.Core.Data\obj\Debug\net8.0\CinemaAp.F659AA41.Up2Date

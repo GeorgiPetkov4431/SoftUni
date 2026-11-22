@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "CinemaApp.GCommon/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CinemaApp.GCommon.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CinemaApp.GCommon.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CinemaApp.GCommon/1.0.0": {
+      "type": "project",
+      "path": "../CinemaApp.GCommon/CinemaApp.GCommon.csproj",
+      "msbuildProject": "../CinemaApp.GCommon/CinemaApp.GCommon.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "CinemaApp.GCommon >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\georg\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Advanced\\Workshop\\CinemaApp.GCommon\\CinemaApp.GCommon.csproj": {
+              "projectPath": "C:\\Users\\georg\\Desktop\\SoftUni\\ASP.NET Advanced\\Workshop\\CinemaApp.GCommon\\CinemaApp.GCommon.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

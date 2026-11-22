@@ -284,3 +284,5 @@ C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp\bin\Debug\net
 C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp\bin\Debug\net8.0\CinemaApp.Services.Core.dll
 C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp\bin\Debug\net8.0\CinemaApp.Services.Core.Data.pdb
 C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp\bin\Debug\net8.0\CinemaApp.Services.Core.pdb
+C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp\bin\Debug\net8.0\CinemaApp.Services.Common.dll
+C:\Users\georg\Desktop\SoftUni\ASP.NET Advanced\Workshop\CinemaApp\bin\Debug\net8.0\CinemaApp.Services.Common.pdb

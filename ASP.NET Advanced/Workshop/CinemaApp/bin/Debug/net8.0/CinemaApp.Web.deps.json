@@ -2042,11 +2042,20 @@
           }
         }
       },
+      "CinemaApp.Services.Common/1.0.0": {
+        "runtime": {
+          "CinemaApp.Services.Common.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
       "CinemaApp.Services.Core/1.0.0": {
         "dependencies": {
           "CinemaApp.Data": "1.0.0",
           "CinemaApp.Data.Models": "1.0.0",
           "CinemaApp.GCommon": "1.0.0",
+          "CinemaApp.Services.Common": "1.0.0",
           "CinemaApp.Services.Core.Data": "1.0.0",
           "CinemaApp.Web.ViewModels": "1.0.0"
         },
@@ -2058,6 +2067,9 @@
         }
       },
       "CinemaApp.Services.Core.Data/1.0.0": {
+        "dependencies": {
+          "CinemaApp.GCommon": "1.0.0"
+        },
         "runtime": {
           "CinemaApp.Services.Core.Data.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -3270,6 +3282,11 @@
       "sha512": ""
     },
     "CinemaApp.GCommon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CinemaApp.Services.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
